@@ -1,0 +1,1213 @@
+OrderID,OrderDate,CustomerID,CustomerName,City,Region,ProductID,ProductName,Category,SubCategory,Quantity,UnitPrice,Discount,TotalPrice,SalesChannel,SalesRep,ShippingDate,ShippingMode,PaymentMethod,ReturnFlag
+ORD100198,14-05-2024,C1143,Customer_461,Lucknow,North,P028,Phone Stand,Electronics,Accessories,1,12.61,0,12.61,Online,Sneha Kapoor,15-05-2024,SameDay,Cash,No
+ORD101061,02-02-2024,C1038,Customer_125,Pune,West,P011,Pen Set,Office Supplies,Stationery,5,8.42,0.1,37.89,Offline,Saurabh Sen,04-02-2024,Standard,NetBanking,No
+ORD100249,14-07-2023,C1257,Customer_345,Pune,West,P028,Phone Stand,Electronics,Accessories,5,13.64,0.05,64.79,Online,Karan Mehta,21-07-2023,SameDay,UPI,No
+ORD100903,07-07-2024,C1012,Customer_427,Kolkata,East,P016,Filing Cabinet,Furniture,Storage,4,277.6,0,1110.4,Online,Priya Singh,05-07-2024,SameDay,Credit Card,No
+ORD100097,19-06-2023,C1266,Customer_155,Jaipur,North,P004,Smartphone B,Electronics,Phones,5,406.98,0,2034.9,Offline,,23-06-2023,SameDay,Credit Card,No
+ORD100380,11-12-2023,C1274,Customer_5,Chennai,South,P001,Laptop A,Electronics,Laptops,7,1040.94,0,7286.58,Online,Neha Sharma,18-12-2023,Standard,NetBanking,No
+ORD100391,20-09-2024,C1101,Customer_296,Jaipur,North,P027,Calculator,Office Supplies,Electronics,1,14.95,0,14.95,Offline,Vikram Rao,21-09-2024,SameDay,UPI,No
+ORD100107,08-01-2024,C1028,Customer_4,Kolkata,East,P015,Projector,Electronics,AV,2,688.4,0.05,1307.96,Online,Karan Mehta,17-01-2024,Express,Cash,No
+ORD100557,20-12-2024,C1154,Customer_342,Mumbai,West,P016,Filing Cabinet,Furniture,Storage,6,323.63,0,1941.78,Online,Priya Singh,22-12-2024,SameDay,Credit Card,No
+ORD100407,06-06-2024,C1281,Customer_267,Delhi,North,P015,Projector,Electronics,AV,1,561.03,0.03,544.2,Online,Rita Patel,14-06-2024,Express,UPI,No
+ORD100626,28-12-2024,C1066,Customer_89,Hyderabad,South,P022,Keyboard,Electronics,Accessories,1,38.23,0,38.23,Offline,,02-01-2025,Standard,NetBanking,No
+ORD101188,15-12-2024,C1192,Customer_217,Kolkata,East,P029,Desk Organizer,Office Supplies,Storage,2,16.22,0,32.44,Online,Vikram Rao,23-12-2024,SameDay,NetBanking,No
+ORD100808,20-06-2023,C1052,Customer_279,Chennai,South,P015,Projector,Electronics,AV,1,558.44,0,558.44,Offline,Rita Patel,27-06-2023,Standard,UPI,No
+ORD100613,26-02-2024,C1042,Customer_149,Mumbai,West,P021,Mouse,Electronics,Accessories,1,20.18,0,20.18,Offline,Rita Patel,01-03-2024,SameDay,NetBanking,No
+ORD100057,23-07-2024,C1061,Customer_381,Lucknow,North,P014,Webcam,Electronics,Accessories,1,56.45,0,56.45,Offline,Karan Mehta,28-07-2024,Express,UPI,No
+ORD101119,22-10-2024,C1014,Customer_366,Hyderabad,South,P021,Mouse,Electronics,Accessories,1,17.82,0.1,16.04,Offline,,28-10-2024,Standard,UPI,No
+ORD100942,05-08-2023,C1260,Customer_402,Mumbai,West,P001,Laptop A,Electronics,Laptops,2,1169.34,0.03,2268.52,Offline,,10-08-2023,SameDay,Credit Card,No
+ORD100639,22-04-2023,C1190,Customer_133,Chennai,South,P026,Binder,Office Supplies,Stationery,1,4.43,0,4.43,Online,,25-04-2023,SameDay,Cash,No
+ORD100670,12-07-2024,C1014,Customer_246,Kolkata,East,P001,Laptop A,Electronics,Laptops,7,1157.32,0.05,7696.18,Offline,Priya Singh,18-07-2024,Standard,NetBanking,No
+ORD100317,08-02-2023,C1224,Customer_93,Delhi,North,P029,Desk Organizer,Office Supplies,Storage,3,17.76,0,53.28,Online,,13-02-2023,Standard,Credit Card,No
+ORD100549,20-01-2023,C1034,Customer_307,Pune,West,P022,Keyboard,Electronics,Accessories,1,34.65,0.1,31.18,Online,Rita Patel,22-01-2023,SameDay,NetBanking,Yes
+ORD100686,19-09-2023,C1064,Customer_436,Ahmedabad,West,P008,Printer A,Electronics,Printers,1,251.48,0,251.48,Online,,24-09-2023,Standard,UPI,No
+ORD100255,19-09-2023,C1139,Customer_120,Pune,West,P019,External HDD 1TB,Electronics,Storage,5,85.54,0,427.7,Online,Sneha Kapoor,27-09-2023,Express,Cash,No
+ORD100624,22-08-2024,C1098,Customer_241,Pune,West,P018,Stapler,Office Supplies,Stationery,5,6.47,0.03,31.38,Offline,Priya Singh,26-08-2024,SameDay,UPI,No
+ORD100782,24-02-2024,C1101,Customer_57,Chennai,South,P006,Office Chair,Furniture ,Chairs,1,157.83,0,157.83,Online,Rita Patel,29-02-2024,Express,NetBanking,No
+ORD101090,04-09-2023,C1233,Customer_340,Lucknow,North,P004,Smartphone B,Electronics,Phones,5,450.73,0,2253.65,Offline,Karan Mehta,13-09-2023,Standard,UPI,No
+ORD100019,14-11-2024,C1284,Customer_339,Pune,West,P013,Router,Electronics,Networking,5,98.92,,494.6,Offline,,18-11-2024,Express,UPI,No
+ORD101008,08-01-2023,C1170,Customer_404,Bengaluru,South,P001,Laptop A,Electronics,Laptops,2,1249.86,0,2499.72,Offline,,12-01-2023,SameDay,NetBanking,No
+ORD100210,08-12-2023,C1035,Customer_420,Ahmedabad,West,P030,Laptop Sleeve,Electronics,Accessories,5,19.6,0.05,93.1,Online,,15-12-2023,Standard,Cash,No
+ORD100449,10-11-2023,C1069,Customer_202,Jaipur,North,P017,Whiteboard,Office Supplies,Boards,1,80.07,0.05,76.07,Offline,Priya Singh,14-11-2023,Standard,NetBanking,No
+ORD100669,14-11-2023,C1292,Customer_414,Kolkata,East,P002,Laptop B,Electronics,Laptops,2,831.42,0.03,1612.95,Online,Vikram Rao,15-11-2023,SameDay,Cash,No
+ORD100715,25-04-2023,C1052,Customer_365,Chennai,South,P008,Printer A,Electronics,Printers,3,201.68,0.03,586.89,Offline,Amit Verma,01-05-2023,Standard,Cash,No
+ORD100838,07-11-2023,C1035,Customer_141,Pune,West,P026,Binder,Office Supplies,Stationery,1,3.83,0.03,3.72,Offline,Sneha Kapoor,11-11-2023,Standard,Cash,No
+ORD100502,03-07-2024,C1254,Customer_77,Delhi,North,P015,Projector,electronics,AV,4,667.88,0,2671.52,Online,Priya Singh,09-07-2024,SameDay,UPI,No
+ORD100800,02-12-2024,C1068,Customer_210,Mumbai,West,P007,Office Table,Furniture,Tables,1,286.64,0,286.64,Offline,,06-12-2024,Express,UPI,No
+ORD100509,18-02-2023,C1025,Customer_464,Bengaluru,South,P030,Laptop Sleeve,Electronics ,Accessories,1,18.75,0,18.75,Offline,,18-02-2023,SameDay,Credit Card,No
+ORD100121,04-07-2024,C1192,Customer_79,Kolkata,East,P025,Project Mouse,Electronics,Accessories,3,26.29,0.05,74.93,Online,Rahul Jain,05-07-2024,Standard,Credit Card,No
+ORD101037,01-01-2023,C1256,Customer_329,Mumbai,West,P005,"Monitor 24""",Electronics,Monitors,2,156.03,0,312.06,Online,Lina Das,02-01-2023,Standard,Cash,No
+ORD100190,04-03-2024,C1008,Customer_134,Jaipur,North,P026,Binder,Office Supplies,Stationery,5,3.85,0.03,18.67,Offline,,04-03-2024,Express,Cash,Yes
+ORD100692,10-11-2023,C1036,Customer_185,Hyderabad,South,P009,Desk Lamp,Office Supplies,Lamps,3,36.02,0,108.06,Online,Vikram Rao,16-11-2023,SameDay,Credit Card,No
+ORD100750,11-03-2023,C1107,Customer_435,Jaipur,North,P028,Phone Stand,Electronics,Accessories,5,11.69,0.05,55.53,Online,Rita Patel,18-03-2023,Express,Credit Card,No
+ORD100343,20-01-2024,C1222,Customer_332,Kolkata,East,P001,Laptop A,Electronics,Laptops,3,1154.46,0,3463.38,Online,,26-01-2024,Standard,NetBanking,No
+ORD100232,15-12-2023,C1023,Customer_51,Hyderabad,South,P007,Office Table,Furniture,Tables,4,262.12,0,1048.48,Offline,Karan Mehta,24-12-2023,Standard,Cash,No
+ORD101020,22-12-2024,C1018,Customer_306,Chennai,South,P014,Webcam,Electronics,Accessories,5,47.25,0.05,224.44,Online,Saurabh Sen,28-12-2024,Express,UPI,No
+ORD101006,10-03-2023,C1172,Customer_248,Ahmedabad,West,P025,Project Mouse,Electronics,Accessories,3,24.69,0.03,71.85,Offline,Lina Das,11-03-2023,Express,Cash,No
+ORD100197,22-02-2024,C1169,Customer_290,Lucknow,North,P013,Router,Electronics,Networking,7,103.7,0.03,704.12,Offline,Amit Verma,25-02-2024,SameDay,NetBanking,No
+ORD101165,25-05-2023,C1187,Customer_412,Pune,West,P019,External HDD 1TB,Electronics,Storage,5,84.22,,421.1,Online,,26-05-2023,Express,Credit Card,No
+ORD100180,04-09-2024,C1117,Customer_127,Kolkata,East,P017,Whiteboard,Office Supplies,Boards,5,80.18,0,400.9,Online,,12-09-2024,Express,Cash,No
+ORD100411,13-06-2024,C1128,Customer_461,Lucknow,North,P016,Filing Cabinet,Furniture,Storage,1,312.25,0.1,281.03,Offline,,20-06-2024,SameDay,NetBanking,Yes
+ORD100146,07-07-2024,C1257,Customer_329,Hyderabad,South,P030,Laptop Sleeve,Electronics,Accessories,2,20.57,0.03,39.91,Offline,,08-07-2024,Standard,UPI,No
+ORD100895,24-05-2023,C1050,Customer_458,Chennai,South,P019,External HDD 1TB,Electronics,Storage,1,88.69,0,88.69,Online,Amit Verma,31-05-2023,Express,NetBanking,No
+ORD100288,26-09-2024,C1050,Customer_498,Chennai,South,P024,Water Cooler,Appliances,Kitchen,6,189.08,0,1134.48,Offline,Amit Verma,04-10-2024,Express,UPI,No
+ORD100123,05-02-2024,C1236,Customer_394,Kolkata,East,P024,Water Cooler,Appliances,Kitchen,1,195.85,0.05,186.06,Online,Vikram Rao,09-02-2024,Express,NetBanking,No
+ORD101054,04-08-2024,C1287,Customer_258,Lucknow,North,P021,Mouse,Electronics,Accessories,3,18.49,0.15,47.15,Offline,Saurabh Sen,07-08-2024,SameDay,UPI,No
+ORD100290,14-11-2023,C1268,Customer_451,Hyderabad,South,P016,Filing Cabinet,Furniture,Storage,3,310.1,0.03,902.39,Online,Saurabh Sen,17-11-2023,Standard,UPI,No
+ORD100321,06-08-2023,C1142,Customer_26,Lucknow,North,P021,Mouse,Electronics,Accessories,1,19.25,0,19.25,Offline,,15-08-2023,Standard,Credit Card,No
+ORD100930,20-01-2023,C1043,Customer_31,Jaipur,North,P008,Printer A,Electronics,Printers,5,230.03,0.1,1035.14,Online,Amit Verma,26-01-2023,Standard,UPI,No
+ORD100877,13-06-2024,C1066,Customer_113,Lucknow,North,P019,External HDD 1TB,Electronics,Storage,4,94.13,0.1,338.87,Offline,,21-06-2024,SameDay,Cash,No
+ORD100452,23-11-2023,C1214,Customer_158,Bengaluru,South,P018,Stapler,Office Supplies,Stationery,3,6.33,0.15,16.14,Offline,Lina Das,24-11-2023,Standard,NetBanking,No
+ORD100415,11-02-2024,C1103,Customer_55,Hyderabad,South,P010,Notebook Pack,Office Supplies,Paper,4,13.23,0,52.92,Online,Priya Singh,11-02-2024,Standard,Credit Card,No
+ORD100144,02-08-2024,C1238,Customer_349,Jaipur,North,P010,Notebook Pack,Office Supplies,Paper,3,11.48,0,34.44,Offline,,05-08-2024,SameDay,Credit Card,No
+ORD100173,15-11-2024,C1078,Customer_233,Lucknow,North,P010,Notebook Pack,Office Supplies,Paper,3,12.79,0.03,37.22,Offline,,18-11-2024,Express,UPI,No
+ORD101070,14-02-2023,C1221,Customer_456,Bengaluru,South,P029,Desk Organizer,Office Supplies,Storage,6,16.3,0,97.8,Offline,Priya Singh,23-02-2023,SameDay,UPI,No
+ORD100385,19-09-2024,C1089,Customer_235,Bengaluru,South,P008,Printer A,Electronics,Printers,4,213.72,0,854.88,Online,Saurabh Sen,24-09-2024,Express,Credit Card,No
+ORD101133,20-12-2024,C1021,Customer_97,Hyderabad,South,P001,Laptop A,Electronics,Laptops,6,1134.49,0,6806.94,Offline,Lina Das,27-12-2024,Express,UPI,No
+ORD100824,31-08-2024,C1158,Customer_97,Hyderabad,South,P020,SSD 512GB,Electronics,Storage,1,135.68,0,135.68,Online,Sneha Kapoor,03-09-2024,SameDay,Credit Card,No
+ORD100539,18-03-2023,C1079,Customer_3,Bengaluru,South,P012,Headphones,Electronics,Accessories,1,77.4,0,77.4,Offline,Priya Singh,23-03-2023,Express,Cash,No
+ORD100469,17-09-2023,C1163,Customer_396,Delhi,North,P015,Projector,Electronics,AV,6,708.23,0.05,4036.91,Offline,Amit Verma,25-09-2023,Express,NetBanking,No
+ORD100303,03-06-2024,C1029,Customer_3,Bengaluru,South,P030,Laptop Sleeve,Electronics,Accessories,3,21.38,0.03,62.22,Offline,,04-06-2024,Standard,Cash,No
+ORD100901,12-11-2023,C1027,Customer_360,Chennai,South,P020,SSD 512GB,Electronics,Storage,2,102.05,0,204.1,Offline,,21-11-2023,Standard,Credit Card,No
+ORD100239,07-08-2024,C1154,Customer_106,Bengaluru,South,P014,Webcam,Electronics,Accessories,2,44.14,0,88.28,Online,Vikram Rao,16-08-2024,Standard,UPI,No
+ORD100700,02-08-2023,C1167,Customer_441,Pune,West,P006,Office Chair,Furniture ,Chairs,1,150.12,0,150.12,Offline,Sneha Kapoor,05-08-2023,SameDay,Credit Card,No
+ORD100953,23-11-2024,C1073,Customer_22,Delhi,North,P024,Water Cooler,Appliances,Kitchen,4,199.88,0,799.52,Online,Vikram Rao,02-12-2024,Standard,Cash,No
+ORD100498,14-11-2024,C1061,Customer_45,Kolkata,East,P024,Water Cooler,Appliances,Kitchen,1,194.59,0.1,175.13,Online,Amit Verma,17-11-2024,Standard,NetBanking,No
+ORD100227,02-06-2024,C1105,Customer_413,Ahmedabad,West,P026,Binder,Office Supplies,Stationery,6,3.76,0.1,20.3,Offline,,08-06-2024,SameDay,Cash,No
+ORD100829,28-09-2023,C1198,Customer_123,Ahmedabad,West,P017,Whiteboard,Office Supplies,Boards,5,69.21,0,346.05,Offline,Rita Patel,29-09-2023,Express,UPI,No
+ORD100119,25-05-2023,C1286,Customer_193,Bengaluru,South,P003,Smartphone A,Electronics,Phones,1,599.51,0,599.51,Offline,Vikram Rao,28-05-2023,SameDay,Cash,No
+ORD100749,06-12-2023,C1063,Customer_141,Chennai,South,P015,Projector,Electronics,AV,2,624.33,0,1248.66,Online,,11-12-2023,SameDay,Credit Card,No
+ORD100440,17-09-2023,C1103,Customer_442,Pune,West,P008,Printer A,Electronics,Printers,5,190.29,0.1,856.3,Offline,,24-09-2023,Express,NetBanking,No
+ORD100617,27-11-2023,C1054,Customer_223,Jaipur,North,P019,External HDD 1TB,Electronics,Storage,5,92.48,0,462.4,Offline,Karan Mehta,02-12-2023,Standard,NetBanking,No
+ORD101157,16-11-2024,C1298,Customer_464,Hyderabad,South,P003,Smartphone A,Electronics,Phones,1,724.95,0.03,703.2,Online,,21-11-2024,Standard,UPI,No
+ORD100339,09-10-2024,C1169,Customer_170,Lucknow,North,P008,Printer A,Electronics,Printers,3,207.55,0.05,591.52,Online,,09-10-2024,Express,Cash,No
+ORD100072,04-12-2024,C1149,Customer_261,Pune,West,P018,Stapler,Office Supplies,Stationery,3,6.1,,18.3,Online,Sneha Kapoor,13-12-2024,Standard,Cash,No
+ORD100609,31-03-2024,C1165,Customer_409,Jaipur,North,P002,Laptop B,Electronics,Laptops,2,988.75,0.03,1918.17,Offline,,31-03-2024,SameDay,NetBanking,No
+ORD100548,22-10-2024,C1063,Customer_335,Jaipur,North,P016,Filing Cabinet,Furniture,Storage,3,322.13,0,966.39,Online,Amit Verma,29-10-2024,Standard,UPI,No
+ORD100201,06-06-2024,C1167,Customer_16,Mumbai,West,P024,Water Cooler,Appliances,Kitchen,2,204.12,0.03,395.99,Online,Neha Sharma,09-06-2024,Standard,UPI,No
+ORD100061,05-02-2023,C1115,Customer_398,Mumbai,West,P016,Filing Cabinet,Furniture,Storage,3,326.85,0.05,931.52,Online,Rahul Jain,07-02-2023,Express,Credit Card,No
+ORD100842,28-11-2024,C1064,Customer_325,Bengaluru,South,P005,"Monitor 24""",Electronics,Monitors,2,176.29,0,352.58,Offline,,01-12-2024,SameDay,Cash,No
+ORD100546,03-06-2024,C1212,Customer_90,Lucknow,North,P007,Office Table,Furniture,Tables,3,215.46,0,646.38,Offline,Priya Singh,05-06-2024,SameDay,Cash,No
+ORD100971,14-08-2023,C1212,Customer_11,Pune,West,P009,Desk Lamp,Office Supplies,Lamps,3,31.7,0.03,92.25,Offline,Rahul Jain,14-08-2023,Express,Credit Card,No
+ORD101199,13-05-2023,C1061,Customer_334,Pune,West,P018,Stapler,Office Supplies,Stationery,1,6.38,0.05,6.06,Online,,19-05-2023,SameDay,UPI,No
+ORD100727,20-10-2024,C1197,Customer_478,Hyderabad,South,P014,Webcam,Electronics,Accessories,5,55.32,0,276.6,Offline,Rita Patel,24-10-2024,SameDay,Credit Card,No
+ORD100058,24-10-2024,C1184,Customer_92,Bengaluru,South,P018,Stapler,Office Supplies,Stationery,3,5.35,0.05,15.25,Online,Sneha Kapoor,24-10-2024,Express,UPI,No
+ORD100560,19-01-2023,C1054,Customer_93,Delhi,North,P025,Project Mouse,Electronics,Accessories,7,22.75,0,159.25,Online,,25-01-2023,SameDay,Cash,No
+ORD100400,01-01-2024,C1280,Customer_192,Mumbai,West,P010,Notebook Pack,Office Supplies,Paper,6,13.77,0.1,74.36,Offline,,03-01-2024,Standard,Cash,No
+ORD100998,04-02-2023,C1010,Customer_393,Ahmedabad,West,P027,Calculator,Office Supplies,Electronics,1,16.78,0,16.78,Offline,Priya Singh,05-02-2023,Standard,NetBanking,No
+ORD100147,18-03-2024,C1014,Customer_42,Ahmedabad,West,P006,Office Chair,Furniture,Chairs,7,143.52,0.03,974.5,Online,Rahul Jain,18-03-2024,SameDay,UPI,No
+ORD100983,26-12-2024,C1115,Customer_177,Delhi,North,P023,Coffee Maker,Appliances,Kitchen,4,81.38,0,325.52,Offline,Karan Mehta,01-01-2025,SameDay,Cash,No
+ORD101107,25-03-2023,C1134,Customer_394,Chennai,South,P001,Laptop A,Electronics,Laptops,1,1333.07,0.05,1266.42,Offline,,29-03-2023,Express,NetBanking,No
+ORD101110,09-02-2024,C1297,Customer_159,Jaipur,North,P013,Router,Electronics,Networking,5,102.07,0.05,484.83,Offline,Karan Mehta,18-02-2024,Express,NetBanking,No
+ORD100102,21-10-2024,C1159,Customer_181,Ahmedabad,West,P005,"Monitor 24""",Electronics,Monitors,1,159.42,0.03,154.64,Offline,,21-10-2024,Express,Cash,No
+ORD101072,10-03-2023,C1096,Customer_396,Lucknow,North,P022,Keyboard,Electronics,Accessories,4,31.23,0,124.92,Offline,,16-03-2023,SameDay,UPI,No
+ORD101139,03-04-2024,C1114,Customer_37,Kolkata,East,P009,Desk Lamp,Office Supplies,Lamps,3,39.19,0,117.57,Offline,Vikram Rao,04-04-2024,SameDay,Cash,Yes
+ORD101042,30-09-2023,C1132,Customer_291,Jaipur,North,P021,Mouse,Electronics,Accessories,1,18.66,0.1,16.79,Offline,,06-10-2023,Express,UPI,No
+ORD100269,01-02-2024,C1037,Customer_192,Bengaluru,South,P005,"Monitor 24""",Electronics,Monitors,3,199.13,0.05,567.52,Offline,Amit Verma,04-02-2024,SameDay,NetBanking,No
+ORD100883,24-10-2024,C1001,Customer_49,Chennai,South,P013,Router,Electronics,Networking,4,86.77,0,347.08,Offline,Sneha Kapoor,28-10-2024,Standard,UPI,No
+ORD100085,04-10-2023,C1070,Customer_322,Chennai,South,P020,SSD 512GB,Electronics,Storage,3,136.83,0,410.49,Online,Lina Das,11-10-2023,Standard,NetBanking,No
+ORD100157,20-11-2024,C1250,Customer_363,Hyderabad,South,P011,Pen Set,Office Supplies,Stationery,3,7.89,0,23.67,Online,Neha Sharma,21-11-2024,SameDay,UPI,No
+ORD100921,22-05-2024,C1041,Customer_455,Mumbai,West,P024,Water Cooler,Appliances,Kitchen,2,201.9,0,403.8,Online,Rita Patel,28-05-2024,SameDay,Credit Card,No
+ORD100920,06-10-2024,C1280,Customer_419,Chennai,South,P016,Filing Cabinet,Furniture,Storage,1,301.3,0,301.3,Online,Amit Verma,11-10-2024,Express,NetBanking,No
+ORD100935,13-10-2024,C1006,Customer_64,Chennai,South,P008,Printer A,Electronics,Printers,5,210.67,0,1053.35,Offline,Lina Das,20-10-2024,SameDay,UPI,No
+ORD100537,25-06-2024,C1078,Customer_83,Ahmedabad,West,P015,Projector,Electronics,AV,5,577.86,0,2889.3,Online,,29-06-2024,Standard,NetBanking,No
+ORD101135,16-09-2023,C1113,Customer_365,Pune,West,P027,Calculator,Office Supplies,Electronics,3,16.58,0,49.74,Online,Saurabh Sen,17-09-2023,SameDay,Credit Card,No
+ORD100103,22-01-2024,C1293,Customer_116,Kolkata,East,P004,Smartphone B,Electronics,Phones,6,430.5,0,2583,Online,,22-01-2024,Standard,UPI,No
+ORD100697,21-07-2024,C1275,Customer_154,Mumbai,West,P028,Phone Stand,Electronics,Accessories,2,13.03,0.05,24.76,Offline,,26-07-2024,Express,UPI,No
+ORD100948,01-04-2024,C1061,Customer_215,Bengaluru,South,P014,Webcam,electronics,Accessories,1,43.98,0,43.98,Offline,,04-04-2024,Standard,NetBanking,No
+ORD100528,05-06-2023,C1028,Customer_264,Lucknow,North,P029,Desk Organizer,Office Supplies,Storage,4,18.43,0,73.72,Online,Vikram Rao,14-06-2023,Express,NetBanking,No
+ORD100635,09-12-2024,C1155,Customer_370,Mumbai,West,P002,Laptop B,Electronics,Laptops,3,1012.46,0,3037.38,Online,,18-12-2024,SameDay,UPI,No
+ORD100698,10-11-2024,C1273,Customer_198,Ahmedabad,West,P011,Pen Set,Office Supplies,Stationery,3,7.86,0.1,21.22,Online,,11-11-2024,Express,Cash,No
+ORD100602,16-08-2023,C1220,Customer_145,Chennai,South,P017,Whiteboard,Office Supplies,Boards,1,77.29,0.1,69.56,Online,Karan Mehta,16-08-2023,Standard,Cash,No
+ORD100428,09-08-2023,C1025,Customer_281,Ahmedabad,West,P015,Projector,Electronics,AV,1,677.75,0.03,657.42,Online,Sneha Kapoor,15-08-2023,Express,NetBanking,No
+ORD100664,22-01-2023,C1155,Customer_414,Kolkata,East,P015,Projector,Electronics,AV,4,683.68,0,2734.72,Offline,Amit Verma,29-01-2023,Standard,UPI,No
+ORD101159,14-07-2024,C1227,Customer_50,Lucknow,North,P020,SSD 512GB,Electronics,Storage,4,126.9,0,507.6,Offline,,21-07-2024,SameDay,NetBanking,No
+ORD101048,17-09-2023,C1034,Customer_139,Mumbai,West,P016,Filing Cabinet,Furniture,Storage,1,276.8,0.05,262.96,Online,,17-09-2023,SameDay,Credit Card,No
+ORD101059,03-04-2024,C1206,Customer_29,Hyderabad,South,P005,"Monitor 24""",electronics,Monitors,3,201.89,0,605.67,Offline,Rita Patel,04-04-2024,SameDay,Cash,No
+ORD101167,03-03-2024,C1121,Customer_399,Hyderabad,South,P022,Keyboard,Electronics,Accessories,2,30.54,0.05,58.03,Online,Amit Verma,09-03-2024,Standard,NetBanking,No
+ORD101077,31-03-2023,C1194,Customer_412,Kolkata,East,P011,Pen Set,Office Supplies ,Stationery,5,8.23,0,41.15,Online,,31-03-2023,Express,UPI,No
+ORD100450,01-11-2023,C1083,Customer_368,Mumbai,West,P014,Webcam,Electronics,Accessories,6,49.46,0.03,287.86,Online,Rita Patel,09-11-2023,SameDay,NetBanking,No
+ORD100357,18-08-2023,C1112,Customer_390,Bengaluru,South,P017,Whiteboard,Office Supplies,Boards,4,71.95,0,287.8,Online,Lina Das,27-08-2023,SameDay,NetBanking,No
+ORD101147,09-04-2023,C1279,Customer_38,Mumbai,West,P008,Printer A,Electronics,Printers,6,195.82,,1174.92,Online,,18-04-2023,SameDay,Credit Card,No
+ORD100143,18-04-2024,C1044,Customer_34,Jaipur,North,P005,"Monitor 24""",Electronics,Monitors,1,181.91,0,181.91,Online,Karan Mehta,26-04-2024,Express,Cash,No
+ORD100940,13-06-2023,C1212,Customer_37,Hyderabad,South,P002,Laptop B,Electronics,Laptops,1,854.82,0,854.82,Online,Priya Singh,15-06-2023,Standard,Credit Card,No
+ORD100464,25-09-2023,C1173,Customer_193,Hyderabad,South,P017,Whiteboard,Office Supplies,Boards,2,70.49,0.05,133.93,Online,Sneha Kapoor,28-09-2023,Express,UPI,No
+ORD100003,06-05-2024,C1148,Customer_41,Lucknow,North,P030,Laptop Sleeve,Electronics,Accessories,1,24.89,0.15,21.16,Offline,,06-05-2024,Express,NetBanking,No
+ORD100648,20-06-2024,C1198,Customer_120,Jaipur,North,P005,"Monitor 24""",Electronics,Monitors,2,166.65,0,333.3,Offline,,25-06-2024,SameDay,UPI,No
+ORD100905,18-11-2023,C1243,Customer_246,Pune,West,P022,Keyboard,Electronics,Accessories,1,34.07,0,34.07,Online,,27-11-2023,Standard,NetBanking,No
+ORD100095,03-08-2023,C1276,Customer_129,Kolkata,East,P019,External HDD 1TB,Electronics,Storage,4,86.17,0.1,310.21,Offline,,11-08-2023,SameDay,Credit Card,No
+ORD100746,10-08-2023,C1160,Customer_489,Delhi,North,P008,Printer A,Electronics,Printers,3,201.85,0.05,575.27,Offline,Priya Singh,14-08-2023,Express,NetBanking,No
+ORD100311,17-04-2023,C1102,Customer_399,Pune,West,P020,SSD 512GB,Electronics,Storage,4,128.51,0,514.04,Online,Saurabh Sen,17-04-2023,Standard,UPI,No
+ORD100235,29-01-2023,C1227,Customer_5,Pune,West,P023,Coffee Maker,Appliances,Kitchen,2,97.21,0,194.42,Online,,06-02-2023,Standard,Cash,No
+ORD100600,15-05-2024,C1202,Customer_344,Mumbai,West,P004,Smartphone B,Electronics,Phones,4,400.07,0,1600.28,Offline,,23-05-2024,Express,Credit Card,Yes
+ORD100465,29-04-2024,C1121,Customer_191,Bengaluru,South,P021,Mouse,Electronics,Accessories,4,20.81,0,83.24,Offline,Rahul Jain,06-05-2024,Express,UPI,No
+ORD101198,07-04-2024,C1144,Customer_137,Hyderabad,South,P019,External HDD 1TB,Electronics ,Storage,2,82.1,0,164.2,Online,Lina Das,16-04-2024,SameDay,NetBanking,No
+ORD100287,23-05-2023,C1121,Customer_26,Chennai,South,P016,Filing Cabinet,Furniture,Storage,1,273.01,0,273.01,Offline,Rahul Jain,25-05-2023,SameDay,Cash,Yes
+ORD100871,16-02-2023,C1053,Customer_166,Jaipur,North,P023,Coffee Maker,Appliances ,Kitchen,5,89.92,0.05,427.12,Online,,17-02-2023,SameDay,Credit Card,Yes
+ORD100150,17-05-2023,C1287,Customer_55,Ahmedabad,West,P015,Projector,Electronics,AV,3,568.15,0,1704.45,Online,Karan Mehta,20-05-2023,Express,UPI,No
+ORD100803,25-04-2024,C1092,Customer_236,Ahmedabad,West,P011,Pen Set,Office Supplies,Stationery,1,8.13,0,8.13,Offline,Rahul Jain,02-05-2024,SameDay,Cash,No
+ORD100620,07-11-2023,C1097,Customer_45,Kolkata,East,P027,Calculator,Office Supplies,Electronics,1,13.71,,13.71,Online,Sneha Kapoor,09-11-2023,Standard,NetBanking,No
+ORD100429,14-05-2024,C1100,Customer_288,Pune,West,P013,Router,Electronics,Networking,3,96.73,0.03,281.48,Offline,,15-05-2024,Standard,Cash,No
+ORD100073,17-10-2024,C1069,Customer_443,Jaipur,North,P023,Coffee Maker,Appliances,Kitchen,1,80.78,0,80.78,Offline,Sneha Kapoor,21-10-2024,Standard,Cash,No
+ORD100350,30-03-2024,C1128,Customer_51,Ahmedabad,West,P006,Office Chair,Furniture,Chairs,1,152.1,0,152.1,Online,,07-04-2024,SameDay,Cash,No
+ORD100885,21-01-2023,C1004,Customer_305,Mumbai,West,P015,Projector,Electronics,AV,4,709.56,0,2838.24,Offline,Neha Sharma,24-01-2023,Standard,UPI,No
+ORD100849,01-03-2023,C1212,Customer_345,Pune,West,P026,Binder,Office Supplies,Stationery,6,3.54,0.03,20.6,Offline,Amit Verma,09-03-2023,Standard,UPI,No
+ORD100986,29-09-2024,C1118,Customer_111,Ahmedabad,West,P025,Project Mouse,electronics,Accessories,7,25.15,0,176.05,Offline,,01-10-2024,SameDay,Cash,No
+ORD100137,26-01-2023,C1029,Customer_39,Bengaluru,South,P020,SSD 512GB,Electronics,Storage,1,133.26,0.03,129.26,Offline,Karan Mehta,29-01-2023,SameDay,UPI,No
+ORD100618,11-11-2024,C1249,Customer_156,Pune,West,P018,Stapler,Office Supplies,Stationery,6,5.45,,32.7,Online,Amit Verma,20-11-2024,Express,Cash,No
+ORD101154,14-08-2023,C1197,Customer_291,Lucknow,North,P007,Office Table,Furniture,Tables,2,269.21,0.03,522.27,Online,,15-08-2023,SameDay,Cash,No
+ORD100330,23-05-2023,C1176,Customer_472,Ahmedabad,West,P005,"Monitor 24""",Electronics,Monitors,2,190.56,0,381.12,Offline,,23-05-2023,Express,NetBanking,No
+ORD100091,30-03-2024,C1276,Customer_215,Mumbai,West,P005,"Monitor 24""",Electronics,Monitors,4,204.67,0,818.68,Offline,Rita Patel,08-04-2024,Standard,NetBanking,No
+ORD101018,27-09-2023,C1132,Customer_102,Bengaluru,South,P012,Headphones,Electronics,Accessories,6,67.86,0,407.16,Offline,Saurabh Sen,29-09-2023,SameDay,Credit Card,No
+ORD100164,30-03-2023,C1245,Customer_110,Bengaluru,South,P012,Headphones,Electronics,Accessories,3,79.12,0.05,225.49,Offline,Amit Verma,01-04-2023,SameDay,Credit Card,No
+ORD100566,03-05-2023,C1062,Customer_129,Pune,West,P026,Binder,Office Supplies,Stationery,4,4.44,0,17.76,Offline,Rita Patel,04-05-2023,Express,Cash,No
+ORD100777,08-05-2024,C1173,Customer_468,Hyderabad,South,P008,Printer A,Electronics,Printers,1,212.45,0,212.45,Online,Saurabh Sen,09-05-2024,Standard,Cash,No
+ORD100523,15-09-2023,C1296,Customer_114,Kolkata,East,P017,Whiteboard,Office Supplies,Boards,2,59.75,0,119.5,Offline,,15-09-2023,Standard,Cash,No
+ORD101141,12-09-2023,C1065,Customer_266,Ahmedabad,West,P018,Stapler,Office Supplies,Stationery,1,6.23,0,6.23,Offline,Priya Singh,15-09-2023,Express,NetBanking,No
+ORD100168,28-06-2023,C1290,Customer_309,Mumbai,West,P029,Desk Organizer,office supplies,Storage,1,17.11,0.05,16.25,Offline,,28-06-2023,SameDay,UPI,No
+ORD100323,01-01-2023,C1155,Customer_456,Mumbai,West,P004,Smartphone B,Electronics,Phones,4,384.18,0,1536.72,Online,Neha Sharma,05-01-2023,SameDay,Credit Card,No
+ORD100115,09-10-2023,C1021,Customer_231,Chennai,South,P002,Laptop B,Electronics,Laptops,6,916.05,0.05,5221.48,Online,,09-10-2023,Standard,Cash,No
+ORD100687,20-11-2024,C1260,Customer_192,Jaipur,North,P017,Whiteboard,Office Supplies,Boards,4,61.45,0.1,221.22,Online,,23-11-2024,Express,Credit Card,No
+ORD100937,26-04-2023,C1141,Customer_133,Pune,West,P028,Phone Stand,Electronics,Accessories,2,12.63,0.05,24,Online,Lina Das,05-05-2023,Express,UPI,No
+ORD101151,01-07-2023,C1166,Customer_341,Kolkata,East,P027,Calculator,Office Supplies,Electronics,2,14.02,0.15,23.83,Offline,Neha Sharma,02-07-2023,Express,Cash,No
+ORD101145,13-02-2024,C1280,Customer_494,Hyderabad,South,P006,Office Chair,Furniture,Chairs,2,127.89,0,255.78,Offline,Amit Verma,13-02-2024,Standard,NetBanking,No
+ORD100529,28-04-2023,C1034,Customer_288,Mumbai,West,P030,Laptop Sleeve,Electronics,Accessories,4,23.36,0,93.44,Online,Neha Sharma,05-05-2023,SameDay,Credit Card,No
+ORD100027,20-01-2024,C1038,Customer_484,Hyderabad,South,P009,Desk Lamp,Office Supplies ,Lamps,2,32.14,0.05,61.07,Online,,28-01-2024,Standard,Cash,No
+ORD100471,16-06-2024,C1025,Customer_55,Ahmedabad,West,P023,Coffee Maker,Appliances ,Kitchen,2,96.08,0.15,163.34,Online,Rahul Jain,25-06-2024,SameDay,UPI,No
+ORD101041,22-01-2023,C1049,Customer_169,Delhi,North,P027,Calculator,Office Supplies,Electronics,5,13.63,0.03,66.11,Online,Karan Mehta,22-01-2023,Express,NetBanking,No
+ORD100499,04-02-2023,C1232,Customer_473,Pune,West,P028,Phone Stand,Electronics,Accessories,5,13.19,0.03,63.97,Online,,10-02-2023,Standard,UPI,No
+ORD100881,04-03-2023,C1025,Customer_331,Pune,West,P021,Mouse,Electronics,Accessories,1,18.35,0.05,17.43,Online,Vikram Rao,08-03-2023,Standard,UPI,No
+ORD101120,15-05-2023,C1208,Customer_74,Bengaluru,South,P020,SSD 512GB,Electronics,Storage,4,112.36,0.05,426.97,Offline,Sneha Kapoor,20-05-2023,Express,UPI,No
+ORD101194,06-02-2024,C1202,Customer_356,Hyderabad,South,P023,Coffee Maker,Appliances,Kitchen,2,80.05,0.03,155.3,Offline,Karan Mehta,14-02-2024,Express,Credit Card,No
+ORD100421,22-04-2023,C1279,Customer_110,Lucknow,North,P012,Headphones,Electronics,Accessories,3,81.39,0,244.17,Offline,,01-05-2023,SameDay,Cash,No
+ORD100763,04-06-2023,C1275,Customer_262,Chennai,South,P017,Whiteboard,Office Supplies,Boards,2,73.73,0.1,132.71,Offline,Rahul Jain,08-06-2023,SameDay,UPI,No
+ORD100131,03-06-2024,C1123,Customer_376,Jaipur,North,P001,Laptop A,Electronics,Laptops,4,1084.82,0,4339.28,Online,,05-06-2024,Express,UPI,No
+ORD100985,06-02-2023,C1300,Customer_331,Delhi,North,P021,Mouse,Electronics,Accessories,1,21.15,0,21.15,Online,Priya Singh,11-02-2023,Express,NetBanking,No
+ORD100581,26-06-2023,C1248,Customer_287,Ahmedabad,West,P006,Office Chair,Furniture,Chairs,6,144.48,0.03,840.87,Online,Neha Sharma,26-06-2023,Standard,NetBanking,Yes
+ORD100845,08-11-2024,C1090,Customer_284,Hyderabad,South,P015,Projector,Electronics,AV,4,727.2,0,2908.8,Offline,,08-11-2024,SameDay,UPI,No
+ORD100522,29-03-2024,C1210,Customer_439,Chennai,South,P025,Project Mouse,Electronics,Accessories,5,22.15,0,110.75,Online,,05-04-2024,SameDay,NetBanking,No
+ORD100913,21-10-2023,C1193,Customer_69,Delhi,North,P002,Laptop B,Electronics,Laptops,1,891.81,0,891.81,Offline,,25-10-2023,SameDay,Credit Card,No
+ORD100678,20-01-2023,C1027,Customer_217,Chennai,South,P010,Notebook Pack,Office Supplies,Paper,1,11.27,0.03,10.93,Offline,Amit Verma,23-01-2023,SameDay,NetBanking,No
+ORD100376,14-10-2024,C1046,Customer_282,Chennai,South,P006,Office Chair,Furniture,Chairs,1,144.04,0,144.04,Offline,Karan Mehta,22-10-2024,Express,NetBanking,No
+ORD100563,06-11-2024,C1053,Customer_203,Pune,West,P018,Stapler,Office Supplies,Stationery,1,6.36,0,6.36,Online,,07-11-2024,Express,UPI,No
+ORD100586,11-04-2023,C1162,Customer_280,Chennai,South,P004,Smartphone B,Electronics,Phones,2,419.82,0.05,797.66,Offline,Neha Sharma,13-04-2023,SameDay,Credit Card,No
+ORD100668,22-07-2024,C1264,Customer_389,Mumbai,West,P022,Keyboard,Electronics,Accessories,3,38.97,0,116.91,Offline,Neha Sharma,22-07-2024,Express,UPI,No
+ORD100995,20-06-2024,C1086,Customer_464,Chennai,South,P004,Smartphone B,Electronics,Phones,2,397.2,0.1,714.96,Online,,25-06-2024,Standard,UPI,No
+ORD101189,28-09-2023,C1188,Customer_239,Mumbai,West,P023,Coffee Maker,Appliances,Kitchen,2,77.37,0,154.74,Offline,Vikram Rao,30-09-2023,Express,Credit Card,Yes
+ORD100243,07-05-2024,C1300,Customer_325,Ahmedabad,West,P021,Mouse,Electronics,Accessories,1,17.72,0,17.72,Online,Vikram Rao,15-05-2024,Standard,NetBanking,No
+ORD100963,16-02-2024,C1217,Customer_60,Hyderabad,South,P021,Mouse,Electronics,Accessories,1,19.49,0,19.49,Offline,Vikram Rao,25-02-2024,Standard,UPI,No
+ORD100591,20-09-2023,C1026,Customer_329,Bengaluru,South,P030,Laptop Sleeve,electronics,Accessories,4,19.53,0.1,70.31,Offline,Saurabh Sen,24-09-2023,Express,UPI,No
+ORD101078,07-04-2023,C1043,Customer_334,Delhi,North,P014,Webcam,Electronics,Accessories,1,45.45,0,45.45,Offline,Karan Mehta,14-04-2023,Standard,Cash,No
+ORD101192,26-05-2023,C1144,Customer_166,Lucknow,North,P027,Calculator,Office Supplies,Electronics,1,16.55,0.05,15.72,Online,,01-06-2023,Express,Cash,No
+ORD100956,02-02-2023,C1104,Customer_145,Bengaluru,South,P027,Calculator,Office Supplies ,Electronics,4,13.42,0.03,52.07,Online,Lina Das,08-02-2023,SameDay,NetBanking,Yes
+ORD100355,06-11-2024,C1148,Customer_69,Ahmedabad,West,P019,External HDD 1TB,Electronics,Storage,2,77.14,0,154.28,Online,,14-11-2024,Express,Cash,No
+ORD100293,07-06-2024,C1113,Customer_332,Chennai,South,P006,Office Chair,Furniture,Chairs,5,134.68,0,673.4,Online,Vikram Rao,13-06-2024,Standard,NetBanking,No
+ORD100869,28-01-2024,C1240,Customer_49,Pune,West,P015,Projector,electronics,AV,4,670.19,0.03,2600.34,Online,,28-01-2024,SameDay,Credit Card,No
+ORD100506,26-07-2024,C1097,Customer_72,Pune,West,P018,Stapler,Office Supplies,Stationery,1,5.95,0,5.95,Online,Vikram Rao,04-08-2024,Standard,UPI,No
+ORD100514,17-06-2023,C1019,Customer_306,Jaipur,North,P023,Coffee Maker,Appliances,Kitchen,2,87.89,0.1,158.2,Online,Sneha Kapoor,21-06-2023,Express,Cash,No
+ORD101177,10-12-2024,C1195,Customer_446,Jaipur,North,P028,Phone Stand,Electronics,Accessories,5,13.63,0.05,64.74,Online,Rahul Jain,12-12-2024,Express,Cash,No
+ORD100377,20-03-2023,C1294,Customer_3,Lucknow,North,P010,Notebook Pack,Office Supplies,Paper,3,13.67,0.1,36.91,Offline,Karan Mehta,23-03-2023,Express,NetBanking,No
+ORD100636,07-02-2024,C1278,Customer_320,Hyderabad,South,P024,Water Cooler,Appliances,Kitchen,2,196.49,0.1,353.68,Online,,16-02-2024,SameDay,NetBanking,No
+ORD100416,26-11-2024,C1006,Customer_477,Mumbai,West,P016,Filing Cabinet,Furniture,Storage,1,310.07,0,310.07,Offline,,02-12-2024,SameDay,UPI,Yes
+ORD100760,12-10-2024,C1060,Customer_93,Lucknow,North,P023,Coffee Maker,Appliances,Kitchen,2,101.59,,203.18,Offline,Priya Singh,16-10-2024,SameDay,Credit Card,No
+ORD100193,24-02-2023,C1233,Customer_192,Delhi,North,P002,Laptop B,Electronics,Laptops,2,1077.14,0,2154.28,Online,,23-02-2023,Standard,NetBanking,No
+ORD100065,19-03-2024,C1206,Customer_483,Bengaluru,South,P005,"Monitor 24""",Electronics,Monitors,5,170.64,0,853.2,Offline,Lina Das,23-03-2024,SameDay,UPI,No
+ORD100675,12-04-2024,C1052,Customer_7,Ahmedabad,West,P015,Projector,Electronics,AV,2,634.93,0,1269.86,Online,Karan Mehta,14-04-2024,SameDay,Credit Card,No
+ORD100614,11-07-2024,C1024,Customer_283,Jaipur,North,P015,Projector,Electronics,AV,2,567.37,0.05,1078,Offline,Rahul Jain,12-07-2024,SameDay,UPI,No
+ORD100216,10-03-2023,C1084,Customer_477,Jaipur,North,P016,Filing Cabinet,Furniture,Storage,2,298.54,0,597.08,Offline,Priya Singh,12-03-2023,SameDay,Credit Card,Yes
+ORD100080,05-11-2024,C1220,Customer_75,Delhi,North,P021,Mouse,Electronics,Accessories,3,20.86,0,62.58,Offline,Rahul Jain,09-11-2024,Standard,Credit Card,No
+ORD100266,15-08-2023,C1090,Customer_122,Lucknow,North,P022,Keyboard,Electronics,Accessories,2,35.99,0,71.98,Online,,15-08-2023,Standard,Cash,No
+ORD101166,25-07-2023,C1230,Customer_471,Pune,West,P017,Whiteboard,Office Supplies,Boards,2,62.21,0.05,118.2,Offline,,31-07-2023,Express,UPI,No
+ORD100650,29-09-2023,C1257,Customer_460,Chennai,South,P026,Binder,Office Supplies,Stationery,3,3.49,0.05,9.95,Online,,30-09-2023,Standard,Credit Card,No
+ORD100902,19-03-2024,C1003,Customer_413,Lucknow,North,P007,Office Table,Furniture,Tables,2,283.23,0.03,549.47,Offline,Rahul Jain,24-03-2024,SameDay,NetBanking,No
+ORD101181,20-07-2023,C1159,Customer_351,Lucknow,North,P010,Notebook Pack,Office Supplies,Paper,5,10.22,0.1,45.99,Offline,,26-07-2023,Express,Credit Card,No
+ORD101195,08-05-2024,C1026,Customer_330,Delhi,North,P005,"Monitor 24""",Electronics,Monitors,3,159.72,0.03,464.79,Online,Rita Patel,11-05-2024,Express,NetBanking,No
+ORD100083,24-08-2024,C1183,Customer_295,Pune,West,P010,Notebook Pack,Office Supplies,Paper,2,11.43,0,22.86,Offline,Rita Patel,02-09-2024,Standard,Cash,No
+ORD100929,19-07-2023,C1072,Customer_19,Ahmedabad,West,P014,Webcam,Electronics,Accessories,1,56.95,0,56.95,Offline,Vikram Rao,27-07-2023,Standard,NetBanking,No
+ORD101150,08-08-2024,C1205,Customer_65,Mumbai,West,P029,Desk Organizer,Office Supplies,Storage,1,15.48,0,15.48,Offline,,10-08-2024,Standard,Cash,No
+ORD100665,10-01-2024,C1056,Customer_446,Jaipur,North,P023,Coffee Maker,Appliances,Kitchen,5,91.94,0.1,413.73,Offline,Amit Verma,11-01-2024,SameDay,NetBanking,Yes
+ORD100437,11-09-2023,C1177,Customer_351,Jaipur,North,P007,Office Table,Furniture,Tables,4,256.49,0.1,923.36,Online,Amit Verma,13-09-2023,SameDay,UPI,No
+ORD100984,29-11-2024,C1287,Customer_278,Kolkata,East,P021,Mouse,Electronics,Accessories,3,19.23,,57.69,Offline,Vikram Rao,29-11-2024,Express,UPI,No
+ORD100004,04-04-2024,C1036,Customer_312,Delhi,North,P028,Phone Stand,Electronics,Accessories,1,12.4,0,12.4,Offline,Vikram Rao,13-04-2024,Express,NetBanking,No
+ORD100941,20-12-2024,C1150,Customer_319,Chennai,South,P021,Mouse,Electronics,Accessories,6,17.68,0.05,100.78,Online,Amit Verma,27-12-2024,Express,UPI,No
+ORD100955,20-08-2024,C1105,Customer_283,Bengaluru,South,P015,Projector,Electronics,AV,2,644.06,0.15,1094.9,Offline,,28-08-2024,SameDay,Credit Card,No
+ORD100587,30-10-2023,C1017,Customer_431,Kolkata,East,P014,Webcam,Electronics,Accessories,3,44.16,0.05,125.86,Offline,,07-11-2023,Standard,UPI,No
+ORD101035,13-08-2024,C1189,Customer_12,Delhi,North,P020,SSD 512GB,Electronics,Storage,6,110.96,0,665.76,Offline,Amit Verma,20-08-2024,Standard,NetBanking,No
+ORD100304,10-01-2024,C1244,Customer_197,Bengaluru,South,P015,Projector,Electronics,AV,1,633.04,0,633.04,Online,Rita Patel,15-01-2024,Standard,NetBanking,No
+ORD100126,04-11-2023,C1191,Customer_115,Jaipur,North,P030,Laptop Sleeve,Electronics,Accessories,3,22.31,0.1,60.24,Offline,,10-11-2023,Standard,Cash,No
+ORD101178,01-03-2024,C1008,Customer_201,Hyderabad,South,P021,Mouse,Electronics,Accessories,1,20.47,0,20.47,Online,Neha Sharma,06-03-2024,SameDay,NetBanking,No
+ORD100139,19-03-2023,C1187,Customer_204,Mumbai,West,P013,Router,Electronics,Networking,4,93.93,0,375.72,Online,,26-03-2023,Express,UPI,No
+ORD100001,06-09-2024,C1142,Customer_80,Kolkata,East,P020,SSD 512GB,Electronics,Storage,1,118.05,0,118.05,Offline,Sneha Kapoor,10-09-2024,Express,Credit Card,No
+ORD100081,25-09-2023,C1073,Customer_119,Ahmedabad,West,P008,Printer A,Electronics,Printers,6,212.48,0.1,1147.39,Online,Rahul Jain,26-09-2023,SameDay,Cash,No
+ORD100719,20-12-2023,C1020,Customer_267,Mumbai,West,P005,"Monitor 24""",Electronics,Monitors,5,175.25,0.03,849.96,Online,,20-12-2023,Express,UPI,No
+ORD100873,08-05-2024,C1235,Customer_62,Delhi,North,P029,Desk Organizer,Office Supplies,Storage,1,17.42,0,17.42,Online,Vikram Rao,10-05-2024,Express,Cash,No
+ORD100263,05-10-2023,C1195,Customer_401,Bengaluru,South,P003,Smartphone A,Electronics,Phones,4,735.26,0,2941.04,Offline,Sneha Kapoor,05-10-2023,SameDay,NetBanking,No
+ORD101098,21-06-2024,C1167,Customer_6,Kolkata,East,P027,Calculator,Office Supplies,Electronics,2,12.87,0,25.74,Offline,Rahul Jain,24-06-2024,Standard,NetBanking,No
+ORD100349,03-11-2024,C1099,Customer_59,Hyderabad,South,P003,Smartphone A,Electronics,Phones,1,594.76,0,594.76,Online,Neha Sharma,05-11-2024,SameDay,NetBanking,No
+ORD100716,04-09-2023,C1068,Customer_171,Ahmedabad,West,P018,Stapler,Office Supplies,Stationery,2,5.54,0,11.08,Online,Vikram Rao,11-09-2023,SameDay,UPI,No
+ORD100870,08-09-2023,C1201,Customer_153,Chennai,South,P027,Calculator,Office Supplies,Electronics,1,16.97,0.03,16.46,Offline,Karan Mehta,12-09-2023,Express,Credit Card,No
+ORD100162,17-08-2023,C1147,Customer_361,Chennai,South,P018,Stapler,Office Supplies,Stationery,1,5.46,0,5.46,Offline,Sneha Kapoor,21-08-2023,Express,UPI,No
+ORD100051,13-03-2024,C1174,Customer_7,Ahmedabad,West,P023,Coffee Maker,Appliances,Kitchen,2,100.96,0,201.92,Online,,13-03-2024,Standard,UPI,No
+ORD100031,17-03-2024,C1035,Customer_496,Jaipur,North,P016,Filing Cabinet,Furniture,Storage,2,341.62,0,683.24,Offline,Vikram Rao,17-03-2024,Standard,NetBanking,Yes
+ORD101108,06-06-2024,C1275,Customer_379,Lucknow,North,P026,Binder,Office Supplies,Stationery,5,3.73,0.05,17.72,Offline,,10-06-2024,Express,NetBanking,No
+ORD100175,14-05-2023,C1266,Customer_227,Hyderabad,South,P015,Projector,Electronics,AV,3,630.67,0.1,1702.81,Online,,23-05-2023,Standard,NetBanking,No
+ORD100169,22-04-2024,C1139,Customer_99,Hyderabad,South,P004,Smartphone B,Electronics,Phones,4,469.63,0,1878.52,Offline,Rita Patel,22-04-2024,SameDay,Cash,No
+ORD100632,01-04-2023,C1087,Customer_44,Kolkata,East,P005,"Monitor 24""",Electronics,Monitors,5,175.44,0.1,789.48,Offline,Neha Sharma,10-04-2023,Standard,NetBanking,No
+ORD100526,13-03-2024,C1232,Customer_238,Delhi,North,P008,Printer A,Electronics ,Printers,2,243.22,0,486.44,Online,Rita Patel,21-03-2024,Standard,Cash,No
+ORD100238,31-10-2024,C1196,Customer_180,Bengaluru,South,P012,Headphones,Electronics,Accessories,4,82.94,0.03,321.81,Offline,Lina Das,31-10-2024,Standard,Credit Card,No
+ORD101083,10-02-2023,C1243,Customer_238,Lucknow,North,P013,Router,Electronics,Networking,1,83.05,0,83.05,Online,Rahul Jain,10-02-2023,Express,NetBanking,No
+ORD100779,25-03-2023,C1235,Customer_169,Lucknow,North,P010,Notebook Pack,office supplies,Paper,4,13.7,0.1,49.32,Online,,01-04-2023,SameDay,Cash,No
+ORD100812,20-05-2023,C1001,Customer_442,Delhi,North,P027,Calculator,Office Supplies,Electronics,1,16.01,0.03,15.53,Offline,,27-05-2023,Express,UPI,No
+ORD100649,04-07-2024,C1292,Customer_323,Lucknow,North,P029,Desk Organizer,Office Supplies,Storage,4,16.49,0,65.96,Online,,11-07-2024,SameDay,UPI,No
+ORD100468,08-08-2023,C1044,Customer_171,Mumbai,West,P005,"Monitor 24""",Electronics,Monitors,1,163.91,0.1,147.52,Offline,Neha Sharma,12-08-2023,SameDay,Credit Card,Yes
+ORD100221,07-06-2024,C1196,Customer_217,Kolkata,East,P005,"Monitor 24""",Electronics,Monitors,1,172.49,0.1,155.24,Offline,Priya Singh,07-06-2024,SameDay,NetBanking,No
+ORD100099,18-10-2024,C1258,Customer_310,Bengaluru,South,P020,SSD 512GB,Electronics,Storage,7,136.1,0.05,905.06,Offline,Lina Das,23-10-2024,SameDay,UPI,No
+ORD100774,28-06-2023,C1217,Customer_347,Delhi,North,P024,Water Cooler,Appliances,Kitchen,5,188.98,0.03,916.55,Online,Lina Das,04-07-2023,SameDay,UPI,No
+ORD100835,01-04-2023,C1043,Customer_93,Pune,West,P028,Phone Stand,Electronics,Accessories,5,13.55,0.03,65.72,Offline,,07-04-2023,Express,Cash,No
+ORD100314,29-04-2023,C1160,Customer_219,Jaipur,North,P009,Desk Lamp,Office Supplies,Lamps,1,32.11,0,32.11,Offline,Vikram Rao,29-04-2023,Standard,NetBanking,No
+ORD100805,21-04-2023,C1269,Customer_71,Ahmedabad,West,P006,Office Chair,Furniture,Chairs,3,168.38,0,505.14,Online,Priya Singh,29-04-2023,Express,NetBanking,No
+ORD100132,28-10-2024,C1237,Customer_357,Ahmedabad,West,P022,Keyboard,Electronics,Accessories,1,36.76,0,36.76,Offline,Rahul Jain,30-10-2024,SameDay,UPI,No
+ORD100324,27-12-2023,C1186,Customer_367,Jaipur,North,P017,Whiteboard,Office Supplies,Boards,4,61.74,0.15,209.92,Offline,Karan Mehta,01-01-2024,Standard,Cash,No
+ORD100007,21-01-2023,C1252,Customer_47,Lucknow,North,P009,Desk Lamp,Office Supplies,Lamps,1,34.48,0.1,31.03,Offline,,22-01-2023,SameDay,Cash,No
+ORD100206,20-07-2023,C1153,Customer_248,Pune,West,P017,Whiteboard,Office Supplies,Boards,5,62.43,0.15,265.33,Online,Rahul Jain,29-07-2023,Express,Cash,No
+ORD101153,26-07-2024,C1211,Customer_27,Pune,West,P015,Projector,Electronics,AV,4,718.35,0,2873.4,Offline,,03-08-2024,Express,NetBanking,No
+ORD100427,07-07-2023,C1201,Customer_498,Mumbai,West,P025,Project Mouse,Electronics,Accessories,1,27.21,0.03,26.39,Offline,Saurabh Sen,10-07-2023,SameDay,NetBanking,No
+ORD100204,28-02-2023,C1045,Customer_182,Chennai,South,P010,Notebook Pack,Office Supplies,Paper,4,13.42,0,53.68,Online,Rahul Jain,02-03-2023,Express,Cash,No
+ORD100679,27-04-2024,C1169,Customer_437,Kolkata,East,P012,Headphones,Electronics,Accessories,2,78.34,0,156.68,Online,,29-04-2024,Standard,Cash,No
+ORD100673,27-01-2024,C1028,Customer_287,Bengaluru,South,P028,Phone Stand,Electronics,Accessories,3,10.44,0,31.32,Online,,01-02-2024,Standard,UPI,No
+ORD100820,06-01-2024,C1088,Customer_258,Hyderabad,South,P010,Notebook Pack,Office Supplies,Paper,2,12.02,0.1,21.64,Offline,,09-01-2024,Standard,UPI,No
+ORD100753,01-07-2023,C1083,Customer_296,Delhi,North,P028,Phone Stand,Electronics,Accessories,6,12.74,0.05,72.62,Online,Karan Mehta,10-07-2023,SameDay,Credit Card,No
+ORD100028,16-09-2023,C1020,Customer_461,Bengaluru,South,P029,Desk Organizer,Office Supplies,Storage,3,15.34,0,46.02,Online,,20-09-2023,SameDay,NetBanking,No
+ORD100068,30-04-2023,C1082,Customer_169,Ahmedabad,West,P009,Desk Lamp,Office Supplies,Lamps,2,32.59,0,65.18,Offline,,04-05-2023,Standard,Cash,No
+ORD100381,07-04-2024,C1181,Customer_112,Kolkata,East,P023,Coffee Maker,Appliances,Kitchen,1,103.06,0,103.06,Offline,Priya Singh,15-04-2024,SameDay,UPI,No
+ORD100689,12-02-2023,C1292,Customer_81,Mumbai,West,P030,Laptop Sleeve,Electronics,Accessories,1,22.91,0.05,21.76,Online,Sneha Kapoor,19-02-2023,Express,NetBanking,No
+ORD100189,21-05-2023,C1238,Customer_51,Hyderabad,South,P030,Laptop Sleeve,Electronics,Accessories,2,21.32,0.05,40.51,Offline,Neha Sharma,21-05-2023,SameDay,UPI,No
+ORD100108,24-12-2023,C1194,Customer_273,Kolkata,East,P007,Office Table,Furniture,Tables,3,246.67,0,740.01,Online,,27-12-2023,Express,Credit Card,Yes
+ORD100947,02-03-2024,C1060,Customer_42,Bengaluru,South,P014,Webcam,Electronics,Accessories,1,52.97,0,52.97,Online,,03-03-2024,SameDay,NetBanking,No
+ORD100832,29-05-2023,C1186,Customer_440,Jaipur,North,P006,Office Chair,Furniture,Chairs,5,146.85,0,734.25,Offline,Rita Patel,29-05-2023,Express,NetBanking,No
+ORD100637,05-07-2024,C1275,Customer_172,Jaipur,North,P026,Binder,Office Supplies,Stationery,4,3.88,0.05,14.74,Offline,,08-07-2024,SameDay,Cash,No
+ORD100458,01-02-2023,C1147,Customer_219,Kolkata,East,P017,Whiteboard,Office Supplies,Boards,1,64.93,0,64.93,Online,Lina Das,04-02-2023,SameDay,Credit Card,No
+ORD100022,28-07-2024,C1122,Customer_136,Ahmedabad,West,P019,External HDD 1TB,Electronics,Storage,3,95.09,0.03,276.71,Online,Neha Sharma,31-07-2024,SameDay,UPI,No
+ORD100616,03-04-2023,C1152,Customer_161,Mumbai,West,P003,Smartphone A,Electronics,Phones,5,646.36,0.03,3134.85,Online,,03-04-2023,Standard,NetBanking,No
+ORD101095,09-05-2023,C1243,Customer_240,Bengaluru,South,P030,Laptop Sleeve,Electronics,Accessories,2,19.04,0.03,36.94,Offline,,18-05-2023,Standard,Cash,No
+ORD101101,22-10-2024,C1221,Customer_216,Delhi,North,P010,Notebook Pack,Office Supplies,Paper,1,10.94,0,10.94,Online,,30-10-2024,SameDay,UPI,No
+ORD100555,26-04-2023,C1060,Customer_114,Chennai,South,P001,Laptop A,Electronics,Laptops,3,1021.14,0,3063.42,Offline,Rahul Jain,03-05-2023,SameDay,UPI,No
+ORD100997,13-08-2023,C1238,Customer_291,Chennai,South,P006,Office Chair,Furniture,Chairs,3,131.61,0.03,382.99,Online,,20-08-2023,Standard,Credit Card,No
+ORD100093,13-04-2024,C1232,Customer_47,Hyderabad,South,P015,Projector,Electronics,AV,4,699.21,0.05,2657,Online,,17-04-2024,SameDay,UPI,No
+ORD100224,10-12-2024,C1253,Customer_282,Kolkata,East,P003,Smartphone A,Electronics,Phones,5,743.71,0.03,3606.99,Offline,Amit Verma,19-12-2024,SameDay,UPI,No
+ORD101197,08-06-2023,C1106,Customer_118,Mumbai,West,P021,Mouse,Electronics,Accessories,4,18.64,0,74.56,Offline,Rita Patel,11-06-2023,SameDay,Cash,No
+ORD100976,02-04-2023,C1030,Customer_393,Jaipur,North,P018,Stapler,Office Supplies,Stationery,2,6.26,0,12.52,Online,Priya Singh,09-04-2023,SameDay,Cash,No
+ORD100674,23-07-2024,C1232,Customer_197,Pune,West,P002,Laptop B,Electronics,Laptops,2,839.79,0.05,1595.6,Offline,Priya Singh,01-08-2024,Express,NetBanking,No
+ORD100378,19-10-2024,C1275,Customer_417,Lucknow,North,P009,Desk Lamp,Office Supplies,Lamps,5,32.67,0,163.35,Online,Saurabh Sen,20-10-2024,Express,UPI,No
+ORD100890,15-10-2023,C1178,Customer_455,Kolkata,East,P007,Office Table,Furniture,Tables,2,274.33,0,548.66,Offline,,19-10-2023,Express,Cash,No
+ORD101043,26-04-2024,C1081,Customer_291,Bengaluru,South,P009,Desk Lamp,Office Supplies,Lamps,2,37.59,0.05,71.42,Online,Saurabh Sen,30-04-2024,Standard,UPI,No
+ORD101036,02-05-2024,C1102,Customer_166,Pune,West,P024,Water Cooler,Appliances,Kitchen,1,212.95,0,212.95,Online,,02-05-2024,Express,UPI,No
+ORD100477,04-10-2023,C1293,Customer_429,Pune,West,P027,Calculator,Office Supplies,Electronics,1,13.26,0.05,12.6,Offline,Lina Das,06-10-2023,SameDay,NetBanking,No
+ORD100370,12-01-2023,C1141,Customer_349,Hyderabad,South,P026,Binder,Office Supplies,Stationery,1,4.52,0.05,4.29,Online,Rahul Jain,14-01-2023,SameDay,UPI,No
+ORD100761,16-07-2024,C1044,Customer_288,Bengaluru,South,P028,Phone Stand,Electronics,Accessories,3,11.8,0.05,33.63,Online,Saurabh Sen,25-07-2024,Express,Credit Card,Yes
+ORD100328,06-10-2023,C1053,Customer_199,Mumbai,West,P016,Filing Cabinet,Furniture,Storage,5,294.2,,1471,Offline,,11-10-2023,SameDay,NetBanking,No
+ORD100178,07-05-2023,C1215,Customer_192,Delhi,North,P002,Laptop B,Electronics,Laptops,3,850.97,0.03,2476.32,Offline,Amit Verma,12-05-2023,Standard,NetBanking,No
+ORD100977,12-04-2024,C1287,Customer_407,Chennai,South,P016,Filing Cabinet,Furniture,Storage,1,307.17,0.15,261.09,Offline,,14-04-2024,Express,Cash,No
+ORD100070,02-10-2024,C1026,Customer_105,Mumbai,West,P017,Whiteboard,Office Supplies,Boards,1,63.14,0,63.14,Offline,Neha Sharma,07-10-2024,SameDay,UPI,No
+ORD101114,30-05-2024,C1290,Customer_99,Kolkata,East,P029,Desk Organizer,Office Supplies,Storage,4,16.24,0.05,61.71,Online,Amit Verma,07-06-2024,Standard,Cash,No
+ORD100588,30-03-2024,C1121,Customer_440,Mumbai,West,P024,Water Cooler,Appliances,Kitchen,2,237.66,0.05,451.55,Online,Vikram Rao,31-03-2024,Express,UPI,No
+ORD100606,30-08-2024,C1002,Customer_270,Chennai,South,P012,Headphones,Electronics,Accessories,3,78.4,0.03,228.14,Online,,04-09-2024,SameDay,UPI,No
+ORD100663,30-03-2023,C1004,Customer_64,Jaipur,North,P001,Laptop A,Electronics,Laptops,2,1076.62,0,2153.24,Online,Karan Mehta,06-04-2023,Express,UPI,No
+ORD100128,05-02-2024,C1024,Customer_123,Delhi,North,P020,SSD 512GB,Electronics,Storage,2,119.72,,239.44,Online,Vikram Rao,06-02-2024,Standard,Cash,No
+ORD100273,23-07-2024,C1034,Customer_180,Hyderabad,South,P003,Smartphone A,Electronics,Phones,1,726.85,0,726.85,Online,,23-07-2024,Standard,UPI,No
+ORD100854,07-03-2024,C1274,Customer_431,Mumbai,West,P003,Smartphone A,Electronics,Phones,2,561.62,0,1123.24,Online,Rita Patel,13-03-2024,Express,NetBanking,No
+ORD100048,02-02-2024,C1010,Customer_319,Mumbai,West,P001,Laptop A,Electronics,Laptops,4,1137.14,0.03,4412.1,Offline,Sneha Kapoor,08-02-2024,SameDay,Credit Card,No
+ORD100439,18-02-2023,C1116,Customer_214,Kolkata,East,P018,Stapler,Office Supplies,Stationery,6,5.88,0.05,33.52,Online,Karan Mehta,27-02-2023,SameDay,NetBanking,No
+ORD100478,22-11-2024,C1194,Customer_168,Ahmedabad,West,P016,Filing Cabinet,Furniture,Storage,4,336.48,0,1345.92,Offline,Karan Mehta,30-11-2024,Express,NetBanking,No
+ORD100087,06-04-2023,C1151,Customer_383,Lucknow,North,P007,Office Table,Furniture,Tables,6,238.06,0.05,1356.94,Offline,Saurabh Sen,06-04-2023,Express,NetBanking,No
+ORD100447,02-11-2024,C1020,Customer_286,Lucknow,North,P024,Water Cooler,Appliances,Kitchen,6,230.81,0.03,1343.31,Online,Saurabh Sen,08-11-2024,Express,Credit Card,No
+ORD100709,23-10-2024,C1039,Customer_344,Bengaluru,South,P016,Filing Cabinet,Furniture,Storage,4,301.94,0.1,1086.98,Online,,29-10-2024,Standard,NetBanking,No
+ORD101104,18-11-2023,C1184,Customer_298,Pune,West,P020,SSD 512GB,Electronics,Storage,2,132.8,0,265.6,Offline,Amit Verma,23-11-2023,SameDay,Credit Card,No
+ORD101012,01-05-2024,C1300,Customer_14,Bengaluru,South,P005,"Monitor 24""",Electronics,Monitors,2,157.52,0,315.04,Offline,,05-05-2024,Express,Cash,No
+ORD101073,22-09-2024,C1161,Customer_476,Bengaluru,South,P005,"Monitor 24""",Electronics,Monitors,3,178.8,0.05,509.58,Online,Amit Verma,24-09-2024,Standard,NetBanking,No
+ORD100130,21-04-2023,C1259,Customer_284,Kolkata,East,P001,Laptop A,Electronics,Laptops,1,1066.4,0,1066.4,Offline,Rahul Jain,26-04-2023,Standard,UPI,No
+ORD101148,31-12-2023,C1128,Customer_177,Jaipur,North,P001,Laptop A,Electronics,Laptops,2,1263.58,0.1,2274.44,Offline,Vikram Rao,03-01-2024,Express,Cash,No
+ORD100270,10-05-2023,C1249,Customer_333,Pune,West,P023,Coffee Maker,Appliances,Kitchen,1,97.37,0,97.37,Online,Karan Mehta,12-05-2023,Standard,NetBanking,No
+ORD100327,08-05-2024,C1258,Customer_69,Pune,West,P011,Pen Set,Office Supplies,Stationery,2,9.02,0.1,16.24,Online,,16-05-2024,SameDay,Credit Card,No
+ORD100759,13-11-2024,C1207,Customer_417,Pune,West,P016,Filing Cabinet,Furniture,Storage,1,315.85,0.03,306.37,Offline,Lina Das,15-11-2024,Express,Credit Card,No
+ORD100787,14-03-2024,C1098,Customer_476,Delhi,North,P023,Coffee Maker,Appliances,Kitchen,2,78.04,0,156.08,Online,Sneha Kapoor,22-03-2024,SameDay,NetBanking,No
+ORD101109,20-10-2023,C1095,Customer_388,Kolkata,East,P026,Binder,Office Supplies,Stationery,1,3.54,0,3.54,Offline,,29-10-2023,SameDay,Credit Card,No
+ORD101049,11-10-2023,C1125,Customer_117,Lucknow,North,P018,Stapler,Office Supplies,Stationery,4,5.52,0.1,19.87,Online,,12-10-2023,SameDay,NetBanking,No
+ORD101187,26-05-2023,C1160,Customer_310,Hyderabad,South,P008,Printer A,Electronics,Printers,4,192.98,0,771.92,Offline,,02-06-2023,SameDay,NetBanking,No
+ORD100730,01-12-2023,C1265,Customer_466,Kolkata,East,P022,Keyboard,Electronics,Accessories,3,30.45,0,91.35,Online,Amit Verma,02-12-2023,Standard,Cash,No
+ORD100155,23-04-2023,C1073,Customer_102,Ahmedabad,West,P018,Stapler,Office Supplies,Stationery,4,6.05,0.05,22.99,Online,Rahul Jain,28-04-2023,Express,UPI,No
+ORD101149,30-06-2023,C1198,Customer_132,Bengaluru,South,P021,Mouse,Electronics,Accessories,4,18.99,0.05,72.16,Offline,Saurabh Sen,02-07-2023,Standard,NetBanking,No
+ORD100713,11-09-2024,C1277,Customer_203,Bengaluru,South,P027,Calculator,Office Supplies,Electronics,1,15.07,0,15.07,Online,Amit Verma,11-09-2024,Standard,UPI,No
+ORD100558,19-07-2024,C1142,Customer_486,Delhi,North,P001,Laptop A,Electronics,Laptops,3,1209.8,0.03,3520.52,Online,Lina Das,20-07-2024,Standard,UPI,Yes
+ORD100855,29-12-2023,C1052,Customer_57,Pune,West,P008,Printer A,Electronics,Printers,2,250.51,0.05,475.97,Offline,,03-01-2024,Standard,NetBanking,No
+ORD100030,02-11-2024,C1019,Customer_440,Hyderabad,South,P014,Webcam,Electronics,Accessories,4,50.28,0,201.12,Offline,,02-11-2024,SameDay,NetBanking,No
+ORD100578,28-07-2023,C1264,Customer_442,Lucknow,North,P026,Binder,Office Supplies,Stationery,5,3.48,0,17.4,Offline,Sneha Kapoor,01-08-2023,Express,Cash,No
+ORD100352,07-07-2024,C1223,Customer_142,Chennai,South,P015,Projector,Electronics,AV,4,636,0.03,2467.68,Online,Lina Das,13-07-2024,Express,Cash,No
+ORD100866,16-04-2023,C1038,Customer_294,Hyderabad,South,P015,Projector,Electronics,AV,6,553.74,0.1,2990.2,Online,Saurabh Sen,19-04-2023,Express,NetBanking,No
+ORD100766,16-10-2024,C1261,Customer_310,Kolkata,East,P023,Coffee Maker,Appliances,Kitchen,1,82.01,0.03,79.55,Online,,16-10-2024,SameDay,NetBanking,No
+ORD100194,28-03-2023,C1146,Customer_9,Ahmedabad,West,P002,Laptop B,Electronics,Laptops,5,1086.5,0.05,5160.88,Offline,,04-04-2023,Standard,Cash,Yes
+ORD101131,10-06-2023,C1267,Customer_202,Jaipur,North,P002,Laptop B,Electronics,Laptops,4,978.73,0,3914.92,Online,,12-06-2023,SameDay,UPI,No
+ORD101080,08-05-2024,C1088,Customer_90,Jaipur,North,P005,"Monitor 24""",Electronics,Monitors,3,178.45,0,535.35,Online,Amit Verma,09-05-2024,Standard,UPI,No
+ORD101065,03-09-2024,C1109,Customer_95,Mumbai,West,P017,Whiteboard,Office Supplies,Boards,5,79.13,0.05,375.87,Online,,09-09-2024,SameDay,UPI,No
+ORD100898,09-09-2024,C1013,Customer_491,Hyderabad,South,P005,"Monitor 24""",Electronics,Monitors,3,195.74,0,587.22,Offline,Rita Patel,11-09-2024,Express,Cash,No
+ORD100179,20-02-2023,C1275,Customer_202,Pune,West,P029,Desk Organizer,Office Supplies,Storage,6,19.28,0.1,104.11,Offline,Priya Singh,26-02-2023,SameDay,NetBanking,No
+ORD101169,24-12-2023,C1221,Customer_406,Delhi,North,P028,Phone Stand,Electronics,Accessories,4,11.47,0,45.88,Online,Amit Verma,24-12-2023,Standard,Credit Card,No
+ORD101126,26-02-2023,C1255,Customer_94,Chennai,South,P001,Laptop A,Electronics,Laptops,5,1038.99,0,5194.95,Online,,04-03-2023,SameDay,UPI,No
+ORD101066,26-01-2024,C1061,Customer_329,Jaipur,North,P011,Pen Set,Office Supplies ,Stationery,2,7.28,0,14.56,Offline,Karan Mehta,29-01-2024,SameDay,UPI,No
+ORD100010,15-07-2024,C1271,Customer_471,Lucknow,North,P017,Whiteboard,Office Supplies,Boards,2,73.41,0,146.82,Online,,24-07-2024,SameDay,NetBanking,No
+ORD100354,15-10-2023,C1015,Customer_417,Lucknow,North,P027,Calculator,Office Supplies,Electronics,1,13.98,0,13.98,Online,Vikram Rao,15-10-2023,SameDay,Credit Card,No
+ORD100067,17-10-2024,C1226,Customer_470,Ahmedabad,West,P022,Keyboard,Electronics,Accessories,3,40,0,120,Online,,17-10-2024,Express,Credit Card,No
+ORD100833,21-10-2023,C1134,Customer_450,Ahmedabad,West,P010,Notebook Pack,Office Supplies,Paper,6,12.66,0,75.96,Online,Rita Patel,29-10-2023,SameDay,UPI,No
+ORD100209,07-11-2024,C1186,Customer_59,Hyderabad,South,P006,Office Chair,Furniture,Chairs,5,156.81,0,784.05,Offline,,16-11-2024,Express,NetBanking,No
+ORD100145,21-04-2023,C1082,Customer_166,Lucknow,North,P017,Whiteboard,Office Supplies,Boards,3,74.97,0.03,218.16,Online,,23-04-2023,Express,Credit Card,No
+ORD100423,12-03-2024,C1292,Customer_80,Chennai,South,P029,Desk Organizer,Office Supplies,Storage,2,17.29,0,34.58,Online,Sneha Kapoor,18-03-2024,Standard,UPI,No
+ORD100852,19-01-2024,C1133,Customer_429,Pune,West,P011,Pen Set,Office Supplies,Stationery,3,7.37,0.05,21,Online,Priya Singh,21-01-2024,Standard,Credit Card,No
+ORD100950,12-07-2024,C1055,Customer_370,Hyderabad,South,P013,Router,Electronics,Networking,2,105.54,0.03,204.75,Online,Neha Sharma,18-07-2024,Standard,UPI,No
+ORD100861,02-04-2024,C1143,Customer_493,Jaipur,North,P018,Stapler,Office Supplies,Stationery,1,5.67,0.05,5.39,Offline,Neha Sharma,08-04-2024,Express,NetBanking,No
+ORD100778,03-10-2023,C1111,Customer_473,Lucknow,North,P022,Keyboard,Electronics,Accessories,6,30.33,0,181.98,Online,Vikram Rao,07-10-2023,Express,UPI,No
+ORD100092,02-01-2024,C1111,Customer_228,Bengaluru,South,P019,External HDD 1TB,Electronics,Storage,1,74.37,0.03,72.14,Offline,,05-01-2024,Express,Cash,No
+ORD101063,21-04-2024,C1211,Customer_423,Chennai,South,P002,Laptop B,Electronics,Laptops,1,841.32,0,841.32,Offline,Rita Patel,25-04-2024,Standard,Cash,No
+ORD100214,23-10-2023,C1053,Customer_152,Hyderabad,South,P019,External HDD 1TB,electronics,Storage,5,83.4,0.05,396.15,Offline,Rita Patel,30-10-2023,SameDay,NetBanking,No
+ORD100359,28-07-2023,C1039,Customer_265,Lucknow,North,P011,Pen Set,Office Supplies,Stationery,2,9.19,0,18.38,Offline,,02-08-2023,SameDay,NetBanking,No
+ORD100991,29-03-2023,C1158,Customer_169,Pune,West,P030,Laptop Sleeve,Electronics ,Accessories,1,23.6,0,23.6,Offline,Rahul Jain,30-03-2023,Standard,NetBanking,No
+ORD100837,12-12-2024,C1031,Customer_480,Lucknow,North,P009,Desk Lamp,Office Supplies,Lamps,5,38.43,0,192.15,Online,Rita Patel,16-12-2024,Standard,UPI,No
+ORD100195,09-11-2023,C1181,Customer_137,Pune,West,P017,Whiteboard,Office Supplies,Boards,1,64.16,0.03,62.24,Online,Priya Singh,16-11-2023,SameDay,NetBanking,No
+ORD100296,28-02-2023,C1141,Customer_134,Hyderabad,South,P004,Smartphone B,Electronics,Phones,1,438.94,,438.94,Offline,Vikram Rao,05-03-2023,Express,Credit Card,No
+ORD101055,29-12-2023,C1155,Customer_49,Delhi,North,P010,Notebook Pack,Office Supplies,Paper,3,11.16,0.05,31.81,Online,Rita Patel,26-12-2023,SameDay,Cash,No
+ORD100386,09-06-2024,C1132,Customer_96,Jaipur,North,P004,Smartphone B,Electronics,Phones,2,379.29,0.1,682.72,Offline,,07-06-2024,SameDay,NetBanking,No
+ORD100389,30-08-2023,C1273,Customer_369,Bengaluru,South,P026,Binder,Office Supplies,Stationery,1,4.16,0,4.16,Offline,,29-08-2023,Express,Cash,No
+ORD100932,23-03-2024,C1110,Customer_388,Mumbai,West,P002,Laptop B,Electronics,Laptops,3,921.26,0.03,2680.87,Offline,,23-03-2024,SameDay,UPI,No
+ORD100360,17-03-2024,C1071,Customer_226,Kolkata,East,P009,Desk Lamp,Office Supplies ,Lamps,1,39.81,0.03,38.62,Offline,Karan Mehta,25-03-2024,Express,Cash,No
+ORD100988,26-03-2023,C1162,Customer_272,Chennai,South,P022,Keyboard,Electronics,Accessories,1,34.31,0,34.31,Online,Sneha Kapoor,31-03-2023,Express,Cash,No
+ORD100843,10-08-2024,C1110,Customer_179,Ahmedabad,West,P015,Projector,Electronics,AV,1,654.6,0.15,556.41,Online,Amit Verma,10-08-2024,Standard,Cash,No
+ORD101146,04-06-2024,C1053,Customer_351,Delhi,North,P011,Pen Set,Office Supplies,Stationery,5,8.09,0,40.45,Offline,Saurabh Sen,11-06-2024,SameDay,NetBanking,No
+ORD101100,09-07-2024,C1249,Customer_389,Hyderabad,South,P003,Smartphone A,Electronics,Phones,3,656.95,0.03,1911.72,Offline,Amit Verma,18-07-2024,Express,Credit Card,No
+ORD100188,21-09-2024,C1104,Customer_204,Hyderabad,South,P016,Filing Cabinet,Furniture,Storage,3,332.46,0,997.38,Offline,,27-09-2024,Standard,Credit Card,No
+ORD100445,16-08-2023,C1224,Customer_444,Mumbai,West,P008,Printer A,Electronics,Printers,1,189.22,0.1,170.3,Offline,Neha Sharma,24-08-2023,SameDay,NetBanking,No
+ORD100086,11-07-2023,C1212,Customer_90,Mumbai,West,P004,Smartphone B,Electronics,Phones,4,429.57,0,1718.28,Offline,,11-07-2023,SameDay,UPI,No
+ORD100034,29-09-2024,C1169,Customer_320,Pune,West,P009,Desk Lamp,Office Supplies,Lamps,3,31.27,0.15,79.74,Online,Saurabh Sen,05-10-2024,SameDay,NetBanking,No
+ORD100199,07-01-2023,C1203,Customer_476,Mumbai,West,P018,Stapler,Office Supplies,Stationery,4,6.24,0.05,23.71,Online,,09-01-2023,Standard,NetBanking,No
+ORD100521,16-07-2024,C1214,Customer_88,Kolkata,East,P012,Headphones,Electronics,Accessories,3,84.3,0.05,240.25,Offline,Rahul Jain,19-07-2024,SameDay,Credit Card,No
+ORD101170,26-08-2024,C1095,Customer_241,Mumbai,West,P022,Keyboard,Electronics,Accessories,3,39.84,0.05,113.54,Online,Neha Sharma,26-08-2024,SameDay,NetBanking,No
+ORD100527,25-09-2024,C1036,Customer_198,Pune,West,P025,Project Mouse,electronics,Accessories,1,25.68,0,25.68,Online,,27-09-2024,SameDay,Cash,No
+ORD100347,01-03-2023,C1151,Customer_492,Pune,West,P030,Laptop Sleeve,Electronics,Accessories,5,23.13,0.05,109.87,Online,Rita Patel,10-03-2023,Standard,NetBanking,No
+ORD100552,11-02-2024,C1154,Customer_139,Delhi,North,P010,Notebook Pack,Office Supplies,Paper,3,11.59,0,34.77,Online,,12-02-2024,Standard,NetBanking,No
+ORD100045,14-04-2023,C1207,Customer_371,Ahmedabad,West,P024,Water Cooler,Appliances,Kitchen,1,227.02,0,227.02,Online,Rita Patel,16-04-2023,Express,Cash,Yes
+ORD100488,28-02-2024,C1169,Customer_216,Ahmedabad,West,P021,Mouse,Electronics,Accessories,5,21.44,0,107.2,Offline,Lina Das,07-03-2024,Express,Credit Card,No
+ORD101014,26-10-2024,C1246,Customer_18,Kolkata,East,P016,Filing Cabinet,Furniture,Storage,3,320.64,0,961.92,Offline,Neha Sharma,31-10-2024,Express,NetBanking,No
+ORD100794,25-01-2024,C1286,Customer_500,Bengaluru,South,P007,Office Table,Furniture,Tables,3,255.08,0,765.24,Online,Rahul Jain,30-01-2024,SameDay,UPI,No
+ORD100472,24-07-2024,C1273,Customer_41,Pune,West,P013,Router,Electronics,Networking,1,85.37,0.03,82.81,Offline,Rahul Jain,24-07-2024,SameDay,Cash,No
+ORD100818,04-03-2023,C1080,Customer_16,Pune,West,P023,Coffee Maker,Appliances,Kitchen,3,77.62,0.03,225.87,Online,,09-03-2023,Express,Credit Card,No
+ORD100583,23-09-2024,C1186,Customer_344,Mumbai,West,P024,Water Cooler,Appliances,Kitchen,1,231.61,0,231.61,Online,,27-09-2024,Express,UPI,No
+ORD100000,13-04-2023,C1119,Customer_259,Chennai,South,P021,Mouse,Electronics,Accessories,1,21.78,0.05,20.69,Online,Sneha Kapoor,17-04-2023,Standard,Credit Card,No
+ORD100681,18-03-2024,C1185,Customer_6,Jaipur,North,P008,Printer A,Electronics,Printers,3,204.89,0.05,583.94,Online,Sneha Kapoor,18-03-2024,Express,Cash,No
+ORD100540,09-03-2023,C1075,Customer_410,Lucknow,North,P024,Water Cooler,Appliances,Kitchen,3,251.69,0,755.07,Offline,,14-03-2023,Express,UPI,No
+ORD101089,11-01-2024,C1279,Customer_226,Hyderabad,South,P016,Filing Cabinet,Furniture,Storage,5,308.77,0,1543.85,Online,,15-01-2024,SameDay,Cash,No
+ORD100448,01-03-2024,C1027,Customer_354,Mumbai,West,P013,Router,Electronics,Networking,4,104.34,0.03,404.84,Online,Vikram Rao,05-03-2024,Express,UPI,No
+ORD100712,14-02-2023,C1049,Customer_409,Delhi,North,P030,Laptop Sleeve,Electronics,Accessories,1,19.79,0.05,18.8,Online,Neha Sharma,19-02-2023,Standard,UPI,No
+ORD100592,23-06-2024,C1264,Customer_366,Jaipur,North,P021,Mouse,Electronics,Accessories,1,21.28,0.1,19.15,Online,Amit Verma,25-06-2024,SameDay,UPI,No
+ORD101180,03-01-2024,C1244,Customer_312,Pune,West,P020,SSD 512GB,Electronics,Storage,2,136.01,0.03,263.86,Offline,,09-01-2024,SameDay,Credit Card,No
+ORD100101,14-06-2024,C1190,Customer_416,Chennai,South,P014,Webcam,Electronics,Accessories,3,44.17,0,132.51,Offline,Rahul Jain,23-06-2024,Express,Credit Card,No
+ORD100431,10-02-2024,C1226,Customer_320,Hyderabad,South,P012,Headphones,Electronics,Accessories,4,79.4,0.15,269.96,Offline,Lina Das,14-02-2024,Express,NetBanking,No
+ORD100039,03-05-2024,C1054,Customer_399,Ahmedabad,West,P014,Webcam,Electronics ,Accessories,2,52.86,0.1,95.15,Online,,03-05-2024,Express,Cash,No
+ORD100487,20-10-2024,C1039,Customer_351,Chennai,South,P024,Water Cooler,Appliances,Kitchen,1,251.47,0,251.47,Offline,Saurabh Sen,28-10-2024,SameDay,Credit Card,No
+ORD100016,15-08-2024,C1055,Customer_128,Pune,West,P022,Keyboard,Electronics,Accessories,4,37.22,0.03,144.41,Offline,Rita Patel,24-08-2024,Standard,Credit Card,No
+ORD100736,07-09-2023,C1266,Customer_493,Delhi,North,P008,Printer A,Electronics ,Printers,3,223.17,0,669.51,Online,Amit Verma,16-09-2023,Standard,Credit Card,No
+ORD100811,24-11-2024,C1154,Customer_320,Delhi,North,P012,Headphones,Electronics,Accessories,4,86.17,0.05,327.45,Online,Lina Das,02-12-2024,Express,UPI,No
+ORD100148,12-03-2024,C1279,Customer_149,Ahmedabad,West,P002,Laptop B,Electronics,Laptops,1,836.51,0,836.51,Offline,,15-03-2024,SameDay,Cash,No
+ORD101115,12-05-2023,C1134,Customer_221,Lucknow,North,P014,Webcam,Electronics,Accessories,1,51.24,0,51.24,Offline,,21-05-2023,Express,UPI,No
+ORD100177,13-11-2024,C1032,Customer_278,Chennai,South,P015,Projector,Electronics,AV,3,734.26,0.03,2136.7,Online,Neha Sharma,20-11-2024,Standard,NetBanking,No
+ORD100136,02-08-2023,C1156,Customer_229,Pune,West,P026,Binder,Office Supplies,Stationery,5,3.5,0.1,15.75,Online,Neha Sharma,02-08-2023,Standard,UPI,No
+ORD100336,11-02-2024,C1088,Customer_377,Ahmedabad,West,P019,External HDD 1TB,Electronics,Storage,5,83.24,0,416.2,Online,,19-02-2024,Standard,UPI,No
+ORD100729,09-10-2024,C1233,Customer_484,Kolkata,East,P013,Router,Electronics,Networking,2,105.75,0,211.5,Online,Rita Patel,12-10-2024,Express,Credit Card,No
+ORD100118,12-03-2024,C1076,Customer_171,Hyderabad,South,P020,SSD 512GB,Electronics,Storage,4,123.07,0.05,467.67,Online,Karan Mehta,14-03-2024,SameDay,Cash,No
+ORD100593,08-06-2024,C1167,Customer_410,Bengaluru,South,P025,Project Mouse,Electronics,Accessories,1,21.69,0,21.69,Offline,,12-06-2024,Express,Cash,No
+ORD100717,06-08-2024,C1300,Customer_361,Hyderabad,South,P006,Office Chair,Furniture,Chairs,2,171.88,0.05,326.57,Offline,Priya Singh,06-08-2024,SameDay,Cash,No
+ORD101124,18-12-2023,C1173,Customer_232,Chennai,South,P023,Coffee Maker,Appliances,Kitchen,1,99.33,0,99.33,Offline,Priya Singh,26-12-2023,Express,NetBanking,No
+ORD100667,27-11-2023,C1218,Customer_329,Lucknow,North,P019,External HDD 1TB,Electronics ,Storage,2,77.13,0.1,138.83,Offline,Sneha Kapoor,01-12-2023,Standard,UPI,No
+ORD100064,23-07-2024,C1136,Customer_424,Chennai,South,P002,Laptop B,Electronics,Laptops,1,816.19,0.05,775.38,Offline,Priya Singh,28-07-2024,Express,NetBanking,No
+ORD100841,20-03-2024,C1162,Customer_8,Ahmedabad,West,P027,Calculator,Office Supplies,Electronics,2,13.86,,27.72,Online,Priya Singh,26-03-2024,SameDay,NetBanking,No
+ORD100612,05-01-2023,C1095,Customer_223,Jaipur,North,P012,Headphones,Electronics,Accessories,1,74.94,0,74.94,Offline,,05-01-2023,Express,Cash,No
+ORD100112,10-09-2023,C1078,Customer_390,Lucknow,North,P017,Whiteboard,Office Supplies,Boards,2,79.25,0.03,153.75,Online,,18-09-2023,Express,NetBanking,No
+ORD100192,24-04-2023,C1277,Customer_329,Jaipur,North,P025,Project Mouse,Electronics,Accessories,4,24.98,0,99.92,Offline,Rahul Jain,01-05-2023,Express,NetBanking,No
+ORD100752,30-03-2024,C1099,Customer_359,Pune,West,P018,Stapler,Office Supplies,Stationery,5,6.89,0.05,32.73,Offline,Karan Mehta,30-03-2024,Express,Credit Card,No
+ORD100393,07-07-2024,C1116,Customer_161,Bengaluru,South,P021,Mouse,Electronics,Accessories,6,22.35,0.05,127.4,Offline,Neha Sharma,15-07-2024,SameDay,Cash,No
+ORD100644,30-11-2024,C1080,Customer_484,Bengaluru,South,P014,Webcam,Electronics,Accessories,1,50.34,0.1,45.31,Online,Rita Patel,06-12-2024,Standard,Credit Card,No
+ORD100992,07-03-2024,C1129,Customer_141,Chennai,South,P004,Smartphone B,Electronics,Phones,2,428.05,0.03,830.42,Online,Lina Das,15-03-2024,SameDay,UPI,No
+ORD100505,06-08-2024,C1103,Customer_91,Delhi,North,P010,Notebook Pack,Office Supplies,Paper,1,12.48,0,12.48,Offline,Saurabh Sen,06-08-2024,Express,Credit Card,No
+ORD100720,02-09-2023,C1127,Customer_411,Chennai,South,P026,Binder,Office Supplies,Stationery,2,3.54,0,7.08,Online,Sneha Kapoor,11-09-2023,Express,UPI,No
+ORD100703,14-12-2024,C1147,Customer_331,Pune,West,P015,Projector,Electronics,AV,4,736.29,0.05,2797.9,Online,Saurabh Sen,17-12-2024,SameDay,Cash,No
+ORD100041,24-05-2023,C1126,Customer_431,Jaipur,North,P011,Pen Set,Office Supplies,Stationery,3,8.76,0,26.28,Offline,,25-05-2023,Express,NetBanking,No
+ORD100211,01-09-2024,C1037,Customer_230,Pune,West,P028,Phone Stand,Electronics,Accessories,4,12.36,0,49.44,Offline,Rahul Jain,01-09-2024,Standard,UPI,No
+ORD100186,10-06-2023,C1040,Customer_473,Jaipur,North,P028,Phone Stand,Electronics,Accessories,3,11.5,0.03,33.46,Online,Saurabh Sen,11-06-2023,Express,NetBanking,No
+ORD100124,31-07-2024,C1190,Customer_284,Lucknow,North,P010,Notebook Pack,Office Supplies,Paper,5,13.1,0.03,63.53,Offline,Rahul Jain,01-08-2024,SameDay,NetBanking,No
+ORD100358,16-09-2023,C1020,Customer_333,Chennai,South,P016,Filing Cabinet,Furniture,Storage,1,272.13,0,272.13,Offline,Sneha Kapoor,21-09-2023,Standard,UPI,No
+ORD100152,28-04-2023,C1201,Customer_259,Hyderabad,South,P028,Phone Stand,Electronics ,Accessories,1,11.13,0.03,10.8,Offline,Sneha Kapoor,06-05-2023,Express,Cash,No
+ORD100297,26-07-2023,C1163,Customer_349,Chennai,South,P021,Mouse,Electronics,Accessories,3,18.55,0.05,52.87,Online,Rahul Jain,04-08-2023,Standard,Credit Card,No
+ORD100456,24-05-2023,C1018,Customer_48,Delhi,North,P030,Laptop Sleeve,Electronics,Accessories,4,21.42,0,85.68,Offline,Rahul Jain,31-05-2023,Express,NetBanking,No
+ORD101053,08-12-2024,C1138,Customer_253,Jaipur,North,P029,Desk Organizer,Office Supplies,Storage,3,20.64,0.15,52.63,Online,Lina Das,15-12-2024,SameDay,Cash,No
+ORD100246,23-02-2024,C1295,Customer_322,Chennai,South,P012,Headphones,Electronics,Accessories,4,80.81,0,323.24,Online,,25-02-2024,Express,Cash,No
+ORD100005,20-04-2024,C1117,Customer_421,Kolkata,East,P021,Mouse,Electronics,Accessories,1,22.84,0,22.84,Online,Rita Patel,22-04-2024,SameDay,NetBanking,No
+ORD100718,19-01-2023,C1151,Customer_104,Ahmedabad,West,P001,Laptop A,Electronics,Laptops,2,1264.43,0.05,2402.42,Online,Vikram Rao,20-01-2023,Express,NetBanking,No
+ORD100046,02-06-2023,C1093,Customer_26,Bengaluru,South,P006,Office Chair,Furniture,Chairs,1,127.73,0,127.73,Online,,07-06-2023,SameDay,Credit Card,No
+ORD100301,22-10-2023,C1036,Customer_242,Chennai,South,P029,Desk Organizer,Office Supplies,Storage,3,16.79,0.1,45.33,Offline,Rita Patel,24-10-2023,Express,Credit Card,No
+ORD100610,18-02-2023,C1106,Customer_84,Lucknow,North,P002,Laptop B,Electronics,Laptops,2,1077.51,0.05,2047.27,Offline,Priya Singh,26-02-2023,Standard,NetBanking,No
+ORD100410,02-05-2023,C1054,Customer_65,Ahmedabad,West,P016,Filing Cabinet,Furniture,Storage,5,328.44,0.05,1560.09,Offline,,10-05-2023,SameDay,Credit Card,No
+ORD101013,30-03-2023,C1117,Customer_71,Bengaluru,South,P008,Printer A,Electronics,Printers,2,197.02,0,394.04,Online,Karan Mehta,31-03-2023,SameDay,Credit Card,No
+ORD100886,08-10-2023,C1148,Customer_428,Ahmedabad,West,P012,Headphones,electronics,Accessories,2,69.78,0,139.56,Online,Rita Patel,09-10-2023,Express,Credit Card,Yes
+ORD100827,24-05-2024,C1019,Customer_149,Lucknow,North,P014,Webcam,Electronics,Accessories,5,43.4,0.03,210.49,Online,Saurabh Sen,31-05-2024,Standard,Credit Card,No
+ORD100682,17-08-2024,C1101,Customer_146,Lucknow,North,P003,Smartphone A,electronics,Phones,1,573.15,0.1,515.84,Online,Rahul Jain,22-08-2024,Standard,UPI,Yes
+ORD100815,25-12-2024,C1297,Customer_367,Kolkata,East,P026,Binder,Office Supplies,Stationery,6,4.08,0,24.48,Offline,Neha Sharma,26-12-2024,SameDay,Cash,No
+ORD101081,18-07-2023,C1191,Customer_466,Bengaluru,South,P030,Laptop Sleeve,Electronics,Accessories,1,21.43,0,21.43,Online,Karan Mehta,27-07-2023,Standard,NetBanking,Yes
+ORD100710,18-02-2024,C1024,Customer_429,Chennai,South,P025,Project Mouse,Electronics,Accessories,3,24.54,,73.62,Online,Rita Patel,22-02-2024,Standard,Credit Card,No
+ORD100927,09-11-2024,C1112,Customer_228,Jaipur,North,P005,"Monitor 24""",Electronics,Monitors,3,200.13,0.05,570.37,Online,,17-11-2024,Express,NetBanking,No
+ORD100879,03-10-2024,C1180,Customer_136,Delhi,North,P004,Smartphone B,Electronics,Phones,3,364.8,0.03,1061.57,Online,Sneha Kapoor,10-10-2024,Express,NetBanking,No
+ORD100733,27-07-2024,C1101,Customer_250,Delhi,North,P016,Filing Cabinet,Furniture,Storage,2,288.7,,577.4,Offline,Saurabh Sen,28-07-2024,Express,Cash,No
+ORD100312,23-09-2024,C1246,Customer_170,Kolkata,East,P009,Desk Lamp,Office Supplies,Lamps,3,38.21,0.05,108.9,Offline,,26-09-2024,Standard,Credit Card,No
+ORD100264,07-06-2024,C1112,Customer_16,Lucknow,North,P023,Coffee Maker,Appliances,Kitchen,3,78.32,0,234.96,Offline,Karan Mehta,16-06-2024,SameDay,UPI,No
+ORD100387,27-07-2024,C1186,Customer_438,Chennai,South,P018,Stapler,Office Supplies,Stationery,1,5.97,0,5.97,Offline,Lina Das,05-08-2024,Standard,Cash,No
+ORD100711,21-08-2024,C1127,Customer_192,Delhi,North,P021,Mouse,Electronics,Accessories,4,18.08,0,72.32,Offline,,27-08-2024,Standard,Credit Card,Yes
+ORD100170,15-02-2024,C1098,Customer_90,Bengaluru,South,P026,Binder,Office Supplies,Stationery,1,4.29,0.03,4.16,Offline,,24-02-2024,Standard,Credit Card,No
+ORD100247,30-04-2023,C1293,Customer_346,Lucknow,North,P003,Smartphone A,Electronics,Phones,1,698.33,0.1,628.5,Offline,Amit Verma,04-05-2023,SameDay,NetBanking,No
+ORD101028,25-08-2023,C1206,Customer_17,Jaipur,North,P011,Pen Set,Office Supplies,Stationery,4,6.93,0,27.72,Online,Rita Patel,30-08-2023,Express,NetBanking,No
+ORD100229,18-03-2024,C1201,Customer_251,Mumbai,West,P025,Project Mouse,Electronics,Accessories,1,27.47,0.03,26.65,Offline,,20-03-2024,SameDay,NetBanking,No
+ORD100116,01-09-2024,C1043,Customer_259,Kolkata,East,P030,Laptop Sleeve,Electronics,Accessories,1,18.94,0,18.94,Offline,Lina Das,07-09-2024,Standard,Credit Card,No
+ORD100562,21-05-2023,C1227,Customer_116,Chennai,South,P016,Filing Cabinet,Furniture,Storage,4,322.81,0.03,1252.5,Online,Priya Singh,21-05-2023,Standard,Cash,No
+ORD101174,05-04-2023,C1045,Customer_164,Hyderabad,South,P002,Laptop B,Electronics,Laptops,5,1060.42,0,5302.1,Online,Lina Das,09-04-2023,Express,Credit Card,No
+ORD100420,10-01-2023,C1226,Customer_478,Pune,West,P022,Keyboard,Electronics,Accessories,5,37.54,0.03,182.07,Online,Rahul Jain,11-01-2023,SameDay,Cash,No
+ORD100585,16-06-2024,C1111,Customer_74,Kolkata,East,P016,Filing Cabinet,Furniture,Storage,3,297.79,0.15,759.36,Online,,16-06-2024,Express,Cash,No
+ORD100751,20-11-2024,C1081,Customer_12,Kolkata,East,P024,Water Cooler,Appliances,Kitchen,2,238.73,0,477.46,Online,,27-11-2024,Standard,Cash,No
+ORD100792,15-08-2023,C1061,Customer_22,Ahmedabad,West,P026,Binder,Office Supplies,Stationery,1,4.36,0.03,4.23,Offline,Sneha Kapoor,23-08-2023,Standard,Cash,No
+ORD100938,06-06-2024,C1259,Customer_441,Kolkata,East,P028,Phone Stand,Electronics,Accessories,3,11.53,0.05,32.86,Online,Rahul Jain,07-06-2024,SameDay,Credit Card,No
+ORD100928,27-03-2023,C1177,Customer_462,Hyderabad,South,P023,Coffee Maker,Appliances,Kitchen,3,84.8,0.05,241.68,Offline,,29-03-2023,SameDay,UPI,No
+ORD100078,21-11-2023,C1273,Customer_195,Delhi,North,P021,Mouse,Electronics,Accessories,3,21.1,0.1,56.97,Offline,,22-11-2023,Express,Cash,No
+ORD100109,31-03-2023,C1160,Customer_295,Lucknow,North,P023,Coffee Maker,Appliances,Kitchen,1,86.98,0,86.98,Offline,Priya Singh,04-04-2023,SameDay,Credit Card,No
+ORD100457,21-10-2023,C1140,Customer_169,Hyderabad,South,P025,Project Mouse,Electronics,Accessories,3,27.3,0,81.9,Offline,,21-10-2023,Express,Credit Card,No
+ORD100846,12-06-2024,C1050,Customer_45,Pune,West,P020,SSD 512GB,Electronics,Storage,1,122.06,0.05,115.96,Offline,Vikram Rao,17-06-2024,SameDay,Cash,No
+ORD100111,24-12-2024,C1086,Customer_40,Kolkata,East,P014,Webcam,Electronics,Accessories,2,51.54,0,103.08,Offline,Lina Das,26-12-2024,Standard,Cash,No
+ORD100603,29-12-2024,C1284,Customer_437,Ahmedabad,West,P029,Desk Organizer,Office Supplies,Storage,1,16.87,0,16.87,Offline,Saurabh Sen,05-01-2025,Standard,UPI,No
+ORD100550,27-05-2023,C1294,Customer_9,Jaipur,North,P024,Water Cooler,Appliances,Kitchen,1,220.85,0.05,209.81,Offline,,01-06-2023,SameDay,Cash,No
+ORD100762,12-04-2024,C1153,Customer_24,Mumbai,West,P009,Desk Lamp,Office Supplies ,Lamps,3,39.62,0.1,106.97,Online,Priya Singh,13-04-2024,Express,NetBanking,No
+ORD101111,16-04-2024,C1207,Customer_437,Lucknow,North,P030,Laptop Sleeve,Electronics,Accessories,2,23.58,0,47.16,Offline,,25-04-2024,Standard,Cash,No
+ORD100554,17-11-2024,C1067,Customer_473,Delhi,North,P030,Laptop Sleeve,Electronics,Accessories,3,23.75,0.1,64.12,Online,Rahul Jain,25-11-2024,Standard,Credit Card,No
+ORD100822,04-09-2023,C1039,Customer_419,Bengaluru,South,P013,Router,Electronics,Networking,4,93.17,0,372.68,Online,Neha Sharma,11-09-2023,Standard,Cash,No
+ORD100975,13-06-2024,C1042,Customer_49,Pune,West,P019,External HDD 1TB,Electronics,Storage,1,95.92,0,95.92,Online,Rita Patel,21-06-2024,SameDay,Credit Card,No
+ORD100102,21-10-2024,C1159,Customer_181,Ahmedabad,West,P005,"Monitor 24""",Electronics,Monitors,1,159.42,0.03,154.64,Offline,,21-10-2024,Express,Cash,No
+ORD100454,01-09-2024,C1003,Customer_126,Mumbai,West,P016,Filing Cabinet,Furniture,Storage,3,262.36,0,787.08,Offline,Sneha Kapoor,05-09-2024,SameDay,Cash,No
+ORD100943,01-09-2023,C1039,Customer_491,Kolkata,East,P019,External HDD 1TB,Electronics,Storage,3,82.37,0,247.11,Offline,,07-09-2023,SameDay,NetBanking,No
+ORD100756,20-08-2024,C1088,Customer_335,Ahmedabad,West,P017,Whiteboard,Office Supplies,Boards,4,59.8,0.03,232.02,Offline,Rahul Jain,23-08-2024,Express,NetBanking,Yes
+ORD100726,13-05-2024,C1207,Customer_474,Jaipur,North,P011,Pen Set,Office Supplies,Stationery,2,7.11,0,14.22,Online,Rahul Jain,15-05-2024,Standard,Credit Card,No
+ORD100628,22-09-2023,C1116,Customer_62,Bengaluru,South,P009,Desk Lamp,Office Supplies,Lamps,7,31.36,0.1,197.57,Online,,22-09-2023,SameDay,Credit Card,No
+ORD100981,15-12-2024,C1128,Customer_242,Hyderabad,South,P011,Pen Set,Office Supplies,Stationery,2,8.83,0.03,17.13,Online,Rahul Jain,20-12-2024,SameDay,NetBanking,No
+ORD100362,04-02-2024,C1082,Customer_69,Jaipur,North,P011,Pen Set,Office Supplies,Stationery,4,8.4,0.1,30.24,Offline,Rita Patel,10-02-2024,Standard,Cash,Yes
+ORD100633,08-02-2024,C1209,Customer_460,Pune,West,P009,Desk Lamp,Office Supplies,Lamps,3,30.82,0,92.46,Offline,,16-02-2024,Standard,Cash,No
+ORD100542,11-05-2024,C1142,Customer_101,Hyderabad,South,P027,Calculator,Office Supplies,Electronics,4,15.03,0,60.12,Online,Karan Mehta,17-05-2024,SameDay,NetBanking,No
+ORD100851,26-05-2023,C1206,Customer_463,Pune,West,P013,Router,Electronics,Networking,6,90.22,0.05,514.25,Online,,01-06-2023,Express,NetBanking,No
+ORD100741,20-03-2024,C1258,Customer_17,Jaipur,North,P014,Webcam,Electronics,Accessories,2,53.25,0,106.5,Online,,28-03-2024,SameDay,NetBanking,No
+ORD101102,28-03-2023,C1042,Customer_7,Chennai,South,P002,Laptop B,Electronics,Laptops,4,876.57,0.05,3330.97,Offline,,29-03-2023,SameDay,UPI,No
+ORD100623,09-05-2024,C1295,Customer_162,Ahmedabad,West,P028,Phone Stand,Electronics ,Accessories,3,11.04,0.05,31.46,Offline,Amit Verma,12-05-2024,Express,Cash,No
+ORD100475,07-10-2024,C1054,Customer_167,Jaipur,North,P016,Filing Cabinet,Furniture,Storage,2,318.92,0,637.84,Offline,,15-10-2024,Express,NetBanking,No
+ORD101087,01-10-2023,C1017,Customer_383,Lucknow,North,P015,Projector,Electronics,AV,2,694.63,0.03,1347.58,Offline,,01-10-2023,Express,Cash,No
+ORD100723,20-06-2023,C1184,Customer_204,Bengaluru,South,P007,Office Table,Furniture,Tables,3,217.68,0.03,633.45,Online,Vikram Rao,24-06-2023,Express,NetBanking,No
+ORD100671,13-08-2024,C1170,Customer_267,Ahmedabad,West,P014,Webcam,Electronics,Accessories,4,44.24,0.05,168.11,Offline,,20-08-2024,Standard,Cash,No
+ORD100068,30-04-2023,C1082,Customer_169,Ahmedabad,West,P009,Desk Lamp,Office Supplies,Lamps,2,32.59,0,65.18,Offline,,04-05-2023,Standard,Cash,No
+ORD100574,22-02-2023,C1162,Customer_194,Mumbai,West,P001,Laptop A,Electronics,Laptops,3,1309.43,0,3928.29,Offline,,28-02-2023,SameDay,Cash,No
+ORD101132,29-07-2023,C1042,Customer_252,Kolkata,East,P025,Project Mouse,Electronics,Accessories,3,24.67,0.05,70.31,Offline,Karan Mehta,03-08-2023,Standard,UPI,No
+ORD100565,07-07-2023,C1139,Customer_388,Ahmedabad,West,P007,Office Table,Furniture,Tables,4,255.78,0,1023.12,Offline,Priya Singh,09-07-2023,Express,Cash,No
+ORD101002,25-09-2024,C1147,Customer_107,Bengaluru,South,P027,Calculator,Office Supplies,Electronics,5,13.05,0,65.25,Online,,04-10-2024,Standard,NetBanking,No
+ORD101129,13-09-2024,C1199,Customer_402,Bengaluru,South,P006,Office Chair,Furniture,Chairs,3,143.26,0.1,386.8,Online,Rita Patel,17-09-2024,Standard,UPI,No
+ORD100252,12-11-2023,C1004,Customer_487,Kolkata,East,P029,Desk Organizer,Office Supplies,Storage,5,15.89,0.15,67.53,Online,Amit Verma,13-11-2023,Standard,NetBanking,No
+ORD100619,21-03-2024,C1097,Customer_58,Ahmedabad,West,P020,SSD 512GB,Electronics,Storage,2,122.5,0,245,Offline,,23-03-2024,SameDay,Cash,No
+ORD100685,13-06-2023,C1219,Customer_326,Delhi,North,P020,SSD 512GB,Electronics,Storage,1,135.83,0.05,129.04,Online,Rahul Jain,22-06-2023,Standard,NetBanking,No
+ORD100134,27-05-2024,C1169,Customer_140,Pune,West,P030,Laptop Sleeve,Electronics,Accessories,2,22.23,0.1,40.01,Offline,Vikram Rao,27-05-2024,SameDay,NetBanking,No
+ORD100597,07-07-2023,C1144,Customer_373,Chennai,South,P028,Phone Stand,Electronics,Accessories,4,11.63,0,46.52,Offline,,07-07-2023,Standard,Cash,No
+ORD101004,16-01-2024,C1053,Customer_323,Bengaluru,South,P021,Mouse,Electronics,Accessories,1,21.87,0.03,21.21,Offline,Lina Das,24-01-2024,SameDay,Cash,No
+ORD100127,16-04-2023,C1240,Customer_230,Delhi,North,P001,Laptop A,Electronics,Laptops,6,1330.45,0,7982.7,Offline,,23-04-2023,Standard,UPI,No
+ORD101097,21-08-2023,C1099,Customer_128,Bengaluru,South,P025,Project Mouse,Electronics,Accessories,1,22.89,0.03,22.2,Offline,,21-08-2023,Standard,Cash,No
+ORD100769,10-08-2023,C1144,Customer_283,Delhi,North,P008,Printer A,Electronics,Printers,3,247.07,0.1,667.09,Online,Rahul Jain,11-08-2023,Express,Cash,No
+ORD100237,25-12-2023,C1084,Customer_226,Pune,West,P029,Desk Organizer,office supplies,Storage,4,18.12,0,72.48,Online,,01-01-2024,Standard,Credit Card,No
+ORD101091,16-11-2024,C1234,Customer_425,Hyderabad,South,P004,Smartphone B,Electronics,Phones,2,478.16,0,956.32,Offline,Priya Singh,17-11-2024,Express,Credit Card,No
+ORD100806,01-12-2024,C1127,Customer_395,Mumbai,West,P024,Water Cooler,Appliances,Kitchen,3,197.2,0,591.6,Online,Neha Sharma,01-12-2024,Standard,Credit Card,No
+ORD100809,11-04-2024,C1115,Customer_472,Pune,West,P010,Notebook Pack,Office Supplies,Paper,5,12.41,0,62.05,Online,Amit Verma,15-04-2024,Standard,NetBanking,No
+ORD100790,09-02-2023,C1220,Customer_95,Mumbai,West,P029,Desk Organizer,Office Supplies,Storage,1,17.31,0,17.31,Online,Amit Verma,17-02-2023,Express,NetBanking,No
+ORD100055,29-10-2023,C1243,Customer_331,Chennai,South,P020,SSD 512GB,Electronics,Storage,6,136.8,0.05,779.76,Online,Saurabh Sen,02-11-2023,Standard,NetBanking,No
+ORD100918,02-09-2023,C1199,Customer_361,Kolkata,East,P004,Smartphone B,Electronics,Phones,2,446.73,0,893.46,Online,Lina Das,07-09-2023,Standard,NetBanking,No
+ORD100105,21-03-2023,C1232,Customer_175,Bengaluru,South,P001,Laptop A,Electronics,Laptops,7,1209.97,0,8469.79,Offline,Priya Singh,23-03-2023,SameDay,Credit Card,No
+ORD100163,14-01-2024,C1202,Customer_420,Jaipur,North,P007,Office Table,Furniture,Tables,5,260.03,0,1300.15,Offline,Rita Patel,23-01-2024,SameDay,UPI,No
+ORD100978,01-06-2024,C1065,Customer_388,Hyderabad,South,P016,Filing Cabinet,Furniture,Storage,2,320.58,0,641.16,Online,Karan Mehta,05-06-2024,Express,Credit Card,No
+ORD100596,01-07-2023,C1104,Customer_98,Ahmedabad,West,P012,Headphones,Electronics,Accessories,4,69.75,0.05,265.05,Online,Amit Verma,10-07-2023,Express,Cash,No
+ORD100904,29-12-2023,C1224,Customer_440,Mumbai,West,P017,Whiteboard,Office Supplies,Boards,7,61.88,0,433.16,Online,Vikram Rao,06-01-2024,Standard,NetBanking,No
+ORD100831,03-01-2024,C1045,Customer_37,Delhi,North,P026,Binder,Office Supplies,Stationery,1,3.73,0,3.73,Offline,Priya Singh,12-01-2024,Standard,UPI,No
+ORD100961,15-07-2023,C1194,Customer_324,Delhi,North,P005,"Monitor 24""",Electronics,Monitors,4,172.07,0.03,667.63,Online,Amit Verma,20-07-2023,Express,NetBanking,No
+ORD100959,16-09-2023,C1018,Customer_486,Hyderabad,South,P025,Project Mouse,Electronics,Accessories,3,22.67,0.05,64.61,Online,Neha Sharma,25-09-2023,SameDay,UPI,No
+ORD100518,30-09-2024,C1296,Customer_167,Lucknow,North,P004,Smartphone B,Electronics,Phones,1,440.5,0.03,427.28,Online,Rahul Jain,07-10-2024,Express,Credit Card,No
+ORD100631,18-12-2024,C1171,Customer_420,Bengaluru,South,P007,Office Table,Furniture,Tables,7,259.15,0,1814.05,Offline,,22-12-2024,SameDay,Cash,No
+ORD100925,08-01-2023,C1274,Customer_291,Mumbai,West,P007,Office Table,Furniture,Tables,1,236.14,0.03,229.06,Online,Sneha Kapoor,10-01-2023,Standard,NetBanking,No
+ORD101142,11-01-2023,C1223,Customer_316,Delhi,North,P002,Laptop B,Electronics,Laptops,6,1005.8,0.15,5129.58,Online,Sneha Kapoor,15-01-2023,Express,NetBanking,No
+ORD100543,13-05-2024,C1184,Customer_204,Jaipur,North,P001,Laptop A,Electronics,Laptops,3,1079.49,0.15,2752.7,Online,Saurabh Sen,14-05-2024,Express,UPI,No
+ORD100721,17-01-2023,C1026,Customer_325,Kolkata,East,P022,Keyboard,Electronics,Accessories,2,31.92,0.1,57.46,Offline,Saurabh Sen,23-01-2023,Express,Credit Card,No
+ORD100570,17-11-2023,C1283,Customer_351,Chennai,South,P002,Laptop B,Electronics,Laptops,1,963.96,0,963.96,Online,Rita Patel,19-11-2023,Express,Cash,No
+ORD100656,11-11-2024,C1155,Customer_291,Pune,West,P003,Smartphone A,Electronics,Phones,2,590.57,0,1181.14,Online,,14-11-2024,Express,Credit Card,No
+ORD100874,26-04-2023,C1164,Customer_396,Bengaluru,South,P005,"Monitor 24""",Electronics,Monitors,1,171.12,0,171.12,Offline,,30-04-2023,Standard,NetBanking,No
+ORD100406,09-01-2024,C1017,Customer_102,Pune,West,P029,Desk Organizer,Office Supplies,Storage,6,17.92,0,107.52,Online,Priya Singh,10-01-2024,SameDay,NetBanking,No
+ORD101045,09-12-2024,C1079,Customer_301,Chennai,South,P028,Phone Stand,Electronics,Accessories,1,13.3,0.03,12.9,Online,Lina Das,14-12-2024,Express,Cash,No
+ORD100923,30-12-2024,C1026,Customer_199,Kolkata,East,P028,Phone Stand,Electronics,Accessories,5,10.44,0,52.2,Online,,08-01-2025,Standard,Cash,No
+ORD100446,16-06-2024,C1201,Customer_314,Hyderabad,South,P020,SSD 512GB,Electronics,Storage,2,121.17,0,242.34,Offline,,17-06-2024,Express,Credit Card,No
+ORD100479,06-10-2023,C1149,Customer_200,Mumbai,West,P016,Filing Cabinet,Furniture,Storage,2,310.88,0.05,590.67,Online,Sneha Kapoor,08-10-2023,SameDay,Credit Card,No
+ORD100744,31-01-2024,C1294,Customer_393,Jaipur,North,P024,Water Cooler,Appliances,Kitchen,3,216.29,0.1,583.98,Online,,31-01-2024,SameDay,Cash,No
+ORD101060,26-06-2024,C1191,Customer_13,Bengaluru,South,P014,Webcam,Electronics,Accessories,4,47.59,0.15,161.81,Offline,,01-07-2024,SameDay,NetBanking,No
+ORD100261,11-08-2023,C1181,Customer_110,Mumbai,West,P002,Laptop B,Electronics,Laptops,1,914.86,0.05,869.12,Online,,16-08-2023,SameDay,Cash,No
+ORD100294,22-12-2023,C1004,Customer_115,Chennai,South,P008,Printer A,Electronics,Printers,5,236.12,0,1180.6,Offline,Saurabh Sen,24-12-2023,SameDay,Credit Card,No
+ORD100573,17-07-2024,C1172,Customer_87,Mumbai,West,P012,Headphones,Electronics,Accessories,3,78.08,0,234.24,Online,Sneha Kapoor,20-07-2024,Express,Credit Card,No
+ORD100850,26-01-2023,C1123,Customer_285,Pune,West,P008,Printer A,Electronics,Printers,2,248.85,,497.7,Online,Amit Verma,27-01-2023,Express,UPI,No
+ORD100781,03-04-2023,C1219,Customer_457,Delhi,North,P029,Desk Organizer,Office Supplies,Storage,1,16.56,0,16.56,Offline,Amit Verma,03-04-2023,SameDay,UPI,No
+ORD100758,05-05-2023,C1092,Customer_197,Lucknow,North,P004,Smartphone B,Electronics,Phones,3,430.95,0.15,1098.92,Online,Amit Verma,07-05-2023,SameDay,Cash,No
+ORD100159,03-07-2024,C1194,Customer_76,Ahmedabad,West,P016,Filing Cabinet,Furniture,Storage,2,292.07,0.1,525.73,Online,,04-07-2024,Express,NetBanking,No
+ORD100987,19-03-2024,C1225,Customer_218,Ahmedabad,West,P003,Smartphone A,Electronics,Phones,1,746.35,0.05,709.03,Online,Rahul Jain,24-03-2024,Standard,UPI,No
+ORD100333,24-11-2023,C1287,Customer_443,Mumbai,West,P009,Desk Lamp,Office Supplies,Lamps,3,35.2,0,105.6,Offline,Sneha Kapoor,03-12-2023,Standard,UPI,No
+ORD100279,27-04-2023,C1278,Customer_199,Chennai,South,P007,Office Table,Furniture,Tables,2,256.77,0.15,436.51,Online,Rita Patel,27-04-2023,Express,Cash,No
+ORD101179,24-02-2023,C1097,Customer_250,Hyderabad,South,P016,Filing Cabinet,Furniture,Storage,1,261.69,0.05,248.61,Online,Amit Verma,03-03-2023,Standard,UPI,No
+ORD100533,29-07-2024,C1011,Customer_151,Delhi,North,P006,Office Chair,Furniture,Chairs,2,154.76,0,309.52,Online,Rahul Jain,03-08-2024,SameDay,NetBanking,No
+ORD101022,03-08-2023,C1051,Customer_196,Kolkata,East,P015,Projector,Electronics,AV,2,718.9,0,1437.8,Offline,Amit Verma,10-08-2023,Express,Credit Card,No
+ORD100014,05-08-2023,C1036,Customer_264,Lucknow,North,P011,Pen Set,Office Supplies,Stationery,3,7.47,0,22.41,Online,Lina Das,05-08-2023,Standard,Credit Card,No
+ORD101162,07-12-2024,C1213,Customer_87,Kolkata,East,P005,"Monitor 24""",Electronics ,Monitors,1,190.65,0.05,181.12,Offline,Vikram Rao,13-12-2024,Standard,UPI,No
+ORD100392,15-08-2023,C1146,Customer_238,Lucknow,North,P019,External HDD 1TB,Electronics,Storage,2,81.84,0,163.68,Online,,19-08-2023,Express,Cash,No
+ORD100422,10-11-2023,C1265,Customer_70,Chennai,South,P013,Router,Electronics,Networking,4,81.76,0,327.04,Offline,Rita Patel,11-11-2023,Express,Credit Card,No
+ORD101031,07-03-2024,C1292,Customer_149,Kolkata,East,P024,Water Cooler,Appliances,Kitchen,5,241.69,0.05,1148.03,Offline,,09-03-2024,Express,Credit Card,No
+ORD100954,21-08-2024,C1140,Customer_250,Kolkata,East,P027,Calculator,Office Supplies,Electronics,2,14.22,0.03,27.59,Offline,Saurabh Sen,28-08-2024,SameDay,UPI,No
+ORD100891,05-10-2023,C1290,Customer_496,Pune,West,P011,Pen Set,Office Supplies,Stationery,2,8.41,0,16.82,Offline,Vikram Rao,14-10-2023,SameDay,UPI,No
+ORD100747,13-01-2024,C1064,Customer_267,Mumbai,West,P013,Router,Electronics,Networking,4,88.69,0.05,337.02,Offline,Amit Verma,22-01-2024,Standard,Cash,No
+ORD100236,29-09-2023,C1160,Customer_189,Delhi,North,P001,Laptop A,Electronics,Laptops,7,1334.52,0.05,8874.56,Offline,,07-10-2023,Standard,NetBanking,No
+ORD100466,29-07-2023,C1227,Customer_260,Chennai,South,P015,Projector,Electronics,AV,4,583.3,0.05,2216.54,Online,Saurabh Sen,04-08-2023,Standard,UPI,No
+ORD100291,25-01-2024,C1188,Customer_422,Kolkata,East,P019,External HDD 1TB,Electronics,Storage,3,93.09,0.03,270.89,Online,,02-02-2024,Standard,Cash,No
+ORD100233,18-04-2023,C1067,Customer_452,Jaipur,North,P021,Mouse,Electronics,Accessories,1,18.4,0.05,17.48,Online,Priya Singh,24-04-2023,Standard,Cash,No
+ORD100857,06-07-2023,C1230,Customer_414,Mumbai,West,P004,Smartphone B,Electronics,Phones,5,360.67,0,1803.35,Offline,Priya Singh,15-07-2023,SameDay,Credit Card,No
+ORD100409,18-02-2024,C1127,Customer_81,Delhi,North,P026,Binder,Office Supplies,Stationery,4,4.51,0,18.04,Offline,,18-02-2024,Standard,Cash,No
+ORD100847,12-06-2023,C1227,Customer_258,Delhi,North,P026,Binder,Office Supplies,Stationery,2,3.67,0.05,6.97,Online,Lina Das,17-06-2023,Standard,Cash,No
+ORD100319,10-01-2024,C1267,Customer_353,Hyderabad,South,P003,Smartphone A,Electronics,Phones,1,584.16,0.05,554.95,Online,,15-01-2024,SameDay,NetBanking,No
+ORD100914,27-03-2024,C1270,Customer_415,Kolkata,East,P021,Mouse,Electronics,Accessories,1,18.95,0,18.95,Online,Vikram Rao,01-04-2024,SameDay,UPI,No
+ORD100819,27-05-2023,C1270,Customer_358,Delhi,North,P005,"Monitor 24""",Electronics,Monitors,2,163.38,0.03,316.96,Online,Priya Singh,31-05-2023,Express,NetBanking,No
+ORD100646,08-12-2023,C1250,Customer_2,Bengaluru,South,P010,Notebook Pack,Office Supplies,Paper,6,12.83,0,76.98,Online,,11-12-2023,Standard,UPI,No
+ORD100654,13-07-2023,C1061,Customer_27,Mumbai,West,P011,Pen Set,Office Supplies,Stationery,4,8.47,0,33.88,Offline,Neha Sharma,13-07-2023,Standard,Cash,No
+ORD100801,18-08-2024,C1008,Customer_276,Hyderabad,South,P029,Desk Organizer,Office Supplies,Storage,2,16.65,0,33.3,Online,,27-08-2024,Express,NetBanking,No
+ORD100059,14-04-2023,C1251,Customer_53,Lucknow,North,P010,Notebook Pack,Office Supplies,Paper,4,12.71,,50.84,Online,Vikram Rao,23-04-2023,Standard,UPI,No
+ORD100915,31-01-2024,C1208,Customer_291,Ahmedabad,West,P026,Binder,Office Supplies ,Stationery,4,3.79,0.03,14.71,Online,,06-02-2024,Standard,NetBanking,Yes
+ORD100916,11-07-2024,C1256,Customer_181,Hyderabad,South,P018,Stapler,Office Supplies,Stationery,1,5.34,0.05,5.07,Online,,12-07-2024,SameDay,Cash,No
+ORD100461,22-03-2024,C1281,Customer_166,Lucknow,North,P002,Laptop B,Electronics,Laptops,1,964.97,0,964.97,Online,Amit Verma,22-03-2024,SameDay,UPI,No
+ORD101051,18-01-2023,C1037,Customer_101,Kolkata,East,P010,Notebook Pack,Office Supplies,Paper,4,11.83,0.03,45.9,Online,Lina Das,27-01-2023,Express,Cash,No
+ORD100534,31-01-2023,C1118,Customer_428,Lucknow,North,P014,Webcam,Electronics,Accessories,1,52.82,0,52.82,Online,Rita Patel,07-02-2023,Express,Credit Card,No
+ORD100973,02-11-2023,C1208,Customer_288,Chennai,South,P024,Water Cooler,Appliances,Kitchen,1,198.21,0,198.21,Offline,Sneha Kapoor,10-11-2023,SameDay,Cash,No
+ORD100638,03-02-2024,C1014,Customer_456,Bengaluru,South,P013,Router,Electronics,Networking,1,96.27,0,96.27,Offline,Sneha Kapoor,05-02-2024,SameDay,UPI,No
+ORD101058,24-03-2023,C1155,Customer_190,Lucknow,North,P022,Keyboard,Electronics,Accessories,1,34.25,0,34.25,Offline,,29-03-2023,Express,UPI,No
+ORD100401,23-06-2024,C1122,Customer_265,Lucknow,North,P007,Office Table,Furniture,Tables,2,239.11,0,478.22,Offline,Neha Sharma,28-06-2024,SameDay,Cash,No
+ORD100993,16-06-2024,C1279,Customer_414,Ahmedabad,West,P021,Mouse,Electronics,Accessories,3,21.41,0,64.23,Online,,22-06-2024,Express,Cash,No
+ORD100371,07-06-2023,C1203,Customer_377,Pune,West,P013,Router,Electronics,Networking,5,105.77,0.05,502.41,Offline,Rahul Jain,13-06-2023,SameDay,Cash,No
+ORD100399,12-02-2024,C1069,Customer_177,Delhi,North,P018,Stapler,office supplies,Stationery,1,5.29,0,5.29,Offline,Vikram Rao,19-02-2024,Express,NetBanking,No
+ORD100615,12-08-2024,C1130,Customer_300,Lucknow,North,P003,Smartphone A,Electronics,Phones,2,659.08,0,1318.16,Online,Saurabh Sen,17-08-2024,Standard,Cash,No
+ORD100896,09-05-2023,C1128,Customer_70,Ahmedabad,West,P009,Desk Lamp,Office Supplies,Lamps,1,31.11,0.03,30.18,Offline,Rahul Jain,10-05-2023,SameDay,UPI,No
+ORD101064,11-06-2024,C1133,Customer_286,Ahmedabad,West,P005,"Monitor 24""",Electronics,Monitors,5,162.12,0,810.6,Offline,Lina Das,11-06-2024,Standard,Cash,No
+ORD100037,20-07-2023,C1171,Customer_48,Kolkata,East,P015,Projector,Electronics,AV,1,615.05,0,615.05,Offline,,23-07-2023,SameDay,NetBanking,No
+ORD100589,11-06-2024,C1162,Customer_451,Pune,West,P015,Projector,Electronics,AV,5,624.88,0.05,2968.18,Offline,Vikram Rao,16-06-2024,Standard,UPI,No
+ORD100677,15-06-2023,C1075,Customer_241,Mumbai,West,P005,"Monitor 24""",Electronics,Monitors,3,205.3,0,615.9,Online,Vikram Rao,20-06-2023,SameDay,UPI,No
+ORD100106,20-10-2024,C1248,Customer_311,Hyderabad,South,P006,Office Chair,Furniture,Chairs,3,171.12,0.03,497.96,Online,,20-10-2024,Standard,Credit Card,No
+ORD100322,09-10-2024,C1228,Customer_162,Pune,West,P017,Whiteboard,Office Supplies,Boards,4,77.66,0,310.64,Offline,,17-10-2024,Express,Cash,No
+ORD100351,11-09-2023,C1162,Customer_249,Jaipur,North,P007,Office Table,Furniture,Tables,2,223.13,0.03,432.87,Offline,Karan Mehta,12-09-2023,SameDay,NetBanking,No
+ORD100356,08-12-2024,C1084,Customer_388,Delhi,North,P015,Projector,Electronics,AV,5,638.77,0.03,3098.03,Offline,Karan Mehta,12-12-2024,SameDay,NetBanking,No
+ORD100251,24-11-2023,C1100,Customer_376,Ahmedabad,West,P012,Headphones,Electronics,Accessories,1,79.4,0,79.4,Offline,,28-11-2023,Express,UPI,No
+ORD100706,02-06-2023,C1166,Customer_210,Kolkata,East,P022,Keyboard,Electronics,Accessories,1,38.45,0.05,36.53,Offline,Neha Sharma,06-06-2023,SameDay,Credit Card,No
+ORD100390,11-05-2024,C1130,Customer_244,Chennai,South,P011,Pen Set,Office Supplies,Stationery,3,8.12,0.05,23.14,Offline,Saurabh Sen,17-05-2024,Standard,Cash,No
+ORD100443,09-09-2024,C1118,Customer_352,Bengaluru,South,P025,Project Mouse,Electronics,Accessories,2,23.37,0,46.74,Online,Amit Verma,16-09-2024,SameDay,UPI,No
+ORD100722,10-11-2023,C1084,Customer_370,Bengaluru,South,P005,"Monitor 24""",Electronics,Monitors,2,180.42,0,360.84,Online,Rahul Jain,10-11-2023,Standard,NetBanking,No
+ORD100215,15-08-2023,C1247,Customer_179,Delhi,North,P014,Webcam,Electronics,Accessories,2,56.74,0.1,102.13,Online,,20-08-2023,Standard,UPI,No
+ORD100338,30-11-2023,C1162,Customer_270,Ahmedabad,West,P005,"Monitor 24""",Electronics,Monitors,2,179.24,0,358.48,Online,,02-12-2023,SameDay,UPI,No
+ORD100056,10-06-2023,C1271,Customer_177,Mumbai,West,P023,Coffee Maker,Appliances,Kitchen,1,85.06,0.03,82.51,Online,Vikram Rao,15-06-2023,SameDay,NetBanking,No
+ORD100181,01-01-2023,C1008,Customer_124,Chennai,South,P015,Projector,Electronics,AV,3,722.13,0.03,2101.4,Online,,05-01-2023,Standard,Credit Card,No
+ORD100053,30-05-2024,C1142,Customer_452,Jaipur,North,P026,Binder,Office Supplies,Stationery,3,3.43,0,10.29,Offline,Neha Sharma,03-06-2024,SameDay,UPI,No
+ORD100660,27-09-2023,C1139,Customer_126,Pune,West,P018,Stapler,Office Supplies,Stationery,1,6.62,0.03,6.42,Online,Lina Das,29-09-2023,Express,UPI,No
+ORD101127,20-08-2023,C1090,Customer_260,Hyderabad,South,P018,Stapler,Office Supplies,Stationery,2,6.8,0,13.6,Online,,24-08-2023,Standard,UPI,No
+ORD100346,03-06-2023,C1144,Customer_392,Ahmedabad,West,P024,Water Cooler,Appliances,Kitchen,2,203.87,0.05,387.35,Online,,06-06-2023,Express,Credit Card,No
+ORD100231,02-07-2023,C1219,Customer_423,Mumbai,West,P016,Filing Cabinet,Furniture,Storage,3,291.4,0.05,830.49,Online,,05-07-2023,SameDay,UPI,No
+ORD100151,11-08-2023,C1127,Customer_493,Delhi,North,P011,Pen Set,Office Supplies,Stationery,3,8.95,0.1,24.16,Offline,Rita Patel,16-08-2023,Standard,Credit Card,No
+ORD101009,24-09-2023,C1088,Customer_155,Chennai,South,P002,Laptop B,Electronics,Laptops,1,870.39,0.05,826.87,Online,,01-10-2023,Express,NetBanking,No
+ORD101029,21-06-2023,C1161,Customer_232,Delhi,North,P022,Keyboard,Electronics,Accessories,5,31.79,0.03,154.18,Offline,Saurabh Sen,21-06-2023,Standard,NetBanking,No
+ORD100230,11-09-2024,C1188,Customer_233,Chennai,South,P005,"Monitor 24""",Electronics,Monitors,1,159.51,0.03,154.72,Offline,Neha Sharma,18-09-2024,SameDay,Credit Card,No
+ORD100524,07-11-2023,C1201,Customer_246,Bengaluru,South,P029,Desk Organizer,Office Supplies,Storage,1,18.42,0,18.42,Online,Neha Sharma,07-11-2023,Standard,Cash,No
+ORD100796,10-07-2023,C1262,Customer_498,Bengaluru,South,P009,Desk Lamp,Office Supplies,Lamps,1,35.74,0,35.74,Offline,Amit Verma,12-07-2023,Standard,NetBanking,No
+ORD101105,11-07-2023,C1293,Customer_443,Ahmedabad,West,P022,Keyboard,Electronics,Accessories,1,31.62,0.05,30.04,Offline,,16-07-2023,SameDay,Credit Card,No
+ORD101015,07-12-2024,C1051,Customer_336,Pune,West,P009,Desk Lamp,Office Supplies,Lamps,2,33.03,0.03,64.08,Online,Rahul Jain,11-12-2024,SameDay,Credit Card,No
+ORD100257,30-11-2024,C1127,Customer_496,Delhi,North,P010,Notebook Pack,Office Supplies,Paper,5,10.77,0.05,51.16,Online,Rahul Jain,02-12-2024,Express,Credit Card,No
+ORD100388,15-04-2024,C1100,Customer_75,Bengaluru,South,P013,Router,Electronics,Networking,3,84.66,0,253.98,Online,Lina Das,19-04-2024,Standard,UPI,No
+ORD100525,07-05-2023,C1183,Customer_152,Delhi,North,P026,Binder,Office Supplies,Stationery,4,3.81,0.03,14.78,Offline,Rita Patel,11-05-2023,SameDay,Credit Card,No
+ORD100185,01-07-2023,C1115,Customer_154,Lucknow,North,P021,Mouse,Electronics,Accessories,3,18.06,0,54.18,Offline,,08-07-2023,Standard,UPI,No
+ORD100043,09-01-2023,C1215,Customer_200,Pune,West,P005,"Monitor 24""",Electronics,Monitors,4,168.06,0.05,638.63,Online,,12-01-2023,Express,Cash,No
+ORD100473,15-07-2023,C1238,Customer_241,Jaipur,North,P030,Laptop Sleeve,Electronics,Accessories,5,23.45,0,117.25,Online,Priya Singh,19-07-2023,SameDay,Cash,No
+ORD100856,08-05-2023,C1106,Customer_201,Delhi,North,P015,Projector,Electronics,AV,1,680.84,0,680.84,Online,Rahul Jain,11-05-2023,Standard,Credit Card,No
+ORD100142,29-04-2024,C1102,Customer_406,Lucknow,North,P012,Headphones,Electronics,Accessories,3,67.85,0.05,193.37,Offline,,04-05-2024,Standard,NetBanking,No
+ORD100807,13-10-2023,C1288,Customer_457,Ahmedabad,West,P003,Smartphone A,Electronics,Phones,4,747.41,0,2989.64,Online,,14-10-2023,Standard,UPI,No
+ORD101074,17-02-2024,C1070,Customer_450,Kolkata,East,P008,Printer A,Electronics,Printers,6,196.64,0.1,1061.86,Offline,Rahul Jain,19-02-2024,Express,NetBanking,No
+ORD101075,10-11-2023,C1105,Customer_395,Delhi,North,P029,Desk Organizer,Office Supplies,Storage,5,18.68,0,93.4,Offline,Amit Verma,10-11-2023,SameDay,NetBanking,No
+ORD100880,20-09-2023,C1050,Customer_26,Delhi,North,P004,Smartphone B,Electronics,Phones,3,373.63,0,1120.89,Offline,Neha Sharma,20-09-2023,Express,Cash,No
+ORD100683,13-07-2024,C1051,Customer_11,Chennai,South,P006,Office Chair,Furniture,Chairs,4,127.8,0.03,495.86,Online,Karan Mehta,21-07-2024,Standard,NetBanking,No
+ORD101196,16-06-2023,C1198,Customer_388,Jaipur,North,P027,Calculator,Office Supplies,Electronics,2,17.1,0,34.2,Online,Amit Verma,21-06-2023,Standard,NetBanking,No
+ORD100329,30-03-2024,C1231,Customer_413,Hyderabad,South,P022,Keyboard,Electronics,Accessories,2,29.81,0,59.62,Offline,Neha Sharma,05-04-2024,SameDay,NetBanking,No
+ORD100512,06-07-2024,C1020,Customer_69,Delhi,North,P006,Office Chair,Furniture,Chairs,3,164.32,0.05,468.31,Offline,Rahul Jain,12-07-2024,Standard,UPI,No
+ORD100853,03-12-2023,C1278,Customer_472,Hyderabad,South,P018,Stapler,Office Supplies ,Stationery,1,6.27,0.03,6.08,Online,Priya Singh,12-12-2023,Express,Credit Card,No
+ORD100579,06-06-2023,C1102,Customer_187,Kolkata,East,P006,Office Chair,Furniture,Chairs,5,169.39,0,846.95,Offline,Vikram Rao,14-06-2023,SameDay,Cash,No
+ORD100783,30-05-2024,C1136,Customer_61,Bengaluru,South,P007,Office Table,Furniture,Tables,2,223.52,0.05,424.69,Offline,Neha Sharma,06-06-2024,Standard,NetBanking,No
+ORD101088,14-03-2023,C1005,Customer_293,Mumbai,West,P029,Desk Organizer,Office Supplies,Storage,1,20.11,0,20.11,Online,Rahul Jain,17-03-2023,SameDay,Credit Card,No
+ORD100724,20-02-2024,C1195,Customer_219,Jaipur,North,P013,Router,Electronics ,Networking,5,101.12,0.05,480.32,Offline,Saurabh Sen,28-02-2024,Express,NetBanking,No
+ORD101056,26-11-2024,C1241,Customer_53,Hyderabad,South,P030,Laptop Sleeve,Electronics,Accessories,2,24.1,0.05,45.79,Online,Sneha Kapoor,01-12-2024,Standard,NetBanking,No
+ORD101099,03-04-2024,C1232,Customer_79,Chennai,South,P021,Mouse,Electronics,Accessories,5,20.68,0,103.4,Online,,12-04-2024,Express,NetBanking,No
+ORD100888,09-08-2023,C1247,Customer_58,Jaipur,North,P016,Filing Cabinet,Furniture,Storage,2,286.03,0,572.06,Online,,17-08-2023,SameDay,UPI,No
+ORD100784,15-04-2024,C1064,Customer_80,Jaipur,North,P014,Webcam,Electronics,Accessories,5,43.98,0.05,208.9,Online,Karan Mehta,19-04-2024,Express,Cash,No
+ORD100931,27-10-2024,C1220,Customer_273,Pune,West,P009,Desk Lamp,Office Supplies,Lamps,6,32.85,0,197.1,Offline,Amit Verma,29-10-2024,Express,Cash,Yes
+ORD101085,10-10-2024,C1073,Customer_116,Ahmedabad,West,P022,Keyboard,Electronics,Accessories,1,33.35,0.03,32.35,Online,Rita Patel,17-10-2024,SameDay,NetBanking,No
+ORD100643,03-08-2024,C1250,Customer_375,Lucknow,North,P015,Projector,Electronics,AV,3,628.91,0,1886.73,Offline,Lina Das,11-08-2024,Express,UPI,No
+ORD101062,21-07-2024,C1030,Customer_52,Jaipur,North,P006,Office Chair,Furniture,Chairs,2,140.26,0,280.52,Offline,Amit Verma,22-07-2024,Express,Cash,No
+ORD100283,15-02-2023,C1098,Customer_65,Ahmedabad,West,P029,Desk Organizer,Office Supplies,Storage,3,16.07,0.03,46.76,Online,Priya Singh,18-02-2023,Express,NetBanking,No
+ORD100645,06-09-2024,C1191,Customer_156,Delhi,North,P018,Stapler,Office Supplies,Stationery,2,5.65,0,11.3,Offline,Priya Singh,08-09-2024,SameDay,UPI,Yes
+ORD100417,18-04-2023,C1188,Customer_407,Jaipur,North,P030,Laptop Sleeve,Electronics,Accessories,4,22.9,0,91.6,Online,Rita Patel,27-04-2023,Standard,UPI,No
+ORD101122,21-10-2023,C1169,Customer_46,Bengaluru,South,P003,Smartphone A,Electronics,Phones,1,647.08,0.1,582.37,Online,Sneha Kapoor,28-10-2023,Standard,NetBanking,Yes
+ORD100642,17-10-2023,C1243,Customer_110,Hyderabad,South,P019,External HDD 1TB,Electronics,Storage,3,94.59,0,283.77,Offline,Priya Singh,23-10-2023,Express,Cash,No
+ORD100980,05-01-2024,C1138,Customer_268,Lucknow,North,P005,"Monitor 24""",Electronics,Monitors,4,170.93,0,683.72,Offline,Neha Sharma,02-01-2024,Standard,Cash,No
+ORD100114,29-04-2023,C1236,Customer_232,Jaipur,North,P021,Mouse,Electronics,Accessories,4,19.47,0,77.88,Online,Rita Patel,29-04-2023,Express,UPI,No
+ORD100804,31-12-2024,C1083,Customer_454,Bengaluru,South,P006,Office Chair,furniture,Chairs,2,129.3,0,258.6,Online,Lina Das,09-01-2025,SameDay,NetBanking,No
+ORD100289,05-01-2024,C1208,Customer_380,Chennai,South,P028,Phone Stand,Electronics,Accessories,6,13.57,0.03,78.98,Offline,,08-01-2024,Express,Cash,No
+ORD100780,24-08-2023,C1270,Customer_264,Mumbai,West,P010,Notebook Pack,Office Supplies,Paper,4,11.2,0,44.8,Offline,,31-08-2023,Express,UPI,Yes
+ORD101092,30-09-2023,C1258,Customer_94,Chennai,South,P004,Smartphone B,Electronics,Phones,2,394.7,0,789.4,Online,,02-10-2023,Express,Cash,No
+ORD100271,17-01-2024,C1000,Customer_486,Lucknow,North,P011,Pen Set,Office Supplies,Stationery,2,7.16,0.1,12.89,Offline,Sneha Kapoor,21-01-2024,Standard,Cash,No
+ORD100708,01-08-2023,C1224,Customer_72,Bengaluru,South,P001,Laptop A,Electronics,Laptops,1,1345.28,0.05,1278.02,Offline,,07-08-2023,Express,Cash,No
+ORD100313,30-11-2023,C1051,Customer_464,Delhi,North,P008,Printer A,Electronics,Printers,3,190.77,,572.31,Online,,30-11-2023,Express,NetBanking,No
+ORD100688,27-08-2024,C1205,Customer_327,Bengaluru,South,P016,Filing Cabinet,Furniture,Storage,2,301.15,0.15,511.95,Offline,,27-08-2024,SameDay,Cash,No
+ORD100284,03-11-2024,C1044,Customer_199,Pune,West,P002,Laptop B,Electronics,Laptops,1,967,0,967,Online,,04-11-2024,SameDay,UPI,No
+ORD100129,22-02-2023,C1149,Customer_220,Ahmedabad,West,P014,Webcam,Electronics,Accessories,1,47.71,0.03,46.28,Offline,Priya Singh,24-02-2023,Express,Credit Card,No
+ORD100395,30-08-2023,C1203,Customer_269,Delhi,North,P009,Desk Lamp,Office Supplies,Lamps,5,30.15,0,150.75,Online,Rahul Jain,05-09-2023,Standard,Credit Card,No
+ORD100326,11-08-2024,C1097,Customer_367,Pune,West,P005,"Monitor 24""",Electronics,Monitors,1,168.59,0.03,163.53,Online,Vikram Rao,16-08-2024,Standard,Credit Card,No
+ORD100926,09-12-2024,C1125,Customer_150,Mumbai,West,P002,Laptop B,Electronics,Laptops,4,972.37,0.05,3695.01,Online,,17-12-2024,Standard,NetBanking,No
+ORD100893,16-03-2024,C1250,Customer_157,Chennai,South,P006,Office Chair,Furniture,Chairs,3,150.32,0.15,383.32,Online,,17-03-2024,Express,Credit Card,No
+ORD101106,08-01-2024,C1211,Customer_411,Pune,West,P017,Whiteboard,Office Supplies,Boards,3,67.77,0.05,193.14,Offline,,13-01-2024,Standard,NetBanking,Yes
+ORD100040,17-04-2024,C1286,Customer_305,Lucknow,North,P014,Webcam,Electronics,Accessories,3,45.64,0.03,132.81,Offline,Amit Verma,23-04-2024,Standard,Cash,No
+ORD100306,25-05-2023,C1148,Customer_234,Chennai,South,P023,Coffee Maker,Appliances,Kitchen,6,87.06,0,522.36,Online,Priya Singh,29-05-2023,SameDay,UPI,No
+ORD100373,10-04-2024,C1045,Customer_33,Mumbai,West,P023,Coffee Maker,Appliances,Kitchen,3,102.35,0.1,276.34,Online,Neha Sharma,11-04-2024,Standard,Credit Card,No
+ORD100825,06-05-2024,C1161,Customer_48,Mumbai,West,P018,Stapler,Office Supplies,Stationery,1,5.4,0.05,5.13,Online,Vikram Rao,13-05-2024,SameDay,Credit Card,No
+ORD100495,28-05-2024,C1139,Customer_172,Hyderabad,South,P026,Binder,Office Supplies,Stationery,3,4.2,0.1,11.34,Online,Priya Singh,03-06-2024,SameDay,UPI,No
+ORD100272,25-03-2023,C1169,Customer_382,Pune,West,P023,Coffee Maker,Appliances,Kitchen,2,87.24,0.15,148.31,Online,Rahul Jain,25-03-2023,SameDay,NetBanking,No
+ORD100008,12-12-2023,C1239,Customer_271,Delhi,North,P025,Project Mouse,Electronics,Accessories,4,21.98,0,87.92,Online,,18-12-2023,SameDay,Cash,No
+ORD100892,10-10-2024,C1285,Customer_341,Chennai,South,P026,Binder,Office Supplies,Stationery,7,3.59,0.1,22.62,Online,Amit Verma,12-10-2024,SameDay,NetBanking,No
+ORD100742,09-02-2023,C1276,Customer_124,Delhi,North,P005,"Monitor 24""",Electronics,Monitors,5,185.39,0.05,880.6,Offline,,18-02-2023,SameDay,Cash,No
+ORD100652,13-07-2024,C1162,Customer_196,Pune,West,P018,Stapler,Office Supplies,Stationery,4,5.63,0.05,21.39,Online,Rita Patel,18-07-2024,Standard,UPI,No
+ORD100944,05-10-2023,C1162,Customer_138,Ahmedabad,West,P030,Laptop Sleeve,Electronics,Accessories,1,19.59,0,19.59,Offline,Saurabh Sen,13-10-2023,SameDay,Credit Card,No
+ORD100397,22-06-2023,C1280,Customer_228,Mumbai,West,P017,Whiteboard,Office Supplies,Boards,4,62.65,0,250.6,Online,,26-06-2023,Express,Cash,No
+ORD100414,24-06-2024,C1078,Customer_314,Hyderabad,South,P001,Laptop A,Electronics,Laptops,1,1266.71,0.1,1140.04,Online,Karan Mehta,26-06-2024,SameDay,Cash,No
+ORD101164,03-09-2023,C1005,Customer_377,Hyderabad,South,P015,Projector,Electronics,AV,1,661.25,0.1,595.12,Online,Vikram Rao,07-09-2023,SameDay,Cash,No
+ORD100755,03-04-2024,C1026,Customer_61,Bengaluru,South,P022,Keyboard,Electronics,Accessories,4,33.53,0.03,130.1,Offline,Neha Sharma,07-04-2024,Standard,Credit Card,No
+ORD101007,27-08-2024,C1205,Customer_304,Mumbai,West,P022,Keyboard,Electronics,Accessories,7,39.53,0.05,262.87,Online,,04-09-2024,SameDay,Credit Card,No
+ORD100504,06-05-2024,C1170,Customer_350,Delhi,North,P014,Webcam,Electronics,Accessories,3,56.76,0.05,161.77,Online,Amit Verma,06-05-2024,SameDay,Cash,No
+ORD100532,02-03-2024,C1200,Customer_460,Jaipur,North,P017,Whiteboard,Office Supplies,Boards,4,67.6,0.03,262.29,Offline,Rita Patel,02-03-2024,SameDay,Credit Card,No
+ORD100972,23-09-2023,C1217,Customer_263,Lucknow,North,P001,Laptop A,Electronics,Laptops,5,1360.55,0,6802.75,Online,Priya Singh,01-10-2023,Express,NetBanking,No
+ORD100740,04-05-2024,C1041,Customer_179,Hyderabad,South,P022,Keyboard,Electronics,Accessories,3,35.83,0,107.49,Online,,13-05-2024,Standard,UPI,No
+ORD100863,25-09-2024,C1017,Customer_491,Ahmedabad,West,P011,Pen Set,Office Supplies,Stationery,1,7.37,0.05,7,Offline,Neha Sharma,30-09-2024,Express,UPI,No
+ORD100960,30-12-2023,C1254,Customer_145,Kolkata,East,P021,Mouse,Electronics,Accessories,5,17.29,0.05,82.13,Online,Lina Das,31-12-2023,Standard,NetBanking,No
+ORD100491,24-09-2024,C1120,Customer_249,Delhi,North,P028,Phone Stand,Electronics,Accessories,5,11.21,0,56.05,Online,,29-09-2024,Standard,Cash,No
+ORD100079,11-05-2024,C1050,Customer_390,Jaipur,North,P011,Pen Set,Office Supplies,Stationery,3,8.88,0.05,25.31,Online,Lina Das,12-05-2024,SameDay,UPI,No
+ORD100910,19-10-2024,C1178,Customer_300,Pune,West,P027,Calculator,Office Supplies,Electronics,5,13.32,0.05,63.27,Offline,Lina Das,24-10-2024,SameDay,UPI,No
+ORD100342,20-03-2024,C1275,Customer_274,Lucknow,North,P025,Project Mouse,Electronics,Accessories,6,23.17,0,139.02,Offline,Rita Patel,26-03-2024,SameDay,NetBanking,No
+ORD101190,31-12-2023,C1141,Customer_102,Bengaluru,South,P025,Project Mouse,Electronics,Accessories,1,27.32,0,27.32,Offline,,31-12-2023,Standard,Cash,No
+ORD100049,14-07-2023,C1058,Customer_399,Jaipur,North,P005,"Monitor 24""",Electronics,Monitors,3,188.51,0,565.53,Online,Lina Das,16-07-2023,Express,UPI,No
+ORD100250,20-06-2024,C1233,Customer_5,Kolkata,East,P029,Desk Organizer,Office Supplies,Storage,1,18.27,0,18.27,Online,Neha Sharma,25-06-2024,Express,UPI,No
+ORD100999,11-12-2023,C1097,Customer_383,Kolkata,East,P006,Office Chair,Furniture,Chairs,3,141.72,0.05,403.9,Offline,Rita Patel,19-12-2023,SameDay,NetBanking,No
+ORD100020,06-04-2024,C1257,Customer_471,Kolkata,East,P023,Coffee Maker,Appliances,Kitchen,4,99.42,0,397.68,Offline,Sneha Kapoor,12-04-2024,SameDay,Credit Card,No
+ORD100569,23-09-2024,C1235,Customer_19,Lucknow,North,P011,Pen Set,Office Supplies,Stationery,5,7.77,0,38.85,Online,,27-09-2024,Express,Credit Card,No
+ORD101052,20-03-2023,C1220,Customer_441,Delhi,North,P016,Filing Cabinet,Furniture ,Storage,4,324.59,0,1298.36,Offline,Sneha Kapoor,21-03-2023,SameDay,NetBanking,No
+ORD100135,19-03-2023,C1265,Customer_137,Pune,West,P004,Smartphone B,Electronics,Phones,2,398.59,0,797.18,Offline,,27-03-2023,Express,UPI,No
+ORD100536,29-12-2023,C1180,Customer_146,Chennai,South,P010,Notebook Pack,Office Supplies,Paper,1,11.6,0,11.6,Online,,02-01-2024,Express,UPI,No
+ORD100567,15-01-2024,C1167,Customer_79,Bengaluru,South,P016,Filing Cabinet,Furniture,Storage,1,318.64,0,318.64,Online,Priya Singh,22-01-2024,Standard,Cash,No
+ORD100653,10-07-2023,C1030,Customer_315,Delhi,North,P009,Desk Lamp,Office Supplies,Lamps,2,35.09,0.1,63.16,Online,Vikram Rao,17-07-2023,Express,Credit Card,No
+ORD100696,22-10-2023,C1071,Customer_296,Kolkata,East,P026,Binder,Office Supplies,Stationery,2,3.72,0.1,6.7,Offline,,30-10-2023,Express,NetBanking,No
+ORD101032,26-04-2023,C1162,Customer_258,Pune,West,P006,Office Chair,Furniture,Chairs,4,148.6,0.1,534.96,Offline,Karan Mehta,26-04-2023,Express,UPI,No
+ORD100481,05-09-2023,C1286,Customer_421,Lucknow,North,P019,External HDD 1TB,Electronics,Storage,1,74.03,,74.03,Offline,,05-09-2023,Express,Credit Card,No
+ORD100033,08-08-2023,C1295,Customer_98,Ahmedabad,West,P009,Desk Lamp,Office Supplies,Lamps,2,30.29,0.1,54.52,Offline,Karan Mehta,10-08-2023,Express,Cash,No
+ORD100989,24-10-2024,C1128,Customer_351,Kolkata,East,P003,Smartphone A,Electronics,Phones,4,611.55,0.05,2323.89,Online,,25-10-2024,SameDay,NetBanking,No
+ORD100382,05-06-2023,C1127,Customer_429,Bengaluru,South,P029,Desk Organizer,Office Supplies,Storage,1,16.94,0.03,16.43,Online,Rita Patel,05-06-2023,Standard,NetBanking,No
+ORD100025,12-11-2024,C1139,Customer_145,Mumbai,West,P026,Binder,Office Supplies,Stationery,3,4.37,0.05,12.45,Offline,,15-11-2024,Standard,UPI,No
+ORD100047,12-06-2023,C1041,Customer_241,Kolkata,East,P009,Desk Lamp,Office Supplies,Lamps,1,36.6,0.05,34.77,Offline,Karan Mehta,12-06-2023,Express,UPI,No
+ORD101027,30-10-2024,C1175,Customer_175,Ahmedabad,West,P020,SSD 512GB,Electronics,Storage,4,128.71,0,514.84,Offline,Lina Das,01-11-2024,SameDay,UPI,No
+ORD100174,10-10-2023,C1041,Customer_270,Hyderabad,South,P024,Water Cooler,Appliances,Kitchen,1,209.82,0.1,188.84,Offline,,15-10-2023,Express,NetBanking,No
+ORD100029,13-08-2023,C1090,Customer_452,Kolkata,East,P012,Headphones,Electronics,Accessories,2,66.45,0.1,119.61,Online,Karan Mehta,18-08-2023,Express,NetBanking,No
+ORD100571,22-02-2023,C1145,Customer_165,Jaipur,North,P018,Stapler,Office Supplies,Stationery,4,5.85,0,23.4,Online,Saurabh Sen,28-02-2023,Express,Cash,No
+ORD100153,13-07-2023,C1055,Customer_221,Kolkata,East,P015,Projector,electronics,AV,3,661.07,0,1983.21,Offline,Amit Verma,17-07-2023,Express,Cash,No
+ORD100745,19-01-2024,C1223,Customer_414,Hyderabad,South,P030,Laptop Sleeve,Electronics,Accessories,3,22.33,0.03,64.98,Offline,,21-01-2024,SameDay,Cash,No
+ORD100785,11-07-2023,C1219,Customer_127,Kolkata,East,P012,Headphones,Electronics,Accessories,3,76.82,0,230.46,Online,,13-07-2023,Express,Credit Card,No
+ORD101011,18-07-2023,C1049,Customer_199,Lucknow,North,P012,Headphones,Electronics,Accessories,2,70.78,0,141.56,Offline,,25-07-2023,Express,Cash,No
+ORD100161,30-06-2024,C1272,Customer_176,Mumbai,West,P028,Phone Stand,Electronics,Accessories,4,13.54,0,54.16,Online,Saurabh Sen,07-07-2024,Express,Cash,No
+ORD100244,20-05-2024,C1028,Customer_159,Delhi,North,P025,Project Mouse,Electronics,Accessories,2,27.1,0,54.2,Offline,,26-05-2024,Standard,Credit Card,No
+ORD100510,24-08-2024,C1112,Customer_33,Delhi,North,P010,Notebook Pack,Office Supplies,Paper,2,11.87,0,23.74,Offline,Lina Das,02-09-2024,SameDay,Credit Card,No
+ORD100158,13-01-2023,C1013,Customer_306,Mumbai,West,P019,External HDD 1TB,Electronics,Storage,1,89.71,0,89.71,Offline,Karan Mehta,21-01-2023,Express,UPI,No
+ORD100530,29-10-2024,C1107,Customer_386,Bengaluru,South,P023,Coffee Maker,Appliances,Kitchen,1,88.12,0.1,79.31,Offline,Sneha Kapoor,29-10-2024,SameDay,Cash,No
+ORD100501,20-10-2024,C1054,Customer_468,Kolkata,East,P015,Projector,Electronics,AV,2,726.54,0.03,1409.49,Offline,Rahul Jain,22-10-2024,Standard,NetBanking,No
+ORD100432,04-12-2024,C1075,Customer_445,Kolkata,East,P005,"Monitor 24""",Electronics,Monitors,2,181.1,0,362.2,Online,,04-12-2024,SameDay,Credit Card,No
+ORD100958,28-09-2023,C1262,Customer_345,Hyderabad,South,P024,Water Cooler,Appliances,Kitchen,1,227.28,0,227.28,Online,,29-09-2023,SameDay,Credit Card,No
+ORD101094,21-09-2024,C1115,Customer_432,Mumbai,West,P028,Phone Stand,Electronics,Accessories,4,12.44,0.05,47.27,Offline,Saurabh Sen,26-09-2024,SameDay,NetBanking,No
+ORD100332,13-09-2024,C1146,Customer_350,Mumbai,West,P029,Desk Organizer,Office Supplies,Storage,4,18.77,0,75.08,Online,Amit Verma,17-09-2024,Standard,Credit Card,No
+ORD101128,14-08-2023,C1178,Customer_350,Jaipur,North,P005,"Monitor 24""",Electronics,Monitors,5,186.3,0,931.5,Online,Lina Das,15-08-2023,SameDay,Credit Card,No
+ORD100366,14-05-2024,C1047,Customer_247,Pune,West,P028,Phone Stand,Electronics,Accessories,1,12.75,0,12.75,Online,Lina Das,15-05-2024,Express,Credit Card,No
+ORD101123,11-03-2023,C1181,Customer_91,Ahmedabad,West,P004,Smartphone B,Electronics,Phones,1,434.39,0,434.39,Offline,,12-03-2023,SameDay,Cash,No
+ORD100054,01-06-2024,C1143,Customer_451,Jaipur,North,P015,Projector,Electronics,AV,1,624.68,0.1,562.21,Offline,Karan Mehta,01-06-2024,Express,NetBanking,No
+ORD100584,19-06-2024,C1268,Customer_129,Pune,West,P022,Keyboard,Electronics,Accessories,6,37.74,0.05,215.12,Online,Sneha Kapoor,27-06-2024,SameDay,Credit Card,No
+ORD100680,14-05-2023,C1001,Customer_328,Hyderabad,South,P019,External HDD 1TB,Electronics,Storage,4,78.65,0.05,298.87,Offline,Neha Sharma,19-05-2023,Standard,Cash,No
+ORD100894,06-07-2023,C1100,Customer_222,Mumbai,West,P001,Laptop A,Electronics,Laptops,2,1168.03,0,2336.06,Online,Vikram Rao,06-07-2023,Express,NetBanking,No
+ORD101069,06-12-2023,C1231,Customer_456,Delhi,North,P006,Office Chair,Furniture,Chairs,1,157.35,0,157.35,Offline,Lina Das,08-12-2023,Standard,Credit Card,No
+ORD100768,10-01-2024,C1193,Customer_497,Delhi,North,P003,Smartphone A,Electronics ,Phones,3,585.93,0,1757.79,Offline,,13-01-2024,Express,NetBanking,No
+ORD100024,08-06-2024,C1154,Customer_314,Bengaluru,South,P007,Office Table,Furniture,Tables,2,218.27,0,436.54,Offline,,09-06-2024,Standard,UPI,No
+ORD100298,24-01-2023,C1097,Customer_176,Jaipur,North,P005,"Monitor 24""",Electronics,Monitors,2,175.98,0,351.96,Offline,Vikram Rao,27-01-2023,Express,Cash,No
+ORD100556,27-05-2023,C1009,Customer_397,Bengaluru,South,P005,"Monitor 24""",Electronics,Monitors,2,169.84,0,339.68,Online,Vikram Rao,02-06-2023,Standard,Credit Card,No
+ORD100575,10-04-2024,C1173,Customer_86,Ahmedabad,West,P019,External HDD 1TB,Electronics,Storage,1,82.49,0.1,74.24,Online,,17-04-2024,SameDay,NetBanking,No
+ORD100018,02-02-2023,C1030,Customer_85,Lucknow,North,P002,Laptop B,Electronics,Laptops,2,825.61,0,1651.22,Online,Priya Singh,04-02-2023,Standard,NetBanking,No
+ORD100990,07-04-2024,C1286,Customer_449,Pune,West,P004,Smartphone B,Electronics,Phones,3,377.34,0.03,1098.06,Offline,Rahul Jain,08-04-2024,Express,Cash,No
+ORD100254,21-07-2024,C1201,Customer_39,Lucknow,North,P002,Laptop B,Electronics,Laptops,3,996.2,0.05,2839.17,Offline,,21-07-2024,Express,Credit Card,No
+ORD100225,03-05-2024,C1217,Customer_53,Delhi,North,P017,Whiteboard,Office Supplies,Boards,1,79.33,0.05,75.36,Offline,,09-05-2024,Express,Credit Card,No
+ORD100599,29-11-2024,C1131,Customer_38,Mumbai,West,P021,Mouse,Electronics,Accessories,2,19.3,0,38.6,Offline,Rahul Jain,05-12-2024,SameDay,Cash,No
+ORD100867,20-02-2024,C1215,Customer_62,Pune,West,P029,Desk Organizer,Office Supplies,Storage,5,18.92,0.1,85.14,Offline,,23-02-2024,Standard,Credit Card,No
+ORD100419,14-04-2023,C1295,Customer_184,Kolkata,East,P008,Printer A,Electronics,Printers,5,199.8,0.03,969.03,Online,Saurabh Sen,22-04-2023,SameDay,NetBanking,No
+ORD100951,31-10-2023,C1093,Customer_371,Hyderabad,South,P002,Laptop B,Electronics,Laptops,3,898.45,0,2695.35,Offline,,05-11-2023,Express,Cash,No
+ORD101034,01-12-2023,C1114,Customer_71,Jaipur,North,P027,Calculator,Office Supplies,Electronics,2,13.07,0.05,24.83,Online,,07-12-2023,Express,Cash,No
+ORD100222,26-11-2023,C1183,Customer_488,Lucknow,North,P006,Office Chair,Furniture,Chairs,3,158.58,0,475.74,Online,Saurabh Sen,03-12-2023,Express,NetBanking,No
+ORD100934,24-09-2023,C1140,Customer_44,Ahmedabad,West,P018,Stapler,office supplies,Stationery,7,6.73,0.05,44.75,Offline,Rahul Jain,29-09-2023,Express,NetBanking,No
+ORD100424,11-03-2023,C1204,Customer_292,Hyderabad,South,P004,Smartphone B,Electronics,Phones,7,467.46,0,3272.22,Online,Rahul Jain,14-03-2023,SameDay,NetBanking,No
+ORD100218,20-07-2023,C1032,Customer_296,Kolkata,East,P001,Laptop A,Electronics,Laptops,1,1297.53,0,1297.53,Offline,Lina Das,20-07-2023,Standard,NetBanking,No
+ORD100307,18-09-2023,C1084,Customer_486,Lucknow,North,P024,Water Cooler,Appliances,Kitchen,4,208.46,0,833.84,Offline,Neha Sharma,24-09-2023,Standard,UPI,No
+ORD100922,30-08-2024,C1155,Customer_401,Bengaluru,South,P018,Stapler,Office Supplies,Stationery,7,5.42,0,37.94,Offline,,04-09-2024,Standard,Cash,No
+ORD100171,31-05-2024,C1127,Customer_4,Pune,West,P020,SSD 512GB,Electronics,Storage,2,133.56,0.05,253.76,Offline,Saurabh Sen,03-06-2024,Express,Credit Card,No
+ORD100442,26-06-2024,C1140,Customer_78,Bengaluru,South,P011,Pen Set,Office Supplies,Stationery,3,9.01,0,27.03,Online,,03-07-2024,Express,Cash,No
+ORD100878,30-12-2023,C1295,Customer_332,Jaipur,North,P030,Laptop Sleeve,Electronics,Accessories,1,20.77,0.03,20.15,Online,,02-01-2024,Standard,UPI,No
+ORD100705,18-06-2024,C1275,Customer_150,Ahmedabad,West,P030,Laptop Sleeve,Electronics,Accessories,4,20.38,0,81.52,Online,Neha Sharma,25-06-2024,Standard,NetBanking,No
+ORD100770,13-03-2024,C1272,Customer_283,Mumbai,West,P009,Desk Lamp,Office Supplies,Lamps,3,35.87,0,107.61,Online,Karan Mehta,18-03-2024,Express,NetBanking,No
+ORD100286,27-10-2024,C1292,Customer_312,Ahmedabad,West,P004,Smartphone B,Electronics,Phones,1,407.01,0.03,394.8,Online,,05-11-2024,SameDay,UPI,No
+ORD100066,13-04-2023,C1117,Customer_493,Jaipur,North,P009,Desk Lamp,office supplies,Lamps,1,30.65,0,30.65,Offline,Priya Singh,15-04-2023,Express,UPI,No
+ORD100453,28-01-2023,C1254,Customer_438,Jaipur,North,P010,Notebook Pack,Office Supplies ,Paper,1,12.8,0.05,12.16,Offline,,28-01-2023,Standard,NetBanking,Yes
+ORD101171,25-05-2023,C1277,Customer_295,Ahmedabad,West,P010,Notebook Pack,Office Supplies,Paper,1,12.99,0,12.99,Online,Rita Patel,01-06-2023,Standard,Credit Card,No
+ORD100071,13-07-2024,C1081,Customer_160,Chennai,South,P009,Desk Lamp,Office Supplies,Lamps,6,31.67,0.03,184.32,Offline,,19-07-2024,Standard,Credit Card,No
+ORD100897,29-08-2024,C1223,Customer_50,Chennai,South,P014,Webcam,Electronics,Accessories,3,49.56,0,148.68,Offline,Priya Singh,02-09-2024,SameDay,Cash,No
+ORD100412,26-08-2023,C1283,Customer_83,Jaipur,North,P002,Laptop B,Electronics,Laptops,4,1028.79,0,4115.16,Offline,Saurabh Sen,31-08-2023,Standard,NetBanking,No
+ORD100082,10-09-2023,C1176,Customer_301,Jaipur,North,P015,Projector,Electronics,AV,4,570.92,0,2283.68,Offline,,09-09-2023,Express,UPI,No
+ORD100156,19-05-2023,C1263,Customer_72,Lucknow,North,P020,SSD 512GB,Electronics,Storage,2,135.55,0.03,262.97,Online,Amit Verma,24-05-2023,SameDay,UPI,No
+ORD101158,30-05-2023,C1272,Customer_467,Hyderabad,South,P027,Calculator,Office Supplies,Electronics,2,13.1,0.03,25.41,Online,Vikram Rao,05-06-2023,SameDay,NetBanking,No
+ORD100015,04-06-2024,C1048,Customer_50,Jaipur,North,P008,Printer A,Electronics,Printers,1,237.97,0,237.97,Online,Saurabh Sen,06-06-2024,SameDay,Cash,No
+ORD100265,30-04-2023,C1051,Customer_127,Chennai,South,P029,Desk Organizer,Office Supplies,Storage,5,15.55,0.1,69.98,Online,,03-05-2023,SameDay,UPI,No
+ORD100535,10-12-2023,C1227,Customer_235,Pune,West,P017,Whiteboard,Office Supplies,Boards,6,70.11,0,420.66,Offline,,15-12-2023,Express,Cash,No
+ORD100816,05-09-2024,C1056,Customer_31,Kolkata,East,P014,Webcam,Electronics,Accessories,5,42.79,0,213.95,Online,Sneha Kapoor,13-09-2024,Standard,Credit Card,No
+ORD100451,20-03-2024,C1081,Customer_194,Delhi,North,P024,Water Cooler,Appliances,Kitchen,1,194.53,0,194.53,Offline,,29-03-2024,SameDay,Cash,No
+ORD100882,31-03-2023,C1207,Customer_201,Kolkata,East,P008,Printer A,Electronics,Printers,3,193.29,0,579.87,Online,Amit Verma,04-04-2023,SameDay,UPI,No
+ORD100965,24-04-2024,C1210,Customer_201,Mumbai,West,P014,Webcam,Electronics,Accessories,3,55.06,0,165.18,Offline,Vikram Rao,30-04-2024,Express,Credit Card,No
+ORD100404,14-07-2024,C1255,Customer_191,Bengaluru,South,P004,Smartphone B,Electronics,Phones,2,389.18,0,778.36,Offline,,12-07-2024,Standard,NetBanking,Yes
+ORD101116,27-01-2024,C1275,Customer_297,Kolkata,East,P012,Headphones,Electronics,Accessories,3,71.14,0,213.42,Offline,Saurabh Sen,04-02-2024,SameDay,NetBanking,No
+ORD100490,22-06-2023,C1143,Customer_141,Chennai,South,P006,Office Chair,Furniture,Chairs,4,170.83,0,683.32,Online,Vikram Rao,28-06-2023,Standard,Credit Card,No
+ORD101079,20-12-2024,C1065,Customer_266,Jaipur,North,P021,Mouse,Electronics,Accessories,2,21.18,0.05,40.24,Online,Vikram Rao,20-12-2024,Express,Credit Card,No
+ORD100541,14-01-2024,C1205,Customer_317,Jaipur,North,P019,External HDD 1TB,Electronics,Storage,2,93.63,0.05,177.9,Offline,,16-01-2024,Express,Credit Card,No
+ORD100693,11-10-2024,C1278,Customer_468,Hyderabad,South,P002,Laptop B,Electronics,Laptops,2,1059.71,0,2119.42,Online,,18-10-2024,Express,UPI,No
+ORD100739,04-02-2024,C1263,Customer_212,Lucknow,North,P020,SSD 512GB,Electronics,Storage,3,129.31,0.03,376.29,Offline,,07-02-2024,Standard,UPI,No
+ORD100364,30-12-2023,C1093,Customer_320,Ahmedabad,West,P003,Smartphone A,Electronics,Phones,4,600.01,0,2400.04,Offline,,04-01-2024,Standard,Cash,No
+ORD100629,02-11-2024,C1053,Customer_362,Chennai,South,P018,Stapler,Office Supplies,Stationery,3,6.02,0.03,17.52,Offline,,05-11-2024,Standard,UPI,No
+ORD100459,02-08-2023,C1092,Customer_453,Chennai,South,P020,SSD 512GB,Electronics,Storage,1,102.65,0.03,99.57,Offline,,05-08-2023,SameDay,Cash,No
+ORD100104,13-02-2024,C1173,Customer_180,Lucknow,North,P026,Binder,Office Supplies,Stationery,1,4.44,0.1,4,Online,Lina Das,17-02-2024,SameDay,UPI,Yes
+ORD100268,21-06-2024,C1103,Customer_413,Mumbai,West,P010,Notebook Pack,office supplies,Paper,3,10.77,0.1,29.08,Online,Amit Verma,23-06-2024,Standard,Credit Card,No
+ORD100608,26-01-2023,C1002,Customer_169,Delhi,North,P012,Headphones,Electronics,Accessories,2,82.81,0,165.62,Offline,Rahul Jain,30-01-2023,Express,Cash,No
+ORD101121,09-07-2024,C1036,Customer_315,Ahmedabad,West,P025,Project Mouse,Electronics,Accessories,1,27.64,0,27.64,Offline,,07-07-2024,SameDay,Credit Card,No
+ORD100957,03-09-2023,C1070,Customer_143,Jaipur,North,P019,External HDD 1TB,Electronics,Storage,5,74.45,0,372.25,Online,,07-09-2023,Standard,Credit Card,No
+ORD100661,17-06-2023,C1243,Customer_3,Hyderabad,South,P022,Keyboard,Electronics,Accessories,3,30.29,0.05,86.33,Online,Rita Patel,22-06-2023,Express,Credit Card,No
+ORD100241,11-01-2023,C1037,Customer_9,Hyderabad,South,P029,Desk Organizer,Office Supplies,Storage,7,20.18,0.05,134.2,Offline,Rahul Jain,14-01-2023,SameDay,Cash,No
+ORD100430,08-06-2023,C1211,Customer_217,Lucknow,North,P020,SSD 512GB,Electronics,Storage,2,102.83,0.03,199.49,Online,Sneha Kapoor,10-06-2023,Express,UPI,No
+ORD100814,19-05-2023,C1170,Customer_71,Bengaluru,South,P003,Smartphone A,Electronics,Phones,4,663.35,0,2653.4,Online,,28-05-2023,Express,Cash,No
+ORD100962,01-03-2024,C1250,Customer_408,Hyderabad,South,P019,External HDD 1TB,Electronics,Storage,3,92.25,0,276.75,Offline,Saurabh Sen,07-03-2024,Standard,UPI,No
+ORD100203,14-05-2024,C1002,Customer_483,Delhi,North,P008,Printer A,Electronics,Printers,4,251.32,0,1005.28,Offline,Rahul Jain,21-05-2024,SameDay,NetBanking,No
+ORD101172,08-11-2024,C1211,Customer_260,Delhi,North,P007,Office Table,Furniture,Tables,2,246.78,0.03,478.75,Online,Rahul Jain,15-11-2024,Standard,NetBanking,No
+ORD100595,02-02-2024,C1045,Customer_491,Delhi,North,P020,SSD 512GB,Electronics,Storage,3,116.89,0,350.67,Offline,Sneha Kapoor,02-02-2024,Standard,Credit Card,No
+ORD100630,20-09-2024,C1060,Customer_446,Jaipur,North,P002,Laptop B,Electronics,Laptops,1,816.8,0,816.8,Offline,,29-09-2024,Standard,Credit Card,No
+ORD100096,15-03-2023,C1215,Customer_270,Mumbai,West,P026,Binder,Office Supplies,Stationery,5,4.4,0.05,20.9,Online,Amit Verma,22-03-2023,Standard,UPI,Yes
+ORD100467,22-01-2024,C1264,Customer_347,Lucknow,North,P001,Laptop A,Electronics,Laptops,5,1150.72,0,5753.6,Online,Sneha Kapoor,27-01-2024,Express,UPI,No
+ORD100868,30-05-2023,C1002,Customer_467,Ahmedabad,West,P004,Smartphone B,Electronics,Phones,2,455.7,0.15,774.69,Offline,Lina Das,01-06-2023,SameDay,Credit Card,No
+ORD100492,12-03-2024,C1196,Customer_122,Mumbai,West,P006,Office Chair,Furniture,Chairs,1,151.83,0,151.83,Offline,Priya Singh,12-03-2024,SameDay,NetBanking,No
+ORD100166,25-05-2023,C1244,Customer_334,Jaipur,North,P004,Smartphone B,Electronics,Phones,2,470.35,0,940.7,Online,,01-06-2023,Standard,NetBanking,No
+ORD100909,05-05-2023,C1034,Customer_470,Ahmedabad,West,P021,Mouse,Electronics,Accessories,2,17.15,0,34.3,Offline,Rita Patel,09-05-2023,Standard,UPI,No
+ORD100701,26-07-2023,C1105,Customer_159,Bengaluru,South,P030,Laptop Sleeve,Electronics,Accessories,4,20.55,0,82.2,Online,Rahul Jain,03-08-2023,Express,Credit Card,No
+ORD100694,16-11-2024,C1262,Customer_390,Chennai,South,P009,Desk Lamp,Office Supplies ,Lamps,3,33.92,,101.76,Offline,,23-11-2024,Express,Cash,No
+ORD100009,03-03-2024,C1134,Customer_498,Mumbai,West,P009,Desk Lamp,Office Supplies,Lamps,1,34.95,0.1,31.46,Online,,06-03-2024,Express,UPI,No
+ORD100604,14-07-2023,C1223,Customer_60,Jaipur,North,P030,Laptop Sleeve,Electronics,Accessories,6,23.39,0.03,136.13,Online,Sneha Kapoor,20-07-2023,Standard,NetBanking,Yes
+ORD100315,21-11-2024,C1137,Customer_450,Mumbai,West,P024,Water Cooler,Appliances,Kitchen,1,189.74,0.15,161.28,Online,,28-11-2024,SameDay,NetBanking,No
+ORD100773,04-06-2023,C1040,Customer_40,Lucknow,North,P009,Desk Lamp,Office Supplies,Lamps,2,37.49,0.05,71.23,Online,Vikram Rao,06-06-2023,Standard,UPI,No
+ORD100361,07-11-2023,C1212,Customer_416,Lucknow,North,P006,Office Chair,Furniture,Chairs,1,151.61,0,151.61,Offline,Sneha Kapoor,07-11-2023,Standard,UPI,No
+ORD100138,19-12-2024,C1187,Customer_186,Hyderabad,South,P022,Keyboard,Electronics,Accessories,6,35.38,0,212.28,Online,Amit Verma,25-12-2024,SameDay,Cash,Yes
+ORD100823,26-11-2024,C1039,Customer_186,Hyderabad,South,P023,Coffee Maker,Appliances,Kitchen,2,88.46,0,176.92,Offline,,03-12-2024,Standard,UPI,No
+ORD100276,18-07-2023,C1222,Customer_81,Delhi,North,P029,Desk Organizer,Office Supplies,Storage,1,18.68,0,18.68,Online,Karan Mehta,27-07-2023,SameDay,Cash,No
+ORD100384,09-08-2023,C1143,Customer_204,Hyderabad,South,P016,Filing Cabinet,Furniture,Storage,3,311.15,0,933.45,Offline,,13-08-2023,SameDay,UPI,No
+ORD100568,21-04-2023,C1133,Customer_278,Delhi,North,P010,Notebook Pack,Office Supplies,Paper,5,10.96,0,54.8,Online,,27-04-2023,Express,Cash,No
+ORD101076,26-07-2024,C1183,Customer_384,Delhi,North,P013,Router,Electronics,Networking,3,89.69,0,269.07,Online,Rahul Jain,01-08-2024,SameDay,Credit Card,No
+ORD100772,19-09-2024,C1257,Customer_147,Hyderabad,South,P030,Laptop Sleeve,Electronics,Accessories,4,20.33,0.03,78.88,Online,,26-09-2024,SameDay,Cash,No
+ORD100088,25-11-2024,C1202,Customer_8,Delhi,North,P028,Phone Stand,Electronics,Accessories,4,12.9,0,51.6,Offline,Priya Singh,25-11-2024,Standard,Cash,No
+ORD100090,26-06-2023,C1209,Customer_60,Lucknow,North,P001,Laptop A,Electronics,Laptops,6,1039.25,0.05,5923.72,Offline,,04-07-2023,SameDay,Credit Card,No
+ORD100765,02-04-2024,C1217,Customer_482,Pune,West,P005,"Monitor 24""",Electronics,Monitors,4,182.95,0.05,695.21,Online,Saurabh Sen,02-04-2024,Express,NetBanking,No
+ORD100280,13-03-2023,C1031,Customer_78,Pune,West,P006,Office Chair,Furniture,Chairs,4,148.41,0,593.64,Offline,Rahul Jain,18-03-2023,Express,Cash,No
+ORD100651,11-09-2023,C1043,Customer_414,Lucknow,North,P001,Laptop A,Electronics,Laptops,6,1230.16,0,7380.96,Online,Amit Verma,19-09-2023,Standard,NetBanking,No
+ORD100460,26-08-2024,C1212,Customer_212,Chennai,South,P020,SSD 512GB,Electronics,Storage,6,111.2,0.03,647.18,Online,Amit Verma,04-09-2024,Express,Credit Card,No
+ORD100884,14-07-2023,C1170,Customer_461,Ahmedabad,West,P006,Office Chair,Furniture,Chairs,4,149.3,0.03,579.28,Offline,,23-07-2023,SameDay,NetBanking,No
+ORD100799,22-01-2024,C1127,Customer_422,Lucknow,North,P006,Office Chair,Furniture,Chairs,2,167.73,0.05,318.69,Online,Vikram Rao,26-01-2024,Standard,UPI,No
+ORD100300,27-04-2023,C1215,Customer_404,Chennai,South,P004,Smartphone B,Electronics,Phones,3,406.83,0.03,1183.88,Online,,30-04-2023,SameDay,Credit Card,No
+ORD100859,20-06-2023,C1186,Customer_59,Chennai,South,P006,Office Chair,Furniture,Chairs,2,139.31,0.05,264.69,Online,Sneha Kapoor,26-06-2023,SameDay,Credit Card,No
+ORD100202,18-09-2023,C1151,Customer_409,Jaipur,North,P021,Mouse,Electronics,Accessories,4,19.07,0,76.28,Offline,Sneha Kapoor,22-09-2023,Express,Cash,No
+ORD100402,18-12-2023,C1148,Customer_57,Ahmedabad,West,P025,Project Mouse,Electronics,Accessories,2,21.77,0,43.54,Offline,Vikram Rao,18-12-2023,SameDay,UPI,No
+ORD100340,11-08-2024,C1124,Customer_491,Ahmedabad,West,P012,Headphones,Electronics,Accessories,1,73.05,0,73.05,Offline,Saurabh Sen,20-08-2024,SameDay,Credit Card,No
+ORD100365,31-03-2024,C1103,Customer_268,Bengaluru,South,P022,Keyboard,Electronics,Accessories,1,37.68,0.05,35.8,Offline,,05-04-2024,SameDay,Credit Card,No
+ORD100023,29-04-2024,C1037,Customer_276,Chennai,South,P013,Router,Electronics,Networking,2,87.85,0.05,166.91,Offline,Karan Mehta,02-05-2024,Standard,Credit Card,No
+ORD100345,13-01-2024,C1003,Customer_329,Chennai,South,P027,Calculator,Office Supplies,Electronics,5,14.37,0.05,68.26,Offline,Neha Sharma,13-01-2024,Express,Cash,No
+ORD100676,08-04-2023,C1095,Customer_125,Ahmedabad,West,P020,SSD 512GB,Electronics,Storage,2,119.39,0,238.78,Online,,17-04-2023,SameDay,UPI,No
+ORD101173,31-08-2024,C1082,Customer_34,Pune,West,P021,Mouse,Electronics,Accessories,4,20.41,0.15,69.39,Offline,,09-09-2024,Standard,Credit Card,No
+ORD100334,26-10-2024,C1213,Customer_490,Lucknow,North,P008,Printer A,Electronics,Printers,2,212.09,0.03,411.45,Offline,Sneha Kapoor,29-10-2024,SameDay,UPI,No
+ORD100310,13-11-2024,C1138,Customer_319,Lucknow,North,P015,Projector,Electronics,AV,2,737.47,0,1474.94,Offline,Rita Patel,21-11-2024,Standard,Credit Card,No
+ORD101152,08-10-2023,C1186,Customer_461,Lucknow,North,P013,Router,Electronics,Networking,1,92.3,0.03,89.53,Online,Sneha Kapoor,16-10-2023,Standard,NetBanking,No
+ORD100640,28-09-2023,C1120,Customer_413,Delhi,North,P021,Mouse,Electronics,Accessories,3,22.28,0,66.84,Online,,05-10-2023,Standard,Cash,No
+ORD100353,07-10-2023,C1143,Customer_440,Hyderabad,South,P027,Calculator,Office Supplies,Electronics,1,13.33,0.05,12.66,Offline,Rita Patel,16-10-2023,Express,Cash,No
+ORD100735,13-11-2023,C1015,Customer_300,Ahmedabad,West,P028,Phone Stand,Electronics,Accessories,1,10.57,0.03,10.25,Online,,21-11-2023,Standard,UPI,No
+ORD101184,27-02-2024,C1121,Customer_417,Ahmedabad,West,P009,Desk Lamp,Office Supplies,Lamps,6,38.86,0,233.16,Offline,,04-03-2024,Standard,UPI,No
+ORD100240,02-03-2023,C1036,Customer_271,Kolkata,East,P017,Whiteboard,Office Supplies,Boards,3,64.94,0.15,165.6,Offline,Vikram Rao,09-03-2023,Standard,Cash,No
+ORD100666,14-05-2024,C1132,Customer_478,Jaipur,North,P009,Desk Lamp,Office Supplies,Lamps,1,36.83,0,36.83,Online,Saurabh Sen,18-05-2024,SameDay,NetBanking,No
+ORD100318,31-05-2023,C1225,Customer_24,Hyderabad,South,P020,SSD 512GB,Electronics,Storage,2,103.08,0.05,195.85,Online,,09-06-2023,SameDay,NetBanking,No
+ORD101038,23-03-2023,C1266,Customer_241,Hyderabad,South,P004,Smartphone B,Electronics,Phones,5,412.52,0,2062.6,Online,Sneha Kapoor,31-03-2023,Standard,Credit Card,No
+ORD100262,11-04-2024,C1245,Customer_32,Chennai,South,P030,Laptop Sleeve,Electronics,Accessories,3,23.72,0.1,64.04,Offline,,15-04-2024,SameDay,NetBanking,No
+ORD100098,26-02-2024,C1041,Customer_165,Mumbai,West,P015,Projector,Electronics,AV,2,744.89,0,1489.78,Online,Rita Patel,29-02-2024,Express,Credit Card,No
+ORD100167,14-04-2023,C1089,Customer_214,Chennai,South,P007,Office Table,Furniture,Tables,1,259.32,0.1,233.39,Offline,Vikram Rao,20-04-2023,Standard,NetBanking,No
+ORD100496,16-01-2023,C1172,Customer_347,Delhi,North,P009,Desk Lamp,Office Supplies,Lamps,4,32.26,0,129.04,Offline,,18-01-2023,Express,NetBanking,No
+ORD100725,23-09-2024,C1246,Customer_37,Chennai,South,P028,Phone Stand,Electronics,Accessories,3,12.91,0.05,36.79,Online,Saurabh Sen,01-10-2024,Express,Cash,No
+ORD100275,18-10-2024,C1175,Customer_88,Ahmedabad,West,P004,Smartphone B,Electronics,Phones,1,368.49,0,368.49,Online,Rahul Jain,19-10-2024,Standard,UPI,Yes
+ORD100089,03-03-2023,C1119,Customer_242,Jaipur,North,P009,Desk Lamp,Office Supplies,Lamps,2,34.96,0,69.92,Offline,,05-03-2023,Express,Cash,No
+ORD100714,29-09-2024,C1108,Customer_235,Kolkata,East,P014,Webcam,electronics,Accessories,5,44.99,0,224.95,Online,Karan Mehta,08-10-2024,Standard,Cash,No
+ORD100515,19-04-2023,C1271,Customer_49,Ahmedabad,West,P006,Office Chair,Furniture,Chairs,2,154.86,0.05,294.23,Online,,25-04-2023,Express,UPI,No
+ORD100994,21-10-2024,C1031,Customer_161,Mumbai,West,P004,Smartphone B,Electronics,Phones,2,389.93,0.03,756.46,Online,,29-10-2024,Standard,Credit Card,No
+ORD100331,11-05-2024,C1273,Customer_147,Bengaluru,South,P022,Keyboard,Electronics,Accessories,1,34.42,0.03,33.39,Offline,,18-05-2024,Express,Cash,No
+ORD101047,13-06-2024,C1100,Customer_183,Hyderabad,South,P022,Keyboard,Electronics,Accessories,1,37.34,0.05,35.47,Online,Vikram Rao,16-06-2024,Standard,UPI,No
+ORD100433,02-07-2023,C1108,Customer_105,Mumbai,West,P027,Calculator,Office Supplies,Electronics,2,13.81,0,27.62,Offline,,10-07-2023,Express,Cash,No
+ORD101160,13-07-2024,C1010,Customer_497,Pune,West,P025,Project Mouse,Electronics,Accessories,3,24.41,0.1,65.91,Offline,Neha Sharma,22-07-2024,Standard,UPI,No
+ORD101030,20-11-2024,C1145,Customer_285,Bengaluru,South,P022,Keyboard,electronics,Accessories,3,33.97,0,101.91,Online,Lina Das,20-11-2024,Express,Cash,No
+ORD100486,11-07-2024,C1040,Customer_73,Lucknow,North,P017,Whiteboard,Office Supplies,Boards,5,69.17,0,345.85,Offline,Amit Verma,13-07-2024,SameDay,Cash,No
+ORD100658,11-07-2023,C1194,Customer_180,Jaipur,North,P002,Laptop B,Electronics,Laptops,2,948.93,,1897.86,Offline,,14-07-2023,Standard,Credit Card,No
+ORD100911,29-03-2024,C1243,Customer_166,Delhi,North,P020,SSD 512GB,Electronics,Storage,2,127.73,0,255.46,Online,Amit Verma,01-04-2024,Standard,NetBanking,No
+ORD100531,12-07-2024,C1248,Customer_257,Hyderabad,South,P024,Water Cooler,Appliances,Kitchen,1,197.19,0.03,191.27,Offline,,14-07-2024,SameDay,Cash,No
+ORD100840,30-01-2023,C1292,Customer_200,Kolkata,East,P025,Project Mouse,Electronics,Accessories,1,27.73,0.05,26.34,Offline,Neha Sharma,06-02-2023,SameDay,NetBanking,No
+ORD101182,28-04-2023,C1242,Customer_33,Delhi,North,P020,SSD 512GB,Electronics,Storage,6,107.81,0,646.86,Online,Saurabh Sen,28-04-2023,SameDay,UPI,No
+ORD100260,12-08-2023,C1169,Customer_63,Delhi,North,P019,External HDD 1TB,Electronics,Storage,2,74.39,0.03,144.32,Online,Priya Singh,19-08-2023,SameDay,Cash,No
+ORD100810,15-04-2024,C1170,Customer_61,Delhi,North,P029,Desk Organizer,Office Supplies,Storage,2,18.68,0.05,35.49,Offline,Rahul Jain,23-04-2024,Standard,Credit Card,No
+ORD100305,16-01-2024,C1127,Customer_116,Kolkata,East,P001,Laptop A,electronics,Laptops,3,1180.31,0,3540.93,Offline,Amit Verma,17-01-2024,SameDay,NetBanking,Yes
+ORD100876,01-05-2023,C1106,Customer_417,Jaipur,North,P003,Smartphone A,Electronics,Phones,1,634.33,0,634.33,Online,Sneha Kapoor,01-05-2023,Standard,Cash,No
+ORD101117,02-01-2023,C1283,Customer_421,Lucknow,North,P005,"Monitor 24""",Electronics,Monitors,2,181.55,0,363.1,Offline,Saurabh Sen,11-01-2023,SameDay,NetBanking,No
+ORD100702,20-01-2024,C1003,Customer_74,Jaipur,North,P014,Webcam,Electronics,Accessories,1,56.36,0,56.36,Online,Lina Das,20-01-2024,Express,NetBanking,No
+ORD100771,21-10-2024,C1136,Customer_28,Pune,West,P020,SSD 512GB,Electronics,Storage,2,103.14,0,206.28,Offline,Lina Das,24-10-2024,Standard,NetBanking,No
+ORD100061,05-02-2023,C1115,Customer_398,Mumbai,West,P016,Filing Cabinet,Furniture,Storage,3,326.85,0.05,931.52,Online,Rahul Jain,07-02-2023,Express,Credit Card,No
+ORD100196,23-02-2023,C1016,Customer_48,Hyderabad,South,P026,Binder,Office Supplies,Stationery,3,3.81,0.1,10.29,Offline,Rita Patel,02-03-2023,SameDay,NetBanking,No
+ORD100140,07-01-2023,C1228,Customer_110,Kolkata,East,P011,Pen Set,Office Supplies,Stationery,5,8.45,0.05,40.14,Online,Amit Verma,08-01-2023,Express,Cash,No
+ORD100594,08-08-2024,C1285,Customer_332,Pune,West,P010,Notebook Pack,office supplies,Paper,2,10.25,0,20.5,Offline,Rahul Jain,13-08-2024,Express,NetBanking,Yes
+ORD100122,25-09-2023,C1145,Customer_386,Ahmedabad,West,P006,Office Chair,Furniture,Chairs,6,164.24,0,985.44,Online,,03-10-2023,Express,UPI,No
+ORD100494,30-11-2023,C1147,Customer_475,Jaipur,North,P013,Router,Electronics,Networking,1,101.93,0.1,91.74,Online,Neha Sharma,07-12-2023,Express,Cash,No
+ORD100821,27-02-2023,C1047,Customer_268,Pune,West,P006,Office Chair,Furniture,Chairs,4,148,,592,Offline,Saurabh Sen,02-03-2023,Express,UPI,No
+ORD100110,10-02-2023,C1185,Customer_46,Pune,West,P014,Webcam,Electronics,Accessories,3,46.4,0,139.2,Offline,Priya Singh,18-02-2023,Express,NetBanking,No
+ORD100084,15-05-2024,C1025,Customer_467,Chennai,South,P010,Notebook Pack,Office Supplies,Paper,6,11.45,0,68.7,Online,,23-05-2024,Express,Credit Card,No
+ORD100946,27-05-2024,C1229,Customer_403,Pune,West,P024,Water Cooler,Appliances,Kitchen,4,197.73,0,790.92,Offline,Priya Singh,30-05-2024,SameDay,Credit Card,No
+ORD100513,10-02-2023,C1145,Customer_214,Ahmedabad,West,P004,Smartphone B,Electronics,Phones,4,360.74,0,1442.96,Offline,,10-02-2023,Express,Credit Card,Yes
+ORD100691,01-01-2024,C1226,Customer_120,Jaipur,North,P011,Pen Set,office supplies,Stationery,1,7.45,0,7.45,Offline,Neha Sharma,02-01-2024,Express,UPI,No
+ORD100482,01-10-2024,C1222,Customer_280,Chennai,South,P012,Headphones,Electronics,Accessories,4,78.21,0,312.84,Online,Sneha Kapoor,06-10-2024,SameDay,Cash,No
+ORD101134,13-06-2024,C1275,Customer_27,Ahmedabad,West,P003,Smartphone A,Electronics,Phones,3,730.5,0,2191.5,Online,,15-06-2024,Standard,Credit Card,Yes
+ORD100969,26-03-2024,C1006,Customer_19,Kolkata,East,P018,Stapler,Office Supplies,Stationery,3,5.23,0.03,15.22,Offline,,03-04-2024,Express,UPI,No
+ORD100611,12-07-2024,C1049,Customer_427,Chennai,South,P013,Router,Electronics,Networking,4,82.48,0.03,320.02,Online,Priya Singh,13-07-2024,Express,UPI,No
+ORD100793,12-08-2023,C1242,Customer_390,Kolkata,East,P019,External HDD 1TB,Electronics,Storage,1,75.46,0.1,67.91,Online,,16-08-2023,Standard,Credit Card,No
+ORD100074,16-02-2023,C1250,Customer_444,Pune,West,P003,Smartphone A,Electronics,Phones,5,560.44,0.05,2662.09,Offline,,25-02-2023,Express,Credit Card,No
+ORD101186,28-12-2024,C1242,Customer_127,Chennai,South,P015,Projector,Electronics,AV,2,564.01,0,1128.02,Online,Rita Patel,01-01-2025,Standard,UPI,No
+ORD101096,19-07-2023,C1034,Customer_31,Chennai,South,P011,Pen Set,Office Supplies,Stationery,2,8.6,0.03,16.68,Online,Priya Singh,25-07-2023,SameDay,UPI,No
+ORD100273,23-07-2024,C1034,Customer_180,Hyderabad,South,P003,Smartphone A,Electronics,Phones,1,726.85,0,726.85,Online,,23-07-2024,Standard,UPI,No
+ORD100791,22-03-2024,C1184,Customer_380,Hyderabad,South,P009,Desk Lamp,Office Supplies,Lamps,4,35.63,0.03,138.24,Offline,Vikram Rao,30-03-2024,SameDay,Credit Card,No
+ORD100396,26-12-2024,C1064,Customer_68,Delhi,North,P025,Project Mouse,Electronics,Accessories,3,26.03,0,78.09,Offline,Lina Das,02-01-2025,SameDay,Cash,No
+ORD100154,22-11-2023,C1230,Customer_392,Hyderabad,South,P005,"Monitor 24""",Electronics,Monitors,4,205.27,0,821.08,Offline,Karan Mehta,25-11-2023,Standard,NetBanking,No
+ORD100741,20-03-2024,C1258,Customer_17,Jaipur,North,P014,Webcam,Electronics,Accessories,2,53.25,0,106.5,Online,,28-03-2024,SameDay,NetBanking,No
+ORD100191,12-08-2024,C1172,Customer_132,Ahmedabad,West,P018,Stapler,Office Supplies,Stationery,3,6.39,0,19.17,Offline,Vikram Rao,12-08-2024,Express,NetBanking,No
+ORD100797,25-08-2023,C1292,Customer_112,Lucknow,North,P003,Smartphone A,electronics,Phones,5,631.78,0.03,3064.13,Offline,Saurabh Sen,30-08-2023,Express,UPI,No
+ORD101161,21-03-2023,C1201,Customer_470,Ahmedabad,West,P016,Filing Cabinet,Furniture,Storage,4,303.25,0,1213,Offline,,24-03-2023,Standard,UPI,No
+ORD100187,13-04-2024,C1286,Customer_112,Delhi,North,P015,Projector,Electronics,AV,6,652.96,0,3917.76,Online,Amit Verma,16-04-2024,SameDay,Credit Card,No
+ORD100050,14-04-2024,C1124,Customer_53,Chennai,South,P027,Calculator,Office Supplies,Electronics,1,13.94,0.1,12.55,Online,Lina Das,16-04-2024,Express,Cash,No
+ORD100038,07-02-2024,C1037,Customer_234,Kolkata,East,P027,Calculator,Office Supplies,Electronics,5,15.95,0,79.75,Offline,Sneha Kapoor,13-02-2024,Standard,Credit Card,Yes
+ORD100418,05-07-2023,C1051,Customer_372,Ahmedabad,West,P023,Coffee Maker,Appliances,Kitchen,1,76.75,0.05,72.91,Offline,Saurabh Sen,05-07-2023,Standard,UPI,No
+ORD101137,30-09-2024,C1126,Customer_319,Kolkata,East,P010,Notebook Pack,Office Supplies,Paper,6,12.66,,75.96,Offline,Rahul Jain,06-10-2024,Standard,UPI,No
+ORD100208,08-05-2023,C1245,Customer_161,Hyderabad,South,P027,Calculator,Office Supplies,Electronics,3,13.28,0,39.84,Offline,Karan Mehta,08-05-2023,SameDay,NetBanking,No
+ORD100375,26-08-2023,C1000,Customer_500,Kolkata,East,P016,Filing Cabinet,Furniture,Storage,3,270.74,0,812.22,Offline,Sneha Kapoor,03-09-2023,SameDay,NetBanking,No
+ORD100463,14-01-2024,C1028,Customer_428,Bengaluru,South,P016,Filing Cabinet,Furniture,Storage,4,289.24,0.1,1041.26,Offline,Rahul Jain,21-01-2024,SameDay,UPI,No
+ORD100470,07-06-2024,C1072,Customer_483,Chennai,South,P015,Projector,Electronics,AV,2,696.75,0.15,1184.47,Online,Rahul Jain,13-06-2024,Standard,Credit Card,No
+ORD100517,19-11-2024,C1232,Customer_23,Mumbai,West,P006,Office Chair,Furniture,Chairs,4,154.67,0,618.68,Online,,19-11-2024,Standard,Cash,No
+ORD100075,18-04-2024,C1122,Customer_293,Jaipur,North,P005,"Monitor 24""",Electronics,Monitors,3,179.55,0,538.65,Offline,Karan Mehta,22-04-2024,SameDay,Cash,No
+ORD100910,19-10-2024,C1178,Customer_300,Pune,West,P027,Calculator,Office Supplies,Electronics,5,13.32,0.05,63.27,Offline,Lina Das,24-10-2024,SameDay,UPI,No
+ORD100248,01-09-2024,C1091,Customer_477,Lucknow,North,P024,Water Cooler,Appliances,Kitchen,2,217.19,0,434.38,Online,Amit Verma,09-09-2024,Standard,NetBanking,Yes
+ORD100559,11-11-2024,C1087,Customer_462,Bengaluru,South,P019,External HDD 1TB,Electronics,Storage,1,79.36,0.1,71.42,Online,Saurabh Sen,13-11-2024,Standard,Credit Card,No
+ORD100302,25-08-2023,C1291,Customer_458,Delhi,North,P029,Desk Organizer,Office Supplies,Storage,5,17.82,0,89.1,Offline,Saurabh Sen,03-09-2023,Standard,NetBanking,No
+ORD100582,28-11-2024,C1021,Customer_494,Mumbai,West,P014,Webcam,Electronics,Accessories,3,43.13,0.1,116.45,Online,Rahul Jain,06-12-2024,Standard,UPI,No
+ORD100899,14-02-2024,C1150,Customer_28,Bengaluru,South,P025,Project Mouse,Electronics,Accessories,1,23.41,0.1,21.07,Offline,,16-02-2024,SameDay,UPI,No
+ORD101040,23-08-2024,C1134,Customer_389,Mumbai,West,P027,Calculator,Office Supplies,Electronics,2,15.43,0,30.86,Offline,Neha Sharma,27-08-2024,SameDay,Cash,No
+ORD100335,12-02-2023,C1188,Customer_387,Hyderabad,South,P026,Binder,Office Supplies,Stationery,5,4.32,0.05,20.52,Online,Amit Verma,16-02-2023,Standard,Cash,No
+ORD100737,14-05-2024,C1122,Customer_482,Jaipur,North,P025,Project Mouse,Electronics,Accessories,4,22.3,0.03,86.52,Offline,,20-05-2024,Express,UPI,No
+ORD100798,12-12-2024,C1282,Customer_61,Lucknow,North,P019,External HDD 1TB,Electronics,Storage,2,86.5,0.05,164.35,Offline,Saurabh Sen,14-12-2024,SameDay,UPI,No
+ORD100011,21-04-2024,C1043,Customer_375,Jaipur,North,P001,Laptop A,Electronics,Laptops,4,1369.05,0.1,4928.58,Online,Priya Singh,24-04-2024,Express,NetBanking,No
+ORD101005,12-09-2024,C1279,Customer_96,Mumbai,West,P012,Headphones,Electronics,Accessories,6,81.72,0,490.32,Online,Neha Sharma,14-09-2024,Express,Credit Card,No
+ORD101197,08-06-2023,C1106,Customer_118,Mumbai,West,P021,Mouse,Electronics,Accessories,4,18.64,0,74.56,Offline,Rita Patel,11-06-2023,SameDay,Cash,No
+ORD100485,25-04-2023,C1121,Customer_365,Pune,West,P006,Office Chair,Furniture,Chairs,4,168.32,0.03,653.08,Offline,Neha Sharma,26-04-2023,Standard,Cash,No
+ORD100462,07-07-2024,C1245,Customer_470,Hyderabad,South,P025,Project Mouse,Electronics,Accessories,1,24.98,,24.98,Offline,Neha Sharma,15-07-2024,SameDay,Credit Card,No
+ORD100538,04-02-2023,C1176,Customer_76,Hyderabad,South,P008,Printer A,Electronics,Printers,3,245.63,0.05,700.05,Online,Rita Patel,04-02-2023,Standard,NetBanking,No
+ORD100627,04-09-2024,C1183,Customer_452,Jaipur,North,P007,Office Table,Furniture,Tables,2,230.94,0.1,415.69,Online,,13-09-2024,Express,UPI,No
+ORD100281,27-06-2024,C1198,Customer_420,Delhi,North,P025,Project Mouse,Electronics,Accessories,4,26.18,0.1,94.25,Online,,05-07-2024,SameDay,Cash,No
+ORD100253,09-02-2023,C1143,Customer_48,Pune,West,P011,Pen Set,Office Supplies,Stationery,3,8.92,,26.76,Offline,Priya Singh,11-02-2023,Standard,Cash,No
+ORD100707,01-07-2024,C1203,Customer_20,Kolkata,East,P015,Projector,Electronics,AV,2,675.78,0,1351.56,Online,Rita Patel,01-07-2024,SameDay,Cash,No
+ORD100476,25-12-2024,C1174,Customer_107,Chennai,South,P018,Stapler,Office Supplies,Stationery,5,5.56,0.05,26.41,Offline,Neha Sharma,03-01-2025,Standard,NetBanking,No
+ORD101026,22-04-2023,C1113,Customer_33,Bengaluru,South,P001,Laptop A,Electronics,Laptops,5,1132.65,0,5663.25,Offline,Vikram Rao,22-04-2023,SameDay,UPI,No
+ORD100223,05-12-2023,C1250,Customer_86,Kolkata,East,P001,Laptop A,Electronics,Laptops,5,1283.6,0.03,6225.46,Offline,Saurabh Sen,10-12-2023,Express,Cash,No
+ORD100577,29-08-2023,C1154,Customer_259,Delhi,North,P008,Printer A,Electronics,Printers,1,220.73,0,220.73,Online,Lina Das,03-09-2023,Standard,Cash,No
+ORD100672,08-02-2024,C1160,Customer_456,Delhi,North,P026,Binder,Office Supplies,Stationery,2,3.73,0,7.46,Offline,,16-02-2024,Express,Credit Card,No
+ORD100813,28-10-2024,C1142,Customer_75,Bengaluru,South,P030,Laptop Sleeve,Electronics,Accessories,2,19.85,0.05,37.72,Offline,Rahul Jain,30-10-2024,SameDay,Cash,No
+ORD100219,02-10-2024,C1160,Customer_306,Lucknow,North,P004,Smartphone B,Electronics,Phones,4,419.43,0,1677.72,Online,Karan Mehta,08-10-2024,Express,Credit Card,No
+ORD101000,11-06-2024,C1096,Customer_140,Chennai,South,P025,Project Mouse,Electronics,Accessories,2,23.47,0,46.94,Online,Neha Sharma,11-06-2024,Standard,UPI,No
+ORD100425,20-01-2023,C1295,Customer_196,Delhi,North,P030,Laptop Sleeve,Electronics,Accessories,1,23.85,0,23.85,Offline,,25-01-2023,Express,Credit Card,No
+ORD100369,23-02-2024,C1105,Customer_353,Pune,West,P020,SSD 512GB,Electronics ,Storage,3,130.31,0.03,379.2,Offline,Sneha Kapoor,21-02-2024,SameDay,Credit Card,No
+ORD100982,10-07-2024,C1002,Customer_160,Hyderabad,South,P015,Projector,Electronics,AV,2,596.31,0,1192.62,Online,Rahul Jain,16-07-2024,Express,Credit Card,No
+ORD100069,18-04-2024,C1206,Customer_443,Chennai,South,P014,Webcam,Electronics,Accessories,5,56.94,0.03,276.16,Offline,,22-04-2024,Standard,Cash,No
+ORD101049,11-10-2023,C1125,Customer_117,Lucknow,North,P018,Stapler,Office Supplies,Stationery,4,5.52,0.1,19.87,Online,,12-10-2023,SameDay,NetBanking,No
+ORD100580,04-11-2024,C1146,Customer_331,Bengaluru,South,P015,Projector,Electronics,AV,4,613.6,0.1,2208.96,Offline,,06-11-2024,Express,Credit Card,No
+ORD100021,28-01-2024,C1291,Customer_127,Mumbai,West,P028,Phone Stand,Electronics,Accessories,1,12.76,0,12.76,Online,,30-01-2024,SameDay,Credit Card,No
+ORD100077,11-08-2023,C1209,Customer_446,Ahmedabad,West,P002,Laptop B,Electronics,Laptops,6,811.86,0,4871.16,Offline,,18-08-2023,Express,Credit Card,No
+ORD100547,05-03-2023,C1299,Customer_156,Ahmedabad,West,P018,Stapler,Office Supplies,Stationery,3,6.17,0,18.51,Online,Sneha Kapoor,10-03-2023,Express,UPI,No
+ORD100907,10-03-2024,C1239,Customer_452,Delhi,North,P001,Laptop A,Electronics,Laptops,1,1217.33,0,1217.33,Offline,Amit Verma,18-03-2024,Standard,Cash,Yes
+ORD100748,12-03-2024,C1255,Customer_349,Kolkata,East,P022,Keyboard,Electronics,Accessories,4,38.31,0.05,145.58,Online,Neha Sharma,10-03-2024,Express,UPI,No
+ORD100405,29-04-2023,C1092,Customer_99,Mumbai,West,P015,Projector,Electronics,AV,6,560.68,0.05,3195.88,Offline,Priya Singh,06-05-2023,Standard,Credit Card,No
+ORD101067,25-07-2023,C1258,Customer_448,Jaipur,North,P014,Webcam,Electronics,Accessories,1,50.67,0.03,49.15,Online,,03-08-2023,SameDay,UPI,Yes
+ORD100826,10-01-2024,C1049,Customer_170,Hyderabad,South,P010,Notebook Pack,Office Supplies,Paper,2,13.69,,27.38,Offline,Neha Sharma,19-01-2024,Express,Cash,No
+ORD100125,02-11-2023,C1046,Customer_485,Lucknow,North,P030,Laptop Sleeve,Electronics,Accessories,2,22.59,0,45.18,Online,Vikram Rao,03-11-2023,Standard,UPI,No
+ORD100228,21-04-2024,C1048,Customer_70,Lucknow,North,P002,Laptop B,Electronics,Laptops,5,942.65,0.05,4477.59,Offline,Lina Das,22-04-2024,Express,UPI,No
+ORD100757,25-11-2024,C1059,Customer_43,Delhi,North,P024,Water Cooler,Appliances ,Kitchen,3,242.25,0.03,704.95,Offline,,29-11-2024,Express,UPI,No
+ORD100042,31-10-2023,C1276,Customer_42,Lucknow,North,P021,Mouse,Electronics,Accessories,3,22.79,0.1,61.53,Offline,,06-11-2023,Express,Credit Card,No
+ORD100516,07-09-2023,C1242,Customer_255,Lucknow,North,P020,SSD 512GB,Electronics,Storage,5,127.97,0,639.85,Online,Rita Patel,13-09-2023,SameDay,NetBanking,No
+ORD100889,03-07-2024,C1220,Customer_185,Mumbai,West,P009,Desk Lamp,Office Supplies,Lamps,4,32.28,0.05,122.66,Online,Neha Sharma,11-07-2024,SameDay,NetBanking,No
+ORD100936,20-12-2024,C1245,Customer_327,Hyderabad,South,P010,Notebook Pack,Office Supplies,Paper,4,10.4,0.05,39.52,Offline,,28-12-2024,Express,Credit Card,No
+ORD100908,19-03-2023,C1032,Customer_90,Mumbai,West,P024,Water Cooler,Appliances,Kitchen,5,213.26,0.03,1034.31,Online,Karan Mehta,22-03-2023,SameDay,NetBanking,No
+ORD100572,23-01-2023,C1219,Customer_177,Mumbai,West,P002,Laptop B,Electronics,Laptops,3,1054.58,0.05,3005.55,Online,,28-01-2023,SameDay,Credit Card,No
+ORD100576,20-12-2023,C1205,Customer_412,Pune,West,P020,SSD 512GB,Electronics,Storage,2,127.98,0,255.96,Online,Rita Patel,28-12-2023,Standard,NetBanking,No
+ORD101082,15-12-2024,C1023,Customer_277,Hyderabad,South,P027,Calculator,Office Supplies,Electronics,3,13,0,39,Online,,20-12-2024,Standard,Cash,Yes
+ORD100621,24-07-2024,C1010,Customer_441,Bengaluru,South,P010,Notebook Pack,Office Supplies,Paper,4,11.48,0,45.92,Offline,Neha Sharma,25-07-2024,Standard,NetBanking,No
+ORD100767,03-04-2023,C1280,Customer_209,Bengaluru,South,P006,Office Chair,Furniture,Chairs,1,170.19,0.03,165.08,Offline,,03-04-2023,Standard,NetBanking,No
+ORD100743,27-10-2023,C1143,Customer_113,Delhi,North,P008,Printer A,Electronics,Printers,3,236.22,0.03,687.4,Online,Neha Sharma,28-10-2023,Standard,NetBanking,No
+ORD100374,10-09-2023,C1089,Customer_328,Delhi,North,P009,Desk Lamp,Office Supplies,Lamps,6,38.8,0,232.8,Online,,15-09-2023,Express,UPI,No
+ORD100205,28-07-2023,C1124,Customer_293,Ahmedabad,West,P018,Stapler,Office Supplies,Stationery,3,5.58,0.03,16.24,Offline,,03-08-2023,Express,Cash,No
+ORD100316,08-09-2023,C1215,Customer_333,Hyderabad,South,P024,Water Cooler,Appliances,Kitchen,6,187.33,0.03,1090.26,Online,Priya Singh,16-09-2023,Express,UPI,No
+ORD100683,13-07-2024,C1051,Customer_11,Chennai,South,P006,Office Chair,Furniture,Chairs,4,127.8,0.03,495.86,Online,Karan Mehta,21-07-2024,Standard,NetBanking,No
+ORD100966,03-05-2023,C1209,Customer_114,Pune,West,P026,Binder,Office Supplies,Stationery,1,3.6,0,3.6,Offline,,05-05-2023,Express,NetBanking,No
+ORD100006,20-07-2024,C1234,Customer_74,Pune,West,P002,Laptop B,Electronics,Laptops,3,1087.72,0.05,3100,Offline,Priya Singh,26-07-2024,SameDay,UPI,No
+ORD101093,18-02-2023,C1077,Customer_289,Lucknow,North,P013,Router,Electronics,Networking,2,104.93,0.05,199.37,Online,Rahul Jain,22-02-2023,Standard,Credit Card,No
+ORD100802,17-09-2024,C1226,Customer_113,Ahmedabad,West,P022,Keyboard,Electronics,Accessories,2,30.31,0,60.62,Online,,20-09-2024,Express,UPI,No
+ORD101068,09-03-2024,C1057,Customer_273,Lucknow,North,P026,Binder,Office Supplies,Stationery,3,3.77,0.05,10.74,Offline,Vikram Rao,17-03-2024,SameDay,Credit Card,No
+ORD100844,10-07-2023,C1255,Customer_333,Ahmedabad,West,P007,Office Table,Furniture,Tables,5,264.16,0.05,1254.76,Online,Karan Mehta,15-07-2023,Standard,UPI,No
+ORD100493,11-01-2024,C1085,Customer_238,Bengaluru,South,P022,Keyboard,Electronics,Accessories,5,32.73,0,163.65,Online,Lina Das,19-01-2024,Express,Credit Card,No
+ORD100919,09-07-2023,C1056,Customer_299,Bengaluru,South,P012,Headphones,Electronics,Accessories,5,75.91,0.1,341.59,Offline,Priya Singh,11-07-2023,Standard,UPI,No
+ORD101185,01-07-2024,C1270,Customer_252,Ahmedabad,West,P027,Calculator,Office Supplies,Electronics,1,13.19,0,13.19,Offline,,04-07-2024,SameDay,Credit Card,No
+ORD100500,06-03-2024,C1135,Customer_92,Hyderabad,South,P009,Desk Lamp,Office Supplies,Lamps,5,30.61,0,153.05,Offline,Rahul Jain,14-03-2024,Express,Credit Card,No
+ORD101191,05-06-2024,C1072,Customer_162,Chennai,South,P023,Coffee Maker,Appliances,Kitchen,1,83.54,0.03,81.03,Online,Lina Das,10-06-2024,Standard,Credit Card,No
+ORD101039,03-07-2024,C1203,Customer_425,Pune,West,P028,Phone Stand,Electronics,Accessories,2,10.43,0,20.86,Offline,,07-07-2024,Standard,Credit Card,No
+ORD100933,20-08-2023,C1147,Customer_440,Ahmedabad,West,P001,Laptop A,Electronics,Laptops,1,1216.12,0.1,1094.51,Offline,,26-08-2023,SameDay,Credit Card,No
+ORD100259,23-03-2023,C1043,Customer_299,Bengaluru,South,P004,Smartphone B,Electronics,Phones,5,460.06,0,2300.3,Online,Amit Verma,29-03-2023,Standard,NetBanking,No
+ORD100282,27-01-2024,C1257,Customer_293,Lucknow,North,P017,Whiteboard,Office Supplies,Boards,4,74.71,0,298.84,Offline,Lina Das,04-02-2024,Express,UPI,No
+ORD100979,20-06-2024,C1268,Customer_250,Delhi,North,P001,Laptop A,Electronics,Laptops,3,1038.35,0,3115.05,Online,Sneha Kapoor,29-06-2024,Standard,Credit Card,No
+ORD100634,12-07-2023,C1084,Customer_223,Lucknow,North,P015,Projector,Electronics,AV,5,586.67,0,2933.35,Offline,Amit Verma,15-07-2023,Standard,Credit Card,No
+ORD100590,10-04-2023,C1216,Customer_449,Pune,West,P026,Binder,Office Supplies,Stationery,3,4.21,0,12.63,Online,Vikram Rao,17-04-2023,Express,Cash,No
+ORD100160,30-11-2023,C1241,Customer_447,Mumbai,West,P027,Calculator,Office Supplies,Electronics,7,16.95,0,118.65,Online,Sneha Kapoor,02-12-2023,Express,Cash,No
+ORD100949,26-09-2024,C1271,Customer_471,Jaipur,North,P009,Desk Lamp,Office Supplies,Lamps,3,36.87,0,110.61,Online,Rahul Jain,28-09-2024,Express,Credit Card,No
+ORD100474,15-08-2023,C1015,Customer_34,Bengaluru,South,P008,Printer A,Electronics,Printers,5,199.37,0.05,947.01,Offline,,16-08-2023,Standard,UPI,No
+ORD100455,31-05-2024,C1152,Customer_170,Ahmedabad,West,P029,Desk Organizer,Office Supplies,Storage,5,20.41,0.03,98.99,Online,Amit Verma,01-06-2024,Standard,UPI,Yes
+ORD100320,31-05-2024,C1027,Customer_6,Pune,West,P023,Coffee Maker,Appliances,Kitchen,2,102.51,0.03,198.87,Online,Rita Patel,06-06-2024,SameDay,Cash,No
+ORD100786,22-04-2023,C1101,Customer_243,Lucknow,North,P020,SSD 512GB,Electronics,Storage,5,108.27,0,541.35,Online,Sneha Kapoor,01-05-2023,Standard,UPI,No
+ORD100434,28-04-2023,C1130,Customer_88,Chennai,South,P018,Stapler,Office Supplies,Stationery,2,6.26,0.03,12.14,Offline,Lina Das,03-05-2023,Standard,Credit Card,No
+ORD101168,11-02-2023,C1235,Customer_324,Mumbai,West,P003,Smartphone A,Electronics,Phones,1,616.7,0,616.7,Online,,20-02-2023,SameDay,Credit Card,No
+ORD100299,01-06-2023,C1092,Customer_151,Lucknow,North,P024,Water Cooler,Appliances,Kitchen,3,222.86,0.03,648.52,Offline,,10-06-2023,Express,UPI,No
+ORD100436,19-05-2024,C1045,Customer_96,Pune,West,P004,Smartphone B,Electronics,Phones,6,428.26,,2569.56,Online,Neha Sharma,19-05-2024,SameDay,Credit Card,No
+ORD101103,18-08-2024,C1249,Customer_288,Jaipur,North,P004,Smartphone B,Electronics,Phones,6,464.98,0,2789.88,Online,Lina Das,25-08-2024,SameDay,Cash,No
+ORD100438,01-03-2024,C1015,Customer_484,Chennai,South,P012,Headphones,Electronics,Accessories,1,82.94,0,82.94,Online,Saurabh Sen,05-03-2024,Standard,UPI,No
+ORD100325,28-07-2024,C1084,Customer_253,Kolkata,East,P015,Projector,Electronics,AV,2,743.05,0.05,1411.79,Online,Karan Mehta,05-08-2024,SameDay,UPI,No
+ORD100403,11-08-2023,C1095,Customer_498,Jaipur,North,P021,Mouse,Electronics,Accessories,1,21.69,0.1,19.52,Offline,,12-08-2023,Standard,UPI,Yes
+ORD100564,19-01-2024,C1186,Customer_500,Delhi,North,P015,Projector,Electronics,AV,1,686.54,0,686.54,Online,Rahul Jain,26-01-2024,SameDay,Credit Card,No
+ORD100292,30-11-2024,C1179,Customer_177,Delhi,North,P015,Projector,Electronics,AV,1,695.16,0,695.16,Online,Sneha Kapoor,06-12-2024,SameDay,Cash,No
+ORD100278,04-06-2024,C1049,Customer_14,Bengaluru,South,P018,Stapler,Office Supplies,Stationery,3,5.46,0,16.38,Online,Karan Mehta,03-06-2024,Standard,UPI,No
+ORD100655,11-02-2024,C1283,Customer_209,Ahmedabad,West,P007,Office Table,Furniture,Tables,5,221.88,0,1109.4,Online,Rita Patel,12-02-2024,SameDay,Cash,No
+ORD100732,19-11-2023,C1086,Customer_418,Hyderabad,South,P021,Mouse,electronics,Accessories,2,18.32,0,36.64,Online,Vikram Rao,25-11-2023,SameDay,Cash,No
+ORD100553,09-04-2024,C1210,Customer_175,Hyderabad,South,P022,Keyboard,Electronics,Accessories,7,38.84,0,271.88,Online,Saurabh Sen,11-04-2024,Standard,Credit Card,No
+ORD100094,11-02-2023,C1283,Customer_107,Ahmedabad,West,P022,Keyboard,Electronics,Accessories,7,39.98,0,279.86,Online,Amit Verma,13-02-2023,Standard,NetBanking,No
+ORD101144,26-09-2024,C1032,Customer_116,Chennai,South,P005,"Monitor 24""",Electronics,Monitors,4,163.99,0,655.96,Online,Karan Mehta,30-09-2024,SameDay,Credit Card,No
+ORD100245,19-11-2024,C1132,Customer_86,Bengaluru,South,P022,Keyboard,Electronics,Accessories,3,35.19,0,105.57,Online,Amit Verma,28-11-2024,SameDay,Credit Card,No
+ORD100945,26-01-2024,C1123,Customer_228,Chennai,South,P007,Office Table,Furniture,Tables,1,251.89,0.05,239.3,Online,Karan Mehta,26-01-2024,Express,NetBanking,No
+ORD100775,21-09-2023,C1003,Customer_366,Bengaluru,South,P017,Whiteboard,Office Supplies,Boards,4,79.26,0,317.04,Offline,Rita Patel,27-09-2023,SameDay,Credit Card,No
+ORD100426,13-04-2024,C1005,Customer_325,Hyderabad,South,P003,Smartphone A,Electronics,Phones,1,552.87,0,552.87,Offline,,16-04-2024,Express,Credit Card,No
+ORD100149,16-12-2023,C1212,Customer_248,Jaipur,North,P021,Mouse,Electronics,Accessories,2,18.12,0,36.24,Online,,22-12-2023,Express,UPI,No
+ORD100226,05-02-2024,C1060,Customer_398,Kolkata,East,P024,Water Cooler,Appliances,Kitchen,3,198.92,0.1,537.08,Offline,,09-02-2024,Express,UPI,No
+ORD100865,21-07-2023,C1168,Customer_110,Delhi,North,P006,Office Chair,Furniture ,Chairs,2,153.29,0,306.58,Online,,23-07-2023,Standard,UPI,No
+ORD100967,01-06-2024,C1010,Customer_411,Lucknow,North,P019,External HDD 1TB,Electronics,Storage,5,82.07,0.1,369.31,Online,,03-06-2024,SameDay,UPI,No
+ORD100900,12-01-2023,C1054,Customer_171,Bengaluru,South,P025,Project Mouse,Electronics,Accessories,5,22.39,0.1,100.76,Offline,,10-01-2023,SameDay,Cash,No
+ORD100699,04-03-2023,C1250,Customer_14,Hyderabad,South,P007,Office Table,Furniture,Tables,2,234.43,0,468.86,Offline,,07-03-2023,Standard,NetBanking,No
+ORD100601,29-09-2024,C1162,Customer_364,Lucknow,North,P012,Headphones,Electronics,Accessories,3,76.59,0.03,222.88,Online,Lina Das,05-10-2024,Standard,Cash,No
+ORD100217,01-09-2023,C1221,Customer_203,Bengaluru,South,P024,Water Cooler,Appliances,Kitchen,3,190.39,0.03,554.03,Online,Karan Mehta,02-09-2023,Express,NetBanking,No
+ORD100817,15-08-2023,C1070,Customer_61,Bengaluru,South,P030,Laptop Sleeve,Electronics,Accessories,2,21.46,0,42.92,Offline,Rita Patel,16-08-2023,SameDay,Cash,No
+ORD100220,11-05-2023,C1043,Customer_345,Ahmedabad,West,P013,Router,Electronics,Networking,1,82.97,0.1,74.67,Online,Karan Mehta,16-05-2023,Express,NetBanking,No
+ORD100213,29-12-2023,C1297,Customer_353,Pune,West,P020,SSD 512GB,Electronics,Storage,1,108.64,0.05,103.21,Offline,,02-01-2024,Standard,Credit Card,No
+ORD101125,29-06-2023,C1270,Customer_7,Chennai,South,P025,Project Mouse,Electronics ,Accessories,7,24.08,0,168.56,Online,,05-07-2023,SameDay,Credit Card,No
+ORD100907,10-03-2024,C1239,Customer_452,Delhi,North,P001,Laptop A,Electronics,Laptops,1,1217.33,0,1217.33,Offline,Amit Verma,18-03-2024,Standard,Cash,Yes
+ORD100394,29-02-2024,C1120,Customer_339,Chennai,South,P011,Pen Set,Office Supplies ,Stationery,2,8.45,0,16.9,Offline,Vikram Rao,09-03-2024,Express,Cash,No
+ORD100367,31-07-2024,C1271,Customer_220,Ahmedabad,West,P022,Keyboard,Electronics,Accessories,2,33.75,0,67.5,Online,,31-07-2024,SameDay,Cash,No
+ORD100924,12-03-2024,C1188,Customer_181,Bengaluru,South,P025,Project Mouse,Electronics,Accessories,2,23.54,0.03,45.67,Offline,,17-03-2024,Standard,Credit Card,No
+ORD100012,27-09-2023,C1108,Customer_476,Lucknow,North,P016,Filing Cabinet,Furniture,Storage,2,320.45,0.03,621.67,Online,Rahul Jain,05-10-2023,SameDay,NetBanking,No
+ORD101118,13-04-2024,C1229,Customer_287,Ahmedabad,West,P008,Printer A,Electronics ,Printers,1,240.14,0,240.14,Online,Rita Patel,18-04-2024,Express,Cash,No
+ORD100234,21-05-2023,C1156,Customer_372,Chennai,South,P021,Mouse,Electronics,Accessories,6,19.3,0,115.8,Online,,24-05-2023,Standard,UPI,No
+ORD100695,21-11-2024,C1236,Customer_175,Kolkata,East,P005,"Monitor 24""",Electronics,Monitors,2,194.62,0,389.24,Online,,29-11-2024,Express,NetBanking,No
+ORD101136,18-04-2023,C1059,Customer_474,Kolkata,East,P011,Pen Set,Office Supplies,Stationery,2,9.11,0.03,17.67,Offline,Sneha Kapoor,19-04-2023,SameDay,Credit Card,Yes
+ORD101071,07-04-2023,C1114,Customer_300,Chennai,South,P001,Laptop A,Electronics,Laptops,1,1035.52,0,1035.52,Online,Lina Das,15-04-2023,Standard,Credit Card,No
+ORD100063,20-02-2023,C1240,Customer_150,Kolkata,East,P025,Project Mouse,Electronics,Accessories,3,24.74,0,74.22,Offline,,01-03-2023,Standard,NetBanking,No
+ORD100734,03-03-2023,C1132,Customer_462,Delhi,North,P006,Office Chair,Furniture,Chairs,2,165.4,0.03,320.88,Offline,Lina Das,04-03-2023,Standard,NetBanking,No
+ORD101023,27-11-2023,C1040,Customer_429,Delhi,North,P017,Whiteboard,Office Supplies,Boards,1,70.22,0,70.22,Offline,,29-11-2023,Express,Cash,No
+ORD100964,04-03-2024,C1250,Customer_308,Hyderabad,South,P006,Office Chair,Furniture,Chairs,5,164.38,0.05,780.8,Online,Karan Mehta,08-03-2024,SameDay,NetBanking,No
+ORD100607,21-08-2023,C1062,Customer_202,Pune,West,P025,Project Mouse,electronics,Accessories,4,22.79,0.03,88.43,Online,Sneha Kapoor,29-08-2023,SameDay,Credit Card,No
+ORD100013,02-12-2024,C1115,Customer_33,Kolkata,East,P018,Stapler,Office Supplies,Stationery,2,5.69,0,11.38,Offline,Neha Sharma,06-12-2024,SameDay,UPI,No
+ORD100839,07-08-2024,C1175,Customer_494,Jaipur,North,P013,Router,Electronics,Networking,4,106.28,0.03,412.37,Offline,Saurabh Sen,09-08-2024,Express,NetBanking,No
+ORD100435,12-07-2024,C1184,Customer_443,Ahmedabad,West,P002,Laptop B,Electronics,Laptops,2,1046.84,0.03,2030.87,Offline,Amit Verma,16-07-2024,Standard,Credit Card,No
+ORD100017,19-08-2023,C1281,Customer_51,Jaipur,North,P007,Office Table,Furniture,Tables,5,261.33,0.05,1241.32,Online,Neha Sharma,20-08-2023,Express,NetBanking,No
+ORD100764,06-10-2024,C1183,Customer_143,Mumbai,West,P007,Office Table,Furniture,Tables,3,216.58,0.1,584.77,Online,Amit Verma,11-10-2024,Express,NetBanking,No
+ORD100348,14-03-2024,C1280,Customer_485,Hyderabad,South,P021,Mouse,Electronics,Accessories,1,20.52,0.05,19.49,Online,Saurabh Sen,15-03-2024,Standard,Credit Card,Yes
+ORD100207,29-01-2023,C1202,Customer_171,Chennai,South,P026,Binder,Office Supplies ,Stationery,2,3.61,0,7.22,Online,,30-01-2023,SameDay,NetBanking,No
+ORD100341,08-02-2023,C1264,Customer_421,Hyderabad,South,P002,Laptop B,Electronics ,Laptops,4,957.17,0,3828.68,Offline,,17-02-2023,Standard,Cash,No
+ORD100344,28-04-2023,C1036,Customer_295,Bengaluru,South,P027,Calculator,Office Supplies,Electronics,3,15.07,0.05,42.95,Online,Rita Patel,07-05-2023,Standard,Credit Card,No
+ORD101084,28-12-2024,C1065,Customer_166,Lucknow,North,P014,Webcam,Electronics,Accessories,1,56.16,0,56.16,Offline,Rahul Jain,04-01-2025,SameDay,Credit Card,No
+ORD101112,13-10-2024,C1150,Customer_315,Hyderabad,South,P009,Desk Lamp,Office Supplies,Lamps,1,31.78,0,31.78,Offline,Neha Sharma,22-10-2024,Express,Credit Card,No
+ORD100551,25-11-2024,C1182,Customer_25,Ahmedabad,West,P028,Phone Stand,Electronics,Accessories,2,11.55,0,23.1,Online,Rahul Jain,02-12-2024,SameDay,NetBanking,No
+ORD100598,14-04-2023,C1298,Customer_351,Bengaluru,South,P022,Keyboard,Electronics,Accessories,5,31.13,0.03,150.98,Offline,,23-04-2023,Express,UPI,No
+ORD100032,04-09-2024,C1091,Customer_298,Lucknow,North,P025,Project Mouse,Electronics,Accessories,1,23.39,0.03,22.69,Offline,,05-09-2024,SameDay,UPI,No
+ORD100372,09-06-2024,C1281,Customer_315,Delhi,North,P005,"Monitor 24""",Electronics,Monitors,2,157.37,0,314.74,Online,Rita Patel,10-06-2024,Standard,Credit Card,No
+ORD100657,02-09-2023,C1284,Customer_232,Lucknow,North,P014,Webcam,Electronics,Accessories,4,55.35,0.05,210.33,Online,,08-09-2023,Express,NetBanking,No
+ORD100172,04-08-2023,C1060,Customer_239,Jaipur,North,P009,Desk Lamp,Office Supplies,Lamps,3,36.09,0,108.27,Offline,Karan Mehta,07-08-2023,SameDay,Credit Card,No
+ORD101086,15-12-2024,C1168,Customer_364,Delhi,North,P022,Keyboard,Electronics,Accessories,2,32.27,0,64.54,Offline,Vikram Rao,24-12-2024,Standard,NetBanking,No
+ORD100408,26-10-2024,C1007,Customer_86,Chennai,South,P004,Smartphone B,Electronics,Phones,3,404.38,0,1213.14,Online,Karan Mehta,27-10-2024,SameDay,NetBanking,No
+ORD101050,21-08-2024,C1067,Customer_268,Bengaluru,South,P023,Coffee Maker,Appliances,Kitchen,2,96.76,0.03,187.71,Online,Lina Das,28-08-2024,Express,Credit Card,No
+ORD101155,26-07-2023,C1066,Customer_391,Ahmedabad,West,P022,Keyboard,Electronics,Accessories,6,32.81,0,196.86,Online,,27-07-2023,Standard,NetBanking,No
+ORD100200,01-07-2024,C1040,Customer_257,Ahmedabad,West,P003,Smartphone A,Electronics,Phones,4,677.87,0.1,2440.33,Online,Lina Das,05-07-2024,Express,UPI,No
+ORD100860,18-05-2024,C1178,Customer_363,Hyderabad,South,P029,Desk Organizer,Office Supplies,Storage,2,17.81,0,35.62,Online,Sneha Kapoor,20-05-2024,SameDay,NetBanking,No
+ORD101130,09-12-2023,C1021,Customer_184,Lucknow,North,P015,Projector,Electronics,AV,6,701.99,0.1,3790.75,Online,Karan Mehta,12-12-2023,Standard,NetBanking,No
+ORD101113,25-09-2024,C1112,Customer_126,Hyderabad,South,P019,External HDD 1TB,Electronics,Storage,4,74.84,0.05,284.39,Online,Rita Patel,25-09-2024,Standard,NetBanking,No
+ORD101140,16-10-2024,C1203,Customer_146,Bengaluru,South,P021,Mouse,Electronics,Accessories,5,18.21,0.05,86.5,Offline,Priya Singh,18-10-2024,Express,NetBanking,No
+ORD100489,24-03-2023,C1242,Customer_297,Chennai,South,P012,Headphones,Electronics,Accessories,5,85.64,0.03,415.35,Offline,Rahul Jain,27-03-2023,SameDay,UPI,No
+ORD101138,11-09-2023,C1211,Customer_194,Pune,West,P022,Keyboard,electronics,Accessories,2,37.8,0.05,71.82,Offline,Sneha Kapoor,15-09-2023,SameDay,UPI,No
+ORD100212,20-04-2024,C1085,Customer_332,Pune,West,P020,SSD 512GB,Electronics,Storage,2,129.75,0,259.5,Offline,Saurabh Sen,25-04-2024,Express,Credit Card,No
+ORD100133,05-01-2023,C1021,Customer_162,Bengaluru,South,P016,Filing Cabinet,Furniture,Storage,2,286.06,0,572.12,Online,,10-01-2023,Express,Credit Card,No
+ORD100060,21-06-2024,C1033,Customer_206,Chennai,South,P028,Phone Stand,Electronics,Accessories,5,13.12,,65.6,Offline,Rita Patel,30-06-2024,Standard,Credit Card,No
+ORD100690,08-02-2023,C1262,Customer_319,Chennai,South,P030,Laptop Sleeve,Electronics,Accessories,5,20.02,0.05,95.09,Online,Rahul Jain,08-02-2023,Express,Cash,No
+ORD100026,27-11-2023,C1216,Customer_425,Hyderabad,South,P020,SSD 512GB,Electronics,Storage,1,113.68,0,113.68,Online,,27-11-2023,Express,Cash,No
+ORD100100,09-09-2023,C1048,Customer_161,Delhi,North,P014,Webcam,Electronics,Accessories,4,43.75,0.03,169.75,Online,Neha Sharma,18-09-2023,Standard,Cash,No
+ORD100974,24-02-2024,C1231,Customer_115,Lucknow,North,P009,Desk Lamp,Office Supplies,Lamps,7,33.51,0.03,227.53,Online,Neha Sharma,03-03-2024,Express,Cash,No
+ORD100776,05-11-2023,C1268,Customer_463,Hyderabad,South,P014,Webcam,Electronics,Accessories,5,57.13,0.05,271.37,Online,,07-11-2023,SameDay,Credit Card,No
+ORD100788,18-11-2024,C1113,Customer_173,Ahmedabad,West,P005,"Monitor 24""",Electronics,Monitors,7,182.55,0.03,1239.51,Online,Priya Singh,27-11-2024,Express,Cash,No
+ORD100520,15-04-2023,C1099,Customer_324,Mumbai,West,P016,Filing Cabinet,Furniture,Storage,5,313.18,0.03,1518.92,Offline,Rahul Jain,16-04-2023,SameDay,Cash,No
+ORD100363,14-12-2023,C1145,Customer_485,Ahmedabad,West,P021,Mouse,Electronics ,Accessories,1,22.84,0.05,21.7,Online,Amit Verma,21-12-2023,Standard,Cash,No
+ORD100309,27-08-2024,C1059,Customer_214,Pune,West,P021,Mouse,Electronics ,Accessories,5,19.02,0,95.1,Offline,,30-08-2024,Standard,Credit Card,No
+ORD100795,12-05-2023,C1085,Customer_307,Jaipur,North,P012,Headphones,Electronics,Accessories,6,85.58,0.05,487.81,Online,,17-05-2023,Express,Cash,No
+ORD100828,10-01-2023,C1082,Customer_494,Jaipur,North,P006,Office Chair,Furniture,Chairs,2,135.47,0,270.94,Online,,10-01-2023,SameDay,NetBanking,No
+ORD100544,19-05-2023,C1044,Customer_111,Pune,West,P005,"Monitor 24""",Electronics,Monitors,4,164.19,0.05,623.92,Offline,Neha Sharma,20-05-2023,Express,UPI,No
+ORD100939,23-06-2024,C1276,Customer_368,Mumbai,West,P015,Projector,Electronics,AV,2,665.55,0.05,1264.54,Online,Amit Verma,25-06-2024,Express,UPI,Yes
+ORD100441,09-11-2023,C1060,Customer_95,Lucknow,North,P005,"Monitor 24""",Electronics,Monitors,1,153.38,0,153.38,Online,Neha Sharma,17-11-2023,Standard,NetBanking,No
+ORD100647,18-06-2023,C1067,Customer_391,Delhi,North,P004,Smartphone B,Electronics,Phones,2,463.9,0,927.8,Online,Neha Sharma,22-06-2023,Express,Cash,No
+ORD101003,10-01-2023,C1264,Customer_338,Lucknow,North,P011,Pen Set,Office Supplies,Stationery,1,8.04,0,8.04,Offline,Priya Singh,13-01-2023,Standard,UPI,No
+ORD100476,25-12-2024,C1174,Customer_107,Chennai,South,P018,Stapler,Office Supplies,Stationery,5,5.56,0.05,26.41,Offline,Neha Sharma,03-01-2025,Standard,NetBanking,No
+ORD101046,26-12-2024,C1194,Customer_8,Lucknow,North,P028,Phone Stand,Electronics,Accessories,1,12.87,0,12.87,Offline,Neha Sharma,26-12-2024,Express,NetBanking,No
+ORD100062,15-04-2024,C1050,Customer_486,Jaipur,North,P017,Whiteboard,Office Supplies,Boards,3,60.08,0,180.24,Offline,,20-04-2024,Express,UPI,No
+ORD100483,23-05-2023,C1068,Customer_6,Jaipur,North,P007,Office Table,Furniture,Tables,1,228.45,0,228.45,Online,Sneha Kapoor,26-05-2023,Express,Cash,No
+ORD101026,22-04-2023,C1113,Customer_33,Bengaluru,South,P001,Laptop A,Electronics,Laptops,5,1132.65,0,5663.25,Offline,Vikram Rao,22-04-2023,SameDay,UPI,No
+ORD100052,11-10-2023,C1138,Customer_316,Jaipur,North,P028,Phone Stand,Electronics,Accessories,5,12.61,0,63.05,Online,Neha Sharma,13-10-2023,SameDay,Cash,No
+ORD100242,24-07-2024,C1205,Customer_43,Chennai,South,P019,External HDD 1TB,Electronics,Storage,5,82.49,0,412.45,Online,Amit Verma,26-07-2024,Express,UPI,No
+ORD100035,14-03-2024,C1215,Customer_341,Delhi,North,P011,Pen Set,Office Supplies,Stationery,1,8.63,0.05,8.2,Offline,Saurabh Sen,21-03-2024,Express,UPI,No
+ORD100738,02-04-2023,C1071,Customer_14,Pune,West,P012,Headphones,Electronics,Accessories,5,68.14,0.05,323.66,Online,Karan Mehta,02-04-2023,Standard,Credit Card,No
+ORD100120,21-03-2024,C1174,Customer_486,Bengaluru,South,P021,Mouse,Electronics,Accessories,4,22.27,0,89.08,Online,,28-03-2024,SameDay,UPI,Yes
+ORD101163,27-09-2024,C1156,Customer_135,Kolkata,East,P012,Headphones,Electronics,Accessories,3,65.3,0,195.9,Offline,Saurabh Sen,06-10-2024,Standard,Cash,No
+ORD101019,01-11-2023,C1189,Customer_130,Jaipur,North,P017,Whiteboard,Office Supplies,Boards,3,60.81,0,182.43,Offline,Amit Verma,08-11-2023,Standard,Credit Card,No
+ORD100044,01-06-2023,C1214,Customer_276,Mumbai,West,P029,Desk Organizer,Office Supplies,Storage,5,17.48,0.05,83.03,Offline,Rita Patel,30-05-2023,Express,UPI,No
+ORD100836,11-07-2023,C1243,Customer_59,Pune,West,P024,Water Cooler,Appliances,Kitchen,2,246.29,0,492.58,Offline,Sneha Kapoor,11-07-2023,Standard,UPI,No
+ORD100076,23-01-2023,C1077,Customer_254,Pune,West,P013,Router,Electronics,Networking,6,82.12,0.1,443.45,Online,Karan Mehta,26-01-2023,SameDay,Cash,No
+ORD100368,29-06-2023,C1042,Customer_146,Jaipur,North,P008,Printer A,Electronics,Printers,6,205.46,0.05,1171.12,Offline,Karan Mehta,04-07-2023,SameDay,Credit Card,No
+ORD100906,19-05-2024,C1217,Customer_76,Delhi,North,P010,Notebook Pack,Office Supplies,Paper,1,11.13,0.03,10.8,Offline,Karan Mehta,19-05-2024,Express,Cash,No
+ORD100267,07-10-2024,C1252,Customer_278,Hyderabad,South,P019,External HDD 1TB,Electronics,Storage,5,81.73,0,408.65,Online,,13-10-2024,SameDay,NetBanking,No
+ORD100728,25-06-2024,C1029,Customer_334,Pune,West,P019,External HDD 1TB,Electronics,Storage,1,88.77,0,88.77,Offline,,26-06-2024,SameDay,UPI,No
+ORD100444,04-02-2024,C1083,Customer_99,Jaipur,North,P001,Laptop A,Electronics,Laptops,2,1293.38,0.05,2457.42,Online,Saurabh Sen,12-02-2024,Express,UPI,No
+ORD100503,14-12-2023,C1251,Customer_245,Mumbai,West,P021,Mouse,Electronics,Accessories,2,17.63,0,35.26,Offline,Vikram Rao,19-12-2023,Express,Cash,No
+ORD101057,06-03-2023,C1080,Customer_313,Ahmedabad,West,P022,Keyboard,Electronics,Accessories,1,39.74,0,39.74,Online,Lina Das,12-03-2023,Express,NetBanking,No
+ORD101033,24-01-2023,C1001,Customer_273,Kolkata,East,P018,Stapler,Office Supplies,Stationery,3,5.35,0,16.05,Offline,Rita Patel,25-01-2023,Express,Cash,No
+ORD100285,13-08-2023,C1298,Customer_389,Hyderabad,South,P018,Stapler,Office Supplies,Stationery,2,5.26,0,10.52,Offline,Saurabh Sen,16-08-2023,Standard,Cash,No
+ORD100295,16-08-2024,C1203,Customer_300,Chennai,South,P009,Desk Lamp,Office Supplies,Lamps,4,29.97,0,119.88,Offline,Neha Sharma,23-08-2024,Express,Cash,No
+ORD100625,15-03-2023,C1213,Customer_427,Lucknow,North,P012,Headphones,Electronics,Accessories,2,81.4,0.03,157.92,Online,Lina Das,19-03-2023,Express,Cash,No
+ORD100277,11-07-2024,C1201,Customer_293,Kolkata,East,P002,Laptop B,Electronics,Laptops,1,939.2,0.03,911.02,Online,Neha Sharma,14-07-2024,SameDay,UPI,No
+ORD101156,27-05-2024,C1169,Customer_437,Ahmedabad,West,P030,Laptop Sleeve,Electronics,Accessories,2,19.81,0,39.62,Online,,03-06-2024,Standard,Credit Card,Yes
+ORD100484,15-10-2024,C1217,Customer_320,Bengaluru,South,P003,Smartphone A,Electronics,Phones,1,728.7,0.05,692.26,Offline,,16-10-2024,Standard,Credit Card,No
+ORD100182,06-03-2024,C1276,Customer_112,Ahmedabad,West,P007,Office Table,Furniture,Tables,2,216.61,0.05,411.56,Online,Rita Patel,10-03-2024,SameDay,Credit Card,No
+ORD100970,30-11-2023,C1126,Customer_18,Lucknow,North,P028,Phone Stand,Electronics,Accessories,1,13.66,0,13.66,Online,Saurabh Sen,05-12-2023,Express,Credit Card,No
+ORD101183,10-10-2023,C1243,Customer_403,Pune,West,P001,Laptop A,Electronics,Laptops,2,1112.75,0.03,2158.74,Online,Sneha Kapoor,10-10-2023,SameDay,NetBanking,No
+ORD100684,11-10-2023,C1269,Customer_410,Pune,West,P027,Calculator,Office Supplies,Electronics,2,15.57,0.1,28.03,Online,Karan Mehta,19-10-2023,Express,Cash,No
+ORD101193,23-03-2023,C1267,Customer_84,Mumbai,West,P019,External HDD 1TB,Electronics,Storage,3,94.38,0.05,268.98,Online,,29-03-2023,Standard,Cash,No
+ORD100036,01-09-2024,C1164,Customer_239,Bengaluru,South,P013,Router,Electronics,Networking,3,98.81,0,296.43,Offline,Neha Sharma,01-09-2024,Standard,UPI,No
+ORD100002,10-04-2023,C1274,Customer_64,Hyderabad,South,P007,Office Table,Furniture,Tables,4,223.22,0,892.88,Online,Priya Singh,17-04-2023,Express,UPI,No
+ORD100754,26-03-2024,C1294,Customer_53,Jaipur,North,P005,"Monitor 24""",electronics,Monitors,1,206.87,0,206.87,Offline,,26-03-2024,Standard,NetBanking,No
+ORD100508,07-03-2024,C1296,Customer_120,Mumbai,West,P011,Pen Set,Office Supplies,Stationery,1,7.47,0,7.47,Offline,Priya Singh,12-03-2024,SameDay,Cash,No
+ORD100497,29-07-2024,C1179,Customer_113,Hyderabad,South,P023,Coffee Maker,Appliances,Kitchen,3,97.81,0.03,284.63,Online,,28-07-2024,Standard,Credit Card,No
+ORD100308,30-10-2023,C1187,Customer_365,Pune,West,P030,Laptop Sleeve,Electronics,Accessories,5,20.25,0,101.25,Online,Sneha Kapoor,08-11-2023,Standard,NetBanking,No
+ORD100141,20-05-2024,C1163,Customer_342,Jaipur,North,P020,SSD 512GB,Electronics,Storage,2,114.75,0,229.5,Online,Priya Singh,26-05-2024,Standard,Cash,No
+ORD100864,15-10-2023,C1219,Customer_405,Pune,West,P017,Whiteboard,Office Supplies,Boards,1,68.61,0,68.61,Offline,Lina Das,23-10-2023,SameDay,UPI,No
+ORD100183,27-10-2024,C1121,Customer_155,Mumbai,West,P025,Project Mouse,Electronics,Accessories,2,23.75,0,47.5,Online,Saurabh Sen,01-11-2024,Standard,UPI,No
+ORD101175,02-04-2023,C1153,Customer_391,Hyderabad,South,P019,External HDD 1TB,Electronics,Storage,6,95.89,0,575.34,Online,Lina Das,05-04-2023,Express,Cash,No
+ORD101010,14-10-2024,C1244,Customer_82,Kolkata,East,P010,Notebook Pack,Office Supplies,Paper,1,12.63,0.05,12,Online,Neha Sharma,17-10-2024,Standard,NetBanking,No
+ORD100912,15-03-2024,C1128,Customer_59,Kolkata,East,P025,Project Mouse,Electronics,Accessories,4,27.19,0.03,105.5,Online,,16-03-2024,SameDay,Cash,No
+ORD100848,23-05-2024,C1179,Customer_496,Chennai,South,P019,External HDD 1TB,Electronics,Storage,3,82.06,0,246.18,Offline,Sneha Kapoor,25-05-2024,Express,Cash,No
+ORD100511,29-12-2023,C1023,Customer_304,Hyderabad,South,P026,Binder,Office Supplies,Stationery,2,3.45,0.05,6.55,Offline,Karan Mehta,29-12-2023,SameDay,NetBanking,No
+ORD100731,29-11-2023,C1045,Customer_56,Bengaluru,South,P007,Office Table,Furniture,Tables,2,272.79,0.15,463.74,Offline,Vikram Rao,08-12-2023,SameDay,Cash,No
+ORD100996,16-03-2023,C1136,Customer_43,Hyderabad,South,P019,External HDD 1TB,Electronics,Storage,6,87.16,0,522.96,Online,,18-03-2023,SameDay,Credit Card,No
+ORD100887,30-01-2023,C1131,Customer_340,Bengaluru,South,P008,Printer A,Electronics,Printers,4,212.87,0,851.48,Online,,04-02-2023,Express,UPI,No
+ORD100117,01-06-2024,C1173,Customer_348,Kolkata,East,P021,Mouse,Electronics,Accessories,3,21.15,0.05,60.28,Offline,Rita Patel,03-06-2024,SameDay,NetBanking,No
+ORD101025,19-07-2024,C1208,Customer_107,Bengaluru,South,P030,Laptop Sleeve,Electronics,Accessories,4,23.07,0.05,87.67,Offline,Saurabh Sen,22-07-2024,SameDay,Cash,No
+ORD100113,25-03-2024,C1165,Customer_443,Bengaluru,South,P025,Project Mouse,Electronics,Accessories,5,21.87,0.03,106.07,Offline,Rita Patel,29-03-2024,SameDay,Cash,No
+ORD100545,14-04-2023,C1044,Customer_74,Pune,West,P024,Water Cooler,Appliances,Kitchen,4,208.5,0,834,Offline,Vikram Rao,20-04-2023,SameDay,Cash,No
+ORD100165,28-09-2024,C1119,Customer_27,Chennai,South,P007,Office Table,Furniture,Tables,4,235.1,0,940.4,Offline,Rahul Jain,06-10-2024,SameDay,NetBanking,No
+ORD100184,21-01-2024,C1176,Customer_483,Lucknow,North,P029,Desk Organizer,Office Supplies,Storage,3,17.81,0.1,48.09,Online,Neha Sharma,23-01-2024,Standard,NetBanking,No
+ORD100274,07-06-2024,C1279,Customer_193,Mumbai,West,P009,Desk Lamp,Office Supplies,Lamps,3,35.66,0,106.98,Online,Neha Sharma,15-06-2024,Express,NetBanking,No
+ORD101001,14-03-2024,C1267,Customer_231,Chennai,South,P029,Desk Organizer,Office Supplies,Storage,2,17.38,0.03,33.72,Offline,,18-03-2024,Standard,Cash,No
+ORD100704,17-08-2024,C1234,Customer_197,Hyderabad,South,P029,Desk Organizer,Office Supplies,Storage,2,15.9,0,31.8,Offline,Neha Sharma,24-08-2024,Standard,Cash,No
+ORD101024,16-03-2023,C1110,Customer_390,Delhi,North,P030,Laptop Sleeve,Electronics,Accessories,1,24.39,0.1,21.95,Online,Lina Das,20-03-2023,Express,NetBanking,No
+ORD100383,17-09-2023,C1021,Customer_435,Delhi,North,P020,SSD 512GB,Electronics,Storage,1,124.79,0,124.79,Online,,20-09-2023,SameDay,Cash,No
+ORD100561,01-08-2024,C1266,Customer_70,Pune,West,P027,Calculator,Office Supplies,Electronics,5,16.07,0.05,76.33,Offline,Sneha Kapoor,05-08-2024,Express,Credit Card,No
+ORD100862,25-07-2024,C1139,Customer_418,Ahmedabad,West,P013,Router,Electronics,Networking,5,93.4,0.03,452.99,Offline,Rahul Jain,30-07-2024,SameDay,Cash,No
+ORD101044,21-10-2024,C1116,Customer_15,Jaipur,North,P021,Mouse,Electronics,Accessories,2,17.01,0.03,33,Offline,Rahul Jain,29-10-2024,SameDay,NetBanking,No
+ORD100176,21-05-2023,C1029,Customer_287,Ahmedabad,West,P004,Smartphone B,Electronics,Phones,1,374.53,0,374.53,Offline,Priya Singh,28-05-2023,Express,Credit Card,No
+ORD100379,01-03-2023,C1300,Customer_442,Jaipur,North,P026,Binder,Office Supplies,Stationery,2,3.84,0.03,7.45,Offline,Lina Das,02-03-2023,Standard,UPI,No
+ORD101016,26-12-2024,C1205,Customer_217,Mumbai,West,P028,Phone Stand,electronics,Accessories,2,11.66,0,23.32,Online,Karan Mehta,02-01-2025,SameDay,Cash,No
+ORD100519,25-03-2023,C1112,Customer_38,Hyderabad,South,P014,Webcam,Electronics,Accessories,2,56,0,112,Online,,02-04-2023,Standard,Credit Card,No
+ORD100830,17-12-2023,C1280,Customer_445,Ahmedabad,West,P007,Office Table,Furniture,Tables,4,239.26,0,957.04,Online,Rahul Jain,23-12-2023,Express,Credit Card,No
+ORD100507,24-03-2024,C1008,Customer_19,Ahmedabad,West,P002,Laptop B,Electronics,Laptops,3,935.88,0.03,2723.41,Online,Rita Patel,26-03-2024,SameDay,UPI,No
+ORD101176,30-04-2024,C1206,Customer_238,Kolkata,East,P016,Filing Cabinet,Furniture,Storage,6,280.08,0,1680.48,Online,Lina Das,01-05-2024,SameDay,UPI,No
+ORD100413,23-10-2024,C1094,Customer_453,Jaipur,North,P003,Smartphone A,Electronics,Phones,6,744.51,0,4467.06,Offline,,24-10-2024,Express,Cash,Yes
+ORD100622,04-09-2023,C1221,Customer_213,Kolkata,East,P015,Projector,Electronics,AV,5,629.09,0.05,2988.18,Offline,Lina Das,07-09-2023,Express,Credit Card,No
+ORD100872,25-08-2023,C1026,Customer_133,Pune,West,P028,Phone Stand,Electronics ,Accessories,2,12.24,0.05,23.26,Online,Rahul Jain,03-09-2023,SameDay,UPI,No
+ORD100858,11-10-2023,C1279,Customer_3,Mumbai,West,P006,Office Chair,Furniture,Chairs,4,150.82,0,603.28,Online,,18-10-2023,SameDay,Credit Card,No
+ORD100641,08-07-2023,C1167,Customer_265,Ahmedabad,West,P024,Water Cooler,Appliances,Kitchen,4,234.97,0,939.88,Online,Karan Mehta,11-07-2023,SameDay,NetBanking,No
+ORD100258,31-01-2023,C1281,Customer_128,Mumbai,West,P012,Headphones,Electronics,Accessories,1,82.33,0,82.33,Offline,Vikram Rao,06-02-2023,Standard,Credit Card,No
+ORD100834,11-03-2023,C1291,Customer_205,Mumbai,West,P029,Desk Organizer,Office Supplies,Storage,2,20.17,0.05,38.32,Online,,14-03-2023,SameDay,Credit Card,No
+ORD100662,08-06-2024,C1039,Customer_276,Bengaluru,South,P029,Desk Organizer,Office Supplies,Storage,4,20.49,,81.96,Offline,Saurabh Sen,17-06-2024,SameDay,Cash,No
+ORD100337,15-12-2024,C1079,Customer_21,Mumbai,West,P017,Whiteboard,Office Supplies,Boards,1,67.48,0,67.48,Offline,Vikram Rao,17-12-2024,Standard,NetBanking,No
+ORD100398,08-01-2023,C1177,Customer_247,Lucknow,North,P005,"Monitor 24""",Electronics,Monitors,1,155.25,0.05,147.49,Online,Lina Das,10-01-2023,SameDay,Cash,No
+ORD100605,06-08-2023,C1075,Customer_64,Mumbai,West,P029,Desk Organizer,Office Supplies,Storage,7,18.44,0,129.08,Offline,Karan Mehta,13-08-2023,SameDay,Cash,No
+ORD100480,16-10-2023,C1176,Customer_46,Kolkata,East,P020,SSD 512GB,Electronics,Storage,4,106.55,0,426.2,Online,,23-10-2023,Express,UPI,No
+ORD101143,10-05-2024,C1007,Customer_486,Bengaluru,South,P012,Headphones,Electronics,Accessories,2,69.43,0.05,131.92,Offline,Lina Das,16-05-2024,SameDay,NetBanking,No
+ORD100917,19-04-2023,C1264,Customer_153,Lucknow,North,P012,Headphones,Electronics,Accessories,3,83.87,0,251.61,Online,,19-04-2023,Express,Cash,No
+ORD101017,27-12-2023,C1273,Customer_498,Pune,West,P025,Project Mouse,Electronics,Accessories,4,24.03,0.1,86.51,Offline,,02-01-2024,SameDay,Cash,No
+ORD100875,09-02-2024,C1105,Customer_356,Delhi,North,P024,Water Cooler,Appliances,Kitchen,2,249.58,0,499.16,Offline,,10-02-2024,Standard,UPI,No
+ORD100659,04-01-2024,C1071,Customer_372,Ahmedabad,West,P027,Calculator,Office Supplies,Electronics,5,12.86,0,64.3,Offline,Amit Verma,13-01-2024,SameDay,Credit Card,No
+ORD101021,04-06-2023,C1140,Customer_177,Mumbai,West,P004,Smartphone B,Electronics,Phones,2,455.92,0.1,820.66,Offline,Sneha Kapoor,05-06-2023,SameDay,Credit Card,No
+ORD100789,28-09-2023,C1126,Customer_164,Lucknow,North,P014,Webcam,Electronics,Accessories,1,43.17,0.03,41.87,Offline,,06-10-2023,Standard,UPI,No
+ORD100256,29-12-2023,C1106,Customer_232,Bengaluru,South,P003,Smartphone A,Electronics,Phones,6,599.04,0,3594.24,Online,Rahul Jain,03-01-2024,Express,Cash,No
+ORD100968,03-06-2024,C1080,Customer_430,Hyderabad,South,P013,Router,Electronics,Networking,1,104.67,0,104.67,Offline,,07-06-2024,Standard,Credit Card,No
+ORD100952,22-07-2023,C1090,Customer_261,Lucknow,North,P025,Project Mouse,Electronics,Accessories,5,27.19,0,135.95,Online,Rahul Jain,31-07-2023,SameDay,UPI,No
